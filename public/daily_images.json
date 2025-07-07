@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "rhinoceros",
+    "name": "robin",
     "facts": [
-      "All five rhino species are threatened by poaching, with three critically endangered.",
-      "They communicate through grunts, snorts, and even infrasound below human hearing.",
-      "Rhinos have thick skin, but it can be sensitive to sunburn and insect bites, leading them to wallow in mud.",
-      "Rhino horns are made of keratin, the same protein as human hair and nails."
+      "Robins sing year-round, with males using song to establish territory and attract mates.",
+      "They are one of the first birds to sing at dawn, earning them the nickname 'the early bird.'",
+      "They are territorial and will aggressively defend their feeding areas in winter.",
+      "Robins are known for their red breasts, which are brighter in males during breeding season."
     ],
     "images": [
-      "https://images.pexels.com/photos/16040/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/631292/pexels-photo-631292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/46166/robin-european-robin-erithacus-rubecula-red-46166.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/416179/pexels-photo-416179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "06-30",
-      "name": "puffin",
-      "facts": [
-        "They nest in burrows on cliffs and return to the same site year after year.",
-        "Puffins are seabirds with colorful beaks that brighten during mating season.",
-        "They can carry dozens of small fish crosswise in their beaks at once.",
-        "Puffins are excellent swimmers, using their wings to 'fly' underwater."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/1159577/pexels-photo-1159577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/2710186/pexels-photo-2710186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "07-01",
       "name": "raccoon",
       "facts": [
+        "Raccoons 'wash' their food in water, not for cleanliness but to enhance tactile exploration.",
         "They are omnivorous and will eat almost anything, including garbage.",
         "Raccoons are highly intelligent and have dexterous front paws that function like hands.",
-        "They are excellent climbers and can descend trees headfirst.",
-        "Raccoons 'wash' their food in water, not for cleanliness but to enhance tactile exploration."
+        "They are excellent climbers and can descend trees headfirst."
       ],
       "images": [
         "https://images.pexels.com/photos/54602/raccoon-bear-zoo-saeugentier-54602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,10 +31,10 @@
       "date": "07-02",
       "name": "ragdoll cat",
       "facts": [
-        "Ragdoll cats go limp when picked up, giving them their name.",
         "They are one of the largest domesticated cat breeds, with males weighing up to 20 pounds.",
         "They are known for their gentle, docile temperament and affectionate nature.",
-        "Ragdolls have striking blue eyes and pointed coloration like Siamese cats."
+        "Ragdolls have striking blue eyes and pointed coloration like Siamese cats.",
+        "Ragdoll cats go limp when picked up, giving them their name."
       ],
       "images": [
         "https://images.pexels.com/photos/1643457/pexels-photo-1643457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -59,8 +45,8 @@
       "date": "07-03",
       "name": "rattlesnake",
       "facts": [
-        "They can control the amount of venom injected, sometimes delivering 'dry' bites as warnings.",
         "Rattlesnakes give live birth, unlike many snakes that lay eggs.",
+        "They can control the amount of venom injected, sometimes delivering 'dry' bites as warnings.",
         "They are pit vipers, with heat-sensing organs to detect warm-blooded prey.",
         "Rattlesnakes have a rattle made of keratin segments that add a new one each time they shed."
       ],
@@ -73,10 +59,10 @@
       "date": "07-04",
       "name": "raven",
       "facts": [
-        "Ravens are among the smartest birds, capable of problem-solving and tool use.",
-        "They can mimic human speech and other sounds, though not as well as parrots.",
+        "In mythology, they are often symbols of wisdom or trickery.",
         "Ravens play games, such as sliding down snowbanks or dropping sticks in flight to catch them.",
-        "In mythology, they are often symbols of wisdom or trickery."
+        "They can mimic human speech and other sounds, though not as well as parrots.",
+        "Ravens are among the smartest birds, capable of problem-solving and tool use."
       ],
       "images": [
         "https://images.pexels.com/photos/946344/pexels-photo-946344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,10 +73,10 @@
       "date": "07-05",
       "name": "red panda",
       "facts": [
+        "Red pandas are not closely related to giant pandas but share a bamboo-heavy diet.",
         "They have a false thumb, an extended wrist bone, to help grip bamboo.",
-        "They are endangered, with fewer than 10,000 left in the wild due to habitat loss.",
         "Red pandas are solitary and mark territory with scent glands on their feet.",
-        "Red pandas are not closely related to giant pandas but share a bamboo-heavy diet."
+        "They are endangered, with fewer than 10,000 left in the wild due to habitat loss."
       ],
       "images": [
         "https://images.pexels.com/photos/2265247/pexels-photo-2265247.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,38 +87,52 @@
       "date": "07-06",
       "name": "rhinoceros",
       "facts": [
-        "Rhino horns are made of keratin, the same protein as human hair and nails.",
-        "They communicate through grunts, snorts, and even infrasound below human hearing.",
         "Rhinos have thick skin, but it can be sensitive to sunburn and insect bites, leading them to wallow in mud.",
+        "They communicate through grunts, snorts, and even infrasound below human hearing.",
+        "Rhino horns are made of keratin, the same protein as human hair and nails.",
         "All five rhino species are threatened by poaching, with three critically endangered."
       ],
       "images": [
         "https://images.pexels.com/photos/16040/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/631292/pexels-photo-631292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "07-07",
+      "name": "robin",
+      "facts": [
+        "They are one of the first birds to sing at dawn, earning them the nickname 'the early bird.'",
+        "Robins are known for their red breasts, which are brighter in males during breeding season.",
+        "They are territorial and will aggressively defend their feeding areas in winter.",
+        "Robins sing year-round, with males using song to establish territory and attract mates."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/46166/robin-european-robin-erithacus-rubecula-red-46166.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/416179/pexels-photo-416179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "chameleon",
+      "name": "hippo",
       "facts": [
-        "They change color based on mood, temperature, and communication, not just camouflage.",
-        "Some chameleons are smaller than your thumb when fully grown.",
-        "Their tongues can extend to twice their body length in milliseconds.",
-        "Chameleons can move their eyes independently to look in two directions at once."
+        "Hippos are the third-largest land mammals, after elephants and white rhinos.",
+        "Despite their size, they can run up to 20 mph on land.",
+        "Hippos secrete a natural sunscreen that looks like blood but is actually red sweat.",
+        "They spend most of their day in water to keep their massive bodies cool."
       ],
       "images": [
-        "https://images.pexels.com/photos/62289/yemen-chameleon-chamaeleo-calyptratus-chameleon-reptile-62289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/1695717/pexels-photo-1695717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/46540/hippo-hippopotamus-animal-look-46540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/667201/pexels-photo-667201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
       "name": "turkey",
       "facts": [
         "They have excellent vision and can see in color, with a nearly 360-degree field of view.",
-        "Wild turkeys can fly short distances at speeds of up to 55 mph.",
         "Benjamin Franklin once proposed the turkey as the national bird of the United States.",
-        "Male turkeys, called toms, puff up their feathers and fan their tails to attract females."
+        "Male turkeys, called toms, puff up their feathers and fan their tails to attract females.",
+        "Wild turkeys can fly short distances at speeds of up to 55 mph."
       ],
       "images": [
         "https://images.pexels.com/photos/2048865/pexels-photo-2048865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -140,16 +140,16 @@
       ]
     },
     {
-      "name": "horse",
+      "name": "gecko",
       "facts": [
-        "Horses can sleep both lying down and standing up, thanks to a 'stay apparatus' in their legs.",
-        "They have the largest eyes of any land mammal, giving them a wide field of vision.",
-        "Horses communicate through facial expressions, ear movements, and vocalizations.",
-        "The Przewalski's horse is the only truly wild horse species left in the world."
+        "Geckos can walk on any surface, including glass and ceilings.",
+        "They don't have eyelids and clean their eyes with their tongues.",
+        "Most geckos can detach their tails if grabbed by a predator.",
+        "They're the only lizards that can vocalize and make chirping sounds."
       ],
       "images": [
-        "https://images.pexels.com/photos/1996333/pexels-photo-1996333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/53114/horse-arabs-stallion-ride-53114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/407037/gecko-reptile-terrarium-lizard-407037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2078845/pexels-photo-2078845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
