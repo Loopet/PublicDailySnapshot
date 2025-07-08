@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "robin",
+    "name": "rook",
     "facts": [
-      "Robins sing year-round, with males using song to establish territory and attract mates.",
-      "They are one of the first birds to sing at dawn, earning them the nickname 'the early bird.'",
-      "They are territorial and will aggressively defend their feeding areas in winter.",
-      "Robins are known for their red breasts, which are brighter in males during breeding season."
+      "They form lifelong pair bonds and often stay with the same mate for life.",
+      "Rooks have pale, featherless faces that distinguish them from other crows.",
+      "They are among the most intelligent birds and can use simple tools.",
+      "Rooks are highly social corvids that nest in large colonies called rookeries."
     ],
     "images": [
-      "https://images.pexels.com/photos/46166/robin-european-robin-erithacus-rubecula-red-46166.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/416179/pexels-photo-416179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/32608898/pexels-photo-32608898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32602518/pexels-photo-32602518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "07-01",
-      "name": "raccoon",
-      "facts": [
-        "Raccoons 'wash' their food in water, not for cleanliness but to enhance tactile exploration.",
-        "They are omnivorous and will eat almost anything, including garbage.",
-        "Raccoons are highly intelligent and have dexterous front paws that function like hands.",
-        "They are excellent climbers and can descend trees headfirst."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/54602/raccoon-bear-zoo-saeugentier-54602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/634255/pexels-photo-634255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "07-02",
       "name": "ragdoll cat",
       "facts": [
-        "They are one of the largest domesticated cat breeds, with males weighing up to 20 pounds.",
         "They are known for their gentle, docile temperament and affectionate nature.",
-        "Ragdolls have striking blue eyes and pointed coloration like Siamese cats.",
-        "Ragdoll cats go limp when picked up, giving them their name."
+        "Ragdoll cats go limp when picked up, giving them their name.",
+        "They are one of the largest domesticated cat breeds, with males weighing up to 20 pounds.",
+        "Ragdolls have striking blue eyes and pointed coloration like Siamese cats."
       ],
       "images": [
         "https://images.pexels.com/photos/1643457/pexels-photo-1643457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -46,8 +32,8 @@
       "name": "rattlesnake",
       "facts": [
         "Rattlesnakes give live birth, unlike many snakes that lay eggs.",
-        "They can control the amount of venom injected, sometimes delivering 'dry' bites as warnings.",
         "They are pit vipers, with heat-sensing organs to detect warm-blooded prey.",
+        "They can control the amount of venom injected, sometimes delivering 'dry' bites as warnings.",
         "Rattlesnakes have a rattle made of keratin segments that add a new one each time they shed."
       ],
       "images": [
@@ -73,10 +59,10 @@
       "date": "07-05",
       "name": "red panda",
       "facts": [
-        "Red pandas are not closely related to giant pandas but share a bamboo-heavy diet.",
-        "They have a false thumb, an extended wrist bone, to help grip bamboo.",
+        "They are endangered, with fewer than 10,000 left in the wild due to habitat loss.",
         "Red pandas are solitary and mark territory with scent glands on their feet.",
-        "They are endangered, with fewer than 10,000 left in the wild due to habitat loss."
+        "They have a false thumb, an extended wrist bone, to help grip bamboo.",
+        "Red pandas are not closely related to giant pandas but share a bamboo-heavy diet."
       ],
       "images": [
         "https://images.pexels.com/photos/2265247/pexels-photo-2265247.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,10 +73,10 @@
       "date": "07-06",
       "name": "rhinoceros",
       "facts": [
-        "Rhinos have thick skin, but it can be sensitive to sunburn and insect bites, leading them to wallow in mud.",
         "They communicate through grunts, snorts, and even infrasound below human hearing.",
-        "Rhino horns are made of keratin, the same protein as human hair and nails.",
-        "All five rhino species are threatened by poaching, with three critically endangered."
+        "Rhinos have thick skin, but it can be sensitive to sunburn and insect bites, leading them to wallow in mud.",
+        "All five rhino species are threatened by poaching, with three critically endangered.",
+        "Rhino horns are made of keratin, the same protein as human hair and nails."
       ],
       "images": [
         "https://images.pexels.com/photos/16040/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -110,46 +96,60 @@
         "https://images.pexels.com/photos/46166/robin-european-robin-erithacus-rubecula-red-46166.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/416179/pexels-photo-416179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "07-08",
+      "name": "rook",
+      "facts": [
+        "Rooks are highly social corvids that nest in large colonies called rookeries.",
+        "They form lifelong pair bonds and often stay with the same mate for life.",
+        "Rooks have pale, featherless faces that distinguish them from other crows.",
+        "They are among the most intelligent birds and can use simple tools."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/32608898/pexels-photo-32608898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/32602518/pexels-photo-32602518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "hippo",
+      "name": "peregrine falcon",
       "facts": [
-        "Hippos are the third-largest land mammals, after elephants and white rhinos.",
-        "Despite their size, they can run up to 20 mph on land.",
-        "Hippos secrete a natural sunscreen that looks like blood but is actually red sweat.",
-        "They spend most of their day in water to keep their massive bodies cool."
+        "The peregrine falcon is the fastest animal in the world, reaching speeds of over 320 km/h (200 mph) during its hunting dive ('stoop').",
+        "It hunts other birds, catching them in flight, and its eyes are so adapted that it can see prey from a very long distance.",
+        "Peregrine falcons nest on high cliffs and buildings, which provides them with an excellent vantage point.",
+        "The peregrine falcon population significantly declined in the mid-20th century due to pesticides, but has been rebuilt through conservation programs."
       ],
       "images": [
-        "https://images.pexels.com/photos/46540/hippo-hippopotamus-animal-look-46540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/667201/pexels-photo-667201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/1387045/pexels-photo-1387045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/6272236/pexels-photo-6272236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "turkey",
+      "name": "frilled lizard",
       "facts": [
-        "They have excellent vision and can see in color, with a nearly 360-degree field of view.",
-        "Benjamin Franklin once proposed the turkey as the national bird of the United States.",
-        "Male turkeys, called toms, puff up their feathers and fan their tails to attract females.",
-        "Wild turkeys can fly short distances at speeds of up to 55 mph."
+        "They spend most of their time in trees and are excellent climbers.",
+        "Their frill can expand to 4 times the width of their body when threatened.",
+        "Frilled lizards can run on their hind legs when escaping predators.",
+        "The frill is made of cartilage and is usually folded against their neck."
       ],
       "images": [
-        "https://images.pexels.com/photos/2048865/pexels-photo-2048865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/917595/pexels-photo-917595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/18793079/pexels-photo-18793079.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/6821455/pexels-photo-6821455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "gecko",
+      "name": "caribou",
       "facts": [
-        "Geckos can walk on any surface, including glass and ceilings.",
-        "They don't have eyelids and clean their eyes with their tongues.",
-        "Most geckos can detach their tails if grabbed by a predator.",
-        "They're the only lizards that can vocalize and make chirping sounds."
+        "Both male and female caribou grow antlers, unlike other deer species.",
+        "Caribou undertake the longest migration of any land animal, up to 3,000 miles annually.",
+        "They have special hooves that spread wide to act like snowshoes.",
+        "Caribou can run up to 50 mph and are excellent swimmers."
       ],
       "images": [
-        "https://images.pexels.com/photos/407037/gecko-reptile-terrarium-lizard-407037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/2078845/pexels-photo-2078845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/29823044/pexels-photo-29823044.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/16752485/pexels-photo-16752485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
