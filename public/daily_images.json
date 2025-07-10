@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "rottweiler",
+    "name": "sable",
     "facts": [
-      "Rottweilers are descended from Roman war dogs and were used to herd cattle.",
-      "Despite their tough appearance, they are affectionate with their families.",
-      "They are powerfully built dogs with a natural guarding instinct.",
-      "Rottweilers were one of the first police dogs and are still used in K-9 units today."
+      "Sables are small, agile members of the weasel family with luxurious fur.",
+      "They are solitary animals with large territories that they mark with scent.",
+      "They are excellent climbers and swimmers, hunting both in trees and water.",
+      "Sables were once nearly hunted to extinction for their valuable fur."
     ],
     "images": [
-      "https://images.pexels.com/photos/170325/pexels-photo-170325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/1959052/pexels-photo-1959052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/236622/pexels-photo-236622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2382876/pexels-photo-2382876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
-    {
-      "date": "07-03",
-      "name": "rattlesnake",
-      "facts": [
-        "Rattlesnakes have a rattle made of keratin segments that add a new one each time they shed.",
-        "They are pit vipers, with heat-sensing organs to detect warm-blooded prey.",
-        "Rattlesnakes give live birth, unlike many snakes that lay eggs.",
-        "They can control the amount of venom injected, sometimes delivering 'dry' bites as warnings."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/36714/snake-rattlesnake-reptile-skin.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/2618894/pexels-photo-2618894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
     {
       "date": "07-04",
       "name": "raven",
       "facts": [
         "In mythology, they are often symbols of wisdom or trickery.",
-        "Ravens play games, such as sliding down snowbanks or dropping sticks in flight to catch them.",
         "They can mimic human speech and other sounds, though not as well as parrots.",
-        "Ravens are among the smartest birds, capable of problem-solving and tool use."
+        "Ravens are among the smartest birds, capable of problem-solving and tool use.",
+        "Ravens play games, such as sliding down snowbanks or dropping sticks in flight to catch them."
       ],
       "images": [
         "https://images.pexels.com/photos/946344/pexels-photo-946344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,10 +31,10 @@
       "date": "07-05",
       "name": "red panda",
       "facts": [
-        "Red pandas are not closely related to giant pandas but share a bamboo-heavy diet.",
+        "Red pandas are solitary and mark territory with scent glands on their feet.",
         "They have a false thumb, an extended wrist bone, to help grip bamboo.",
-        "They are endangered, with fewer than 10,000 left in the wild due to habitat loss.",
-        "Red pandas are solitary and mark territory with scent glands on their feet."
+        "Red pandas are not closely related to giant pandas but share a bamboo-heavy diet.",
+        "They are endangered, with fewer than 10,000 left in the wild due to habitat loss."
       ],
       "images": [
         "https://images.pexels.com/photos/2265247/pexels-photo-2265247.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -59,10 +45,10 @@
       "date": "07-06",
       "name": "rhinoceros",
       "facts": [
-        "Rhino horns are made of keratin, the same protein as human hair and nails.",
+        "They communicate through grunts, snorts, and even infrasound below human hearing.",
         "Rhinos have thick skin, but it can be sensitive to sunburn and insect bites, leading them to wallow in mud.",
         "All five rhino species are threatened by poaching, with three critically endangered.",
-        "They communicate through grunts, snorts, and even infrasound below human hearing."
+        "Rhino horns are made of keratin, the same protein as human hair and nails."
       ],
       "images": [
         "https://images.pexels.com/photos/16040/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,10 +59,10 @@
       "date": "07-07",
       "name": "robin",
       "facts": [
-        "They are territorial and will aggressively defend their feeding areas in winter.",
         "Robins sing year-round, with males using song to establish territory and attract mates.",
-        "Robins are known for their red breasts, which are brighter in males during breeding season.",
-        "They are one of the first birds to sing at dawn, earning them the nickname 'the early bird.'"
+        "They are one of the first birds to sing at dawn, earning them the nickname 'the early bird.'",
+        "They are territorial and will aggressively defend their feeding areas in winter.",
+        "Robins are known for their red breasts, which are brighter in males during breeding season."
       ],
       "images": [
         "https://images.pexels.com/photos/46166/robin-european-robin-erithacus-rubecula-red-46166.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,10 +73,10 @@
       "date": "07-08",
       "name": "rook",
       "facts": [
-        "They are among the most intelligent birds and can use simple tools.",
-        "They form lifelong pair bonds and often stay with the same mate for life.",
         "Rooks have pale, featherless faces that distinguish them from other crows.",
-        "Rooks are highly social corvids that nest in large colonies called rookeries."
+        "Rooks are highly social corvids that nest in large colonies called rookeries.",
+        "They are among the most intelligent birds and can use simple tools.",
+        "They form lifelong pair bonds and often stay with the same mate for life."
       ],
       "images": [
         "https://images.pexels.com/photos/32608898/pexels-photo-32608898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -102,54 +88,68 @@
       "name": "rottweiler",
       "facts": [
         "Despite their tough appearance, they are affectionate with their families.",
-        "Rottweilers were one of the first police dogs and are still used in K-9 units today.",
+        "Rottweilers are descended from Roman war dogs and were used to herd cattle.",
         "They are powerfully built dogs with a natural guarding instinct.",
-        "Rottweilers are descended from Roman war dogs and were used to herd cattle."
+        "Rottweilers were one of the first police dogs and are still used in K-9 units today."
       ],
       "images": [
         "https://images.pexels.com/photos/170325/pexels-photo-170325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/1959052/pexels-photo-1959052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "07-10",
+      "name": "sable",
+      "facts": [
+        "They are solitary animals with large territories that they mark with scent.",
+        "Sables are small, agile members of the weasel family with luxurious fur.",
+        "They are excellent climbers and swimmers, hunting both in trees and water.",
+        "Sables were once nearly hunted to extinction for their valuable fur."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/236622/pexels-photo-236622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2382876/pexels-photo-2382876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "water buffalo",
+      "name": "albatross",
       "facts": [
-        "Wild water buffaloes are endangered; only 3,400 remain in fragmented habitats.",
-        "Domesticated for 5,000 years, they provide more milk than dairy cows in some regions.",
-        "They wallow in water to cool down and deter biting insects.",
-        "Water buffaloes have wide-splayed hooves preventing sinking in mud."
+        "They have the largest wingspan of any living bird, reaching up to 12 feet.",
+        "Albatrosses can fly for hours without flapping their wings, using dynamic soaring.",
+        "They can sleep while flying by shutting down half their brain at a time.",
+        "These birds can live over 60 years and mate for life."
       ],
       "images": [
-        "https://images.pexels.com/photos/27721295/pexels-photo-27721295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/2464145/pexels-photo-2464145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/51536/pexels-photo-51536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/4881621/pexels-photo-4881621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "water monitor",
+      "name": "blue-footed booby",
       "facts": [
-        "They are very intelligent reptiles that can open locks and learn from humans.",
-        "The water monitor is a large lizard from Asia, an excellent swimmer and diver, capable of staying underwater for a long time.",
-        "They can reach up to 3 meters (10 feet) in length and are often found near water.",
-        "They are predators, feeding on fish, birds, small mammals, eggs, and carrion."
+        "Their nostrils are permanently closed, and they breathe through the corners of their beak, which prevents water from entering during dives.",
+        "Blue-footed boobies are seabirds from the Pacific, known for their bright blue feet, which play a role in courtship.",
+        "They are excellent divers, plunging from heights of up to 24 meters (80 feet) to catch fish.",
+        "Males perform an elaborate courtship dance, displaying their blue feet to attract females."
       ],
       "images": [
-        "https://images.pexels.com/photos/17690917/pexels-photo-17690917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/3992776/pexels-photo-3992776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/18426872/pexels-photo-18426872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/12331242/pexels-photo-12331242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "snow leopard",
+      "name": "basset hound",
       "facts": [
-        "Snow leopards are known as 'ghosts of the mountains' due to their elusive nature.",
-        "They have thick fur and wide, fur-covered feet that act as natural snowshoes.",
-        "Snow leopards can leap up to 50 feet in a single bound.",
-        "They are unable to roar but communicate with chuffing sounds and growls."
+        "Their short legs and long body make them excellent at following trails slowly.",
+        "They were originally bred in France for hunting small game.",
+        "Basset hounds have the second-best sense of smell among all dog breeds.",
+        "Their long ears help sweep scents from the ground toward their nose."
       ],
       "images": [
-        "https://images.pexels.com/photos/267074/pexels-photo-267074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/751820/pexels-photo-751820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/1582835/pexels-photo-1582835.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/786773/pexels-photo-786773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
