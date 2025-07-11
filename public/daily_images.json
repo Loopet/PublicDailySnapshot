@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "sable",
+    "name": "salmon",
     "facts": [
-      "Sables are small, agile members of the weasel family with luxurious fur.",
-      "They are solitary animals with large territories that they mark with scent.",
-      "They are excellent climbers and swimmers, hunting both in trees and water.",
-      "Sables were once nearly hunted to extinction for their valuable fur."
+      "After spawning, most Pacific salmon die, while some Atlantic salmon may survive to spawn again.",
+      "They use Earth's magnetic field and smell to navigate back to their birthplace.",
+      "Salmon are a keystone species, providing nutrients to forests when their carcasses decompose.",
+      "Salmon are anadromous, meaning they migrate from saltwater to freshwater to spawn."
     ],
     "images": [
-      "https://images.pexels.com/photos/236622/pexels-photo-236622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/2382876/pexels-photo-2382876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/842142/pexels-photo-842142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1683545/pexels-photo-1683545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "07-04",
-      "name": "raven",
-      "facts": [
-        "In mythology, they are often symbols of wisdom or trickery.",
-        "They can mimic human speech and other sounds, though not as well as parrots.",
-        "Ravens are among the smartest birds, capable of problem-solving and tool use.",
-        "Ravens play games, such as sliding down snowbanks or dropping sticks in flight to catch them."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/946344/pexels-photo-946344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/953150/pexels-photo-953150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "07-05",
       "name": "red panda",
       "facts": [
+        "They are endangered, with fewer than 10,000 left in the wild due to habitat loss.",
         "Red pandas are solitary and mark territory with scent glands on their feet.",
         "They have a false thumb, an extended wrist bone, to help grip bamboo.",
-        "Red pandas are not closely related to giant pandas but share a bamboo-heavy diet.",
-        "They are endangered, with fewer than 10,000 left in the wild due to habitat loss."
+        "Red pandas are not closely related to giant pandas but share a bamboo-heavy diet."
       ],
       "images": [
         "https://images.pexels.com/photos/2265247/pexels-photo-2265247.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,8 +31,8 @@
       "date": "07-06",
       "name": "rhinoceros",
       "facts": [
-        "They communicate through grunts, snorts, and even infrasound below human hearing.",
         "Rhinos have thick skin, but it can be sensitive to sunburn and insect bites, leading them to wallow in mud.",
+        "They communicate through grunts, snorts, and even infrasound below human hearing.",
         "All five rhino species are threatened by poaching, with three critically endangered.",
         "Rhino horns are made of keratin, the same protein as human hair and nails."
       ],
@@ -60,9 +46,9 @@
       "name": "robin",
       "facts": [
         "Robins sing year-round, with males using song to establish territory and attract mates.",
-        "They are one of the first birds to sing at dawn, earning them the nickname 'the early bird.'",
         "They are territorial and will aggressively defend their feeding areas in winter.",
-        "Robins are known for their red breasts, which are brighter in males during breeding season."
+        "Robins are known for their red breasts, which are brighter in males during breeding season.",
+        "They are one of the first birds to sing at dawn, earning them the nickname 'the early bird.'"
       ],
       "images": [
         "https://images.pexels.com/photos/46166/robin-european-robin-erithacus-rubecula-red-46166.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,10 +59,10 @@
       "date": "07-08",
       "name": "rook",
       "facts": [
-        "Rooks have pale, featherless faces that distinguish them from other crows.",
         "Rooks are highly social corvids that nest in large colonies called rookeries.",
+        "They form lifelong pair bonds and often stay with the same mate for life.",
         "They are among the most intelligent birds and can use simple tools.",
-        "They form lifelong pair bonds and often stay with the same mate for life."
+        "Rooks have pale, featherless faces that distinguish them from other crows."
       ],
       "images": [
         "https://images.pexels.com/photos/32608898/pexels-photo-32608898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,10 +73,10 @@
       "date": "07-09",
       "name": "rottweiler",
       "facts": [
-        "Despite their tough appearance, they are affectionate with their families.",
-        "Rottweilers are descended from Roman war dogs and were used to herd cattle.",
         "They are powerfully built dogs with a natural guarding instinct.",
-        "Rottweilers were one of the first police dogs and are still used in K-9 units today."
+        "Rottweilers are descended from Roman war dogs and were used to herd cattle.",
+        "Rottweilers were one of the first police dogs and are still used in K-9 units today.",
+        "Despite their tough appearance, they are affectionate with their families."
       ],
       "images": [
         "https://images.pexels.com/photos/170325/pexels-photo-170325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -102,54 +88,68 @@
       "name": "sable",
       "facts": [
         "They are solitary animals with large territories that they mark with scent.",
-        "Sables are small, agile members of the weasel family with luxurious fur.",
+        "Sables were once nearly hunted to extinction for their valuable fur.",
         "They are excellent climbers and swimmers, hunting both in trees and water.",
-        "Sables were once nearly hunted to extinction for their valuable fur."
+        "Sables are small, agile members of the weasel family with luxurious fur."
       ],
       "images": [
         "https://images.pexels.com/photos/236622/pexels-photo-236622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/2382876/pexels-photo-2382876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "07-11",
+      "name": "salmon",
+      "facts": [
+        "Salmon are anadromous, meaning they migrate from saltwater to freshwater to spawn.",
+        "They use Earth's magnetic field and smell to navigate back to their birthplace.",
+        "After spawning, most Pacific salmon die, while some Atlantic salmon may survive to spawn again.",
+        "Salmon are a keystone species, providing nutrients to forests when their carcasses decompose."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/842142/pexels-photo-842142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/1683545/pexels-photo-1683545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "albatross",
+      "name": "stork",
       "facts": [
-        "They have the largest wingspan of any living bird, reaching up to 12 feet.",
-        "Albatrosses can fly for hours without flapping their wings, using dynamic soaring.",
-        "They can sleep while flying by shutting down half their brain at a time.",
-        "These birds can live over 60 years and mate for life."
+        "In folklore, storks are said to deliver babies, a myth originating in Europe.",
+        "Storks are known for their long legs and necks, which help them wade through water to catch prey.",
+        "They are mute and communicate by clattering their bills together.",
+        "Storks are monogamous and often return to the same nest year after year."
       ],
       "images": [
-        "https://images.pexels.com/photos/51536/pexels-photo-51536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/4881621/pexels-photo-4881621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/220855/pexels-photo-220855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/35060/stork-bird-animal-fly.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "blue-footed booby",
+      "name": "louse",
       "facts": [
-        "Their nostrils are permanently closed, and they breathe through the corners of their beak, which prevents water from entering during dives.",
-        "Blue-footed boobies are seabirds from the Pacific, known for their bright blue feet, which play a role in courtship.",
-        "They are excellent divers, plunging from heights of up to 24 meters (80 feet) to catch fish.",
-        "Males perform an elaborate courtship dance, displaying their blue feet to attract females."
+        "Nit combs from ancient Egypt (1500 BCE) show humans long battled infestations.",
+        "Lice die within 24 hours off a host, needing blood meals every 4-6 hours.",
+        "They've infested humans for 5 million years, evolving alongside hominids.",
+        "Head lice glue eggs (nits) to hair shafts with waterproof cement stronger than epoxy."
       ],
       "images": [
-        "https://images.pexels.com/photos/18426872/pexels-photo-18426872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/12331242/pexels-photo-12331242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/17476670/pexels-photo-17476670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/17477012/pexels-photo-17477012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "basset hound",
+      "name": "puffin",
       "facts": [
-        "Their short legs and long body make them excellent at following trails slowly.",
-        "They were originally bred in France for hunting small game.",
-        "Basset hounds have the second-best sense of smell among all dog breeds.",
-        "Their long ears help sweep scents from the ground toward their nose."
+        "Puffins are seabirds with colorful beaks that brighten during mating season.",
+        "They can carry dozens of small fish crosswise in their beaks at once.",
+        "Puffins are excellent swimmers, using their wings to 'fly' underwater.",
+        "They nest in burrows on cliffs and return to the same site year after year."
       ],
       "images": [
-        "https://images.pexels.com/photos/1582835/pexels-photo-1582835.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/786773/pexels-photo-786773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/1159577/pexels-photo-1159577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2710186/pexels-photo-2710186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
