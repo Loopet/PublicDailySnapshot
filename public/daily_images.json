@@ -1,32 +1,18 @@
 {
   "animalOfTheDay": {
-    "name": "sand dollar",
+    "name": "sandpiper",
     "facts": [
-      "When alive, they are covered in tiny, velvety spines that help them move and feed.",
-      "They feed by filtering tiny particles of food from the sand using their tube feet.",
-      "Sand dollars are flat sea urchins that live on the ocean floor.",
-      "The five-petal pattern seen on dead sand dollars is actually their skeletal structure."
+      "They perform elaborate aerial displays during courtship.",
+      "Sandpipers have specialized bills that can sense vibrations of prey underground.",
+      "Some species undertake incredible migrations, flying nonstop for days over open ocean.",
+      "Sandpipers are shorebirds with long bills for probing sand and mud for food."
     ],
     "images": [
-      "https://images.pexels.com/photos/6825467/pexels-photo-6825467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/6825471/pexels-photo-6825471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/32650216/pexels-photo-32650216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11504256/pexels-photo-11504256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
-    {
-      "date": "07-06",
-      "name": "rhinoceros",
-      "facts": [
-        "Rhino horns are made of keratin, the same protein as human hair and nails.",
-        "They communicate through grunts, snorts, and even infrasound below human hearing.",
-        "All five rhino species are threatened by poaching, with three critically endangered.",
-        "Rhinos have thick skin, but it can be sensitive to sunburn and insect bites, leading them to wallow in mud."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/16040/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/631292/pexels-photo-631292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
     {
       "date": "07-07",
       "name": "robin",
@@ -60,9 +46,9 @@
       "name": "rottweiler",
       "facts": [
         "They are powerfully built dogs with a natural guarding instinct.",
-        "Rottweilers are descended from Roman war dogs and were used to herd cattle.",
+        "Rottweilers were one of the first police dogs and are still used in K-9 units today.",
         "Despite their tough appearance, they are affectionate with their families.",
-        "Rottweilers were one of the first police dogs and are still used in K-9 units today."
+        "Rottweilers are descended from Roman war dogs and were used to herd cattle."
       ],
       "images": [
         "https://images.pexels.com/photos/170325/pexels-photo-170325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,10 +59,10 @@
       "date": "07-10",
       "name": "sable",
       "facts": [
+        "They are solitary animals with large territories that they mark with scent.",
         "Sables are small, agile members of the weasel family with luxurious fur.",
         "They are excellent climbers and swimmers, hunting both in trees and water.",
-        "Sables were once nearly hunted to extinction for their valuable fur.",
-        "They are solitary animals with large territories that they mark with scent."
+        "Sables were once nearly hunted to extinction for their valuable fur."
       ],
       "images": [
         "https://images.pexels.com/photos/236622/pexels-photo-236622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -88,9 +74,9 @@
       "name": "salmon",
       "facts": [
         "Salmon are anadromous, meaning they migrate from saltwater to freshwater to spawn.",
-        "Salmon are a keystone species, providing nutrients to forests when their carcasses decompose.",
         "They use Earth's magnetic field and smell to navigate back to their birthplace.",
-        "After spawning, most Pacific salmon die, while some Atlantic salmon may survive to spawn again."
+        "After spawning, most Pacific salmon die, while some Atlantic salmon may survive to spawn again.",
+        "Salmon are a keystone species, providing nutrients to forests when their carcasses decompose."
       ],
       "images": [
         "https://images.pexels.com/photos/842142/pexels-photo-842142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,55 +87,69 @@
       "date": "07-12",
       "name": "sand dollar",
       "facts": [
-        "They feed by filtering tiny particles of food from the sand using their tube feet.",
-        "The five-petal pattern seen on dead sand dollars is actually their skeletal structure.",
         "When alive, they are covered in tiny, velvety spines that help them move and feed.",
-        "Sand dollars are flat sea urchins that live on the ocean floor."
+        "They feed by filtering tiny particles of food from the sand using their tube feet.",
+        "Sand dollars are flat sea urchins that live on the ocean floor.",
+        "The five-petal pattern seen on dead sand dollars is actually their skeletal structure."
       ],
       "images": [
         "https://images.pexels.com/photos/6825467/pexels-photo-6825467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/6825471/pexels-photo-6825471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "07-13",
+      "name": "sandpiper",
+      "facts": [
+        "Sandpipers have specialized bills that can sense vibrations of prey underground.",
+        "They perform elaborate aerial displays during courtship.",
+        "Some species undertake incredible migrations, flying nonstop for days over open ocean.",
+        "Sandpipers are shorebirds with long bills for probing sand and mud for food."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/32650216/pexels-photo-32650216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/11504256/pexels-photo-11504256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "vampire bat",
+      "name": "hoopoe",
       "facts": [
-        "Bat saliva contains draculin – an anticoagulant studied for stroke treatment.",
-        "Vampire bats share regurgitated blood with starving colony members – reciprocal altruism.",
-        "Vampires run on ground using folded wings as front legs.",
-        "They use infrared sensors on noses to detect blood vessels."
+        "The hoopoe is a bird from Europe, Asia, and Africa, known for its characteristic, fan-like crest on its head and a long, curved beak.",
+        "Its name comes from its distinctive 'hoo-poo' call.",
+        "Hoopoes feed on insects and larvae, which they extract from the ground and crevices using their beak.",
+        "Female hoopoes secrete a foul-smelling substance from a gland near their tail to deter predators from the nest."
       ],
       "images": [
-        "https://images.pexels.com/photos/7140769/pexels-photo-7140769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/9740381/pexels-photo-9740381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/32617487/pexels-photo-32617487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/30788209/pexels-photo-30788209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "wood frog",
+      "name": "wild yak",
       "facts": [
-        "Wood frogs are known for their extraordinary ability to freeze solid in winter and then thaw and revive in spring.",
-        "Their skin is very sensitive to moisture, so they often hide under leaves or in forest litter.",
-        "Their bodies produce a natural antifreeze that protects cells from damage.",
-        "They are terrestrial amphibians that live in forests but return to water for breeding."
+        "Wild yaks are large cattle from Asia, inhabiting the high, cold plateaus of Tibet and the Himalayas.",
+        "Their droppings are often used as fuel by local communities.",
+        "They have long, thick fur that helps them survive in extreme temperatures.",
+        "They are herd animals, living in groups, and their roar is often heard in the mountains."
       ],
       "images": [
-        "https://images.pexels.com/photos/32528978/pexels-photo-32528978.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/638689/pexels-photo-638689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/18126401/pexels-photo-18126401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/30439892/pexels-photo-30439892.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "bald eagle",
+      "name": "civet",
       "facts": [
-        "They were removed from the endangered species list in 2007 after successful conservation.",
-        "Bald eagles aren't actually bald - their white head feathers make them appear so.",
-        "Their nests can weigh over 2,000 pounds and be used for decades.",
-        "They can dive at speeds up to 100 mph when hunting."
+        "They are omnivorous, eating fruits, insects, small mammals, and birds.",
+        "Kopi Luwak coffee, one of the most expensive coffees in the world, is produced from beans that have been digested and excreted by civets.",
+        "Most species are nocturnal and arboreal, although some are more terrestrial.",
+        "Civets are cat-like mammals from Africa and Asia, known for their ability to secrete a musky scent, used in perfumery."
       ],
       "images": [
-        "https://images.pexels.com/photos/3250638/pexels-photo-3250638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/68603/bald-eagle-bird-predator-feathered-68603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/19763157/pexels-photo-19763157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/7723964/pexels-photo-7723964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
