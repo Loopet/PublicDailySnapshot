@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "sandpiper",
+    "name": "sardine",
     "facts": [
-      "They perform elaborate aerial displays during courtship.",
-      "Sandpipers have specialized bills that can sense vibrations of prey underground.",
-      "Some species undertake incredible migrations, flying nonstop for days over open ocean.",
-      "Sandpipers are shorebirds with long bills for probing sand and mud for food."
+      "Sardines get their name from the Italian island of Sardinia where they were once abundant.",
+      "They are an important food source for many marine predators, including whales and dolphins.",
+      "Sardines swim in massive schools that can contain millions of fish.",
+      "They are rich in omega-3 fatty acids and are an important commercial fish."
     ],
     "images": [
-      "https://images.pexels.com/photos/32650216/pexels-photo-32650216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/11504256/pexels-photo-11504256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/1321124/pexels-photo-1321124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2602493/pexels-photo-2602493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
-    {
-      "date": "07-07",
-      "name": "robin",
-      "facts": [
-        "Robins are known for their red breasts, which are brighter in males during breeding season.",
-        "They are territorial and will aggressively defend their feeding areas in winter.",
-        "Robins sing year-round, with males using song to establish territory and attract mates.",
-        "They are one of the first birds to sing at dawn, earning them the nickname 'the early bird.'"
-      ],
-      "images": [
-        "https://images.pexels.com/photos/46166/robin-european-robin-erithacus-rubecula-red-46166.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/416179/pexels-photo-416179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
     {
       "date": "07-08",
       "name": "rook",
       "facts": [
         "Rooks are highly social corvids that nest in large colonies called rookeries.",
         "They are among the most intelligent birds and can use simple tools.",
-        "They form lifelong pair bonds and often stay with the same mate for life.",
-        "Rooks have pale, featherless faces that distinguish them from other crows."
+        "Rooks have pale, featherless faces that distinguish them from other crows.",
+        "They form lifelong pair bonds and often stay with the same mate for life."
       ],
       "images": [
         "https://images.pexels.com/photos/32608898/pexels-photo-32608898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,10 +31,10 @@
       "date": "07-09",
       "name": "rottweiler",
       "facts": [
+        "Rottweilers are descended from Roman war dogs and were used to herd cattle.",
         "They are powerfully built dogs with a natural guarding instinct.",
-        "Rottweilers were one of the first police dogs and are still used in K-9 units today.",
         "Despite their tough appearance, they are affectionate with their families.",
-        "Rottweilers are descended from Roman war dogs and were used to herd cattle."
+        "Rottweilers were one of the first police dogs and are still used in K-9 units today."
       ],
       "images": [
         "https://images.pexels.com/photos/170325/pexels-photo-170325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -61,8 +47,8 @@
       "facts": [
         "They are solitary animals with large territories that they mark with scent.",
         "Sables are small, agile members of the weasel family with luxurious fur.",
-        "They are excellent climbers and swimmers, hunting both in trees and water.",
-        "Sables were once nearly hunted to extinction for their valuable fur."
+        "Sables were once nearly hunted to extinction for their valuable fur.",
+        "They are excellent climbers and swimmers, hunting both in trees and water."
       ],
       "images": [
         "https://images.pexels.com/photos/236622/pexels-photo-236622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -75,8 +61,8 @@
       "facts": [
         "Salmon are anadromous, meaning they migrate from saltwater to freshwater to spawn.",
         "They use Earth's magnetic field and smell to navigate back to their birthplace.",
-        "After spawning, most Pacific salmon die, while some Atlantic salmon may survive to spawn again.",
-        "Salmon are a keystone species, providing nutrients to forests when their carcasses decompose."
+        "Salmon are a keystone species, providing nutrients to forests when their carcasses decompose.",
+        "After spawning, most Pacific salmon die, while some Atlantic salmon may survive to spawn again."
       ],
       "images": [
         "https://images.pexels.com/photos/842142/pexels-photo-842142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,10 +73,10 @@
       "date": "07-12",
       "name": "sand dollar",
       "facts": [
-        "When alive, they are covered in tiny, velvety spines that help them move and feed.",
-        "They feed by filtering tiny particles of food from the sand using their tube feet.",
         "Sand dollars are flat sea urchins that live on the ocean floor.",
-        "The five-petal pattern seen on dead sand dollars is actually their skeletal structure."
+        "When alive, they are covered in tiny, velvety spines that help them move and feed.",
+        "The five-petal pattern seen on dead sand dollars is actually their skeletal structure.",
+        "They feed by filtering tiny particles of food from the sand using their tube feet."
       ],
       "images": [
         "https://images.pexels.com/photos/6825467/pexels-photo-6825467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -110,46 +96,60 @@
         "https://images.pexels.com/photos/32650216/pexels-photo-32650216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/11504256/pexels-photo-11504256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "07-14",
+      "name": "sardine",
+      "facts": [
+        "They are an important food source for many marine predators, including whales and dolphins.",
+        "Sardines swim in massive schools that can contain millions of fish.",
+        "Sardines get their name from the Italian island of Sardinia where they were once abundant.",
+        "They are rich in omega-3 fatty acids and are an important commercial fish."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/1321124/pexels-photo-1321124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2602493/pexels-photo-2602493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "hoopoe",
+      "name": "badger",
       "facts": [
-        "The hoopoe is a bird from Europe, Asia, and Africa, known for its characteristic, fan-like crest on its head and a long, curved beak.",
-        "Its name comes from its distinctive 'hoo-poo' call.",
-        "Hoopoes feed on insects and larvae, which they extract from the ground and crevices using their beak.",
-        "Female hoopoes secrete a foul-smelling substance from a gland near their tail to deter predators from the nest."
+        "Honey badgers are considered one of the most fearless animals in the world.",
+        "They have incredibly thick skin that can resist bee stings and snake bites.",
+        "Badgers are excellent diggers and can excavate tunnels faster than humans with shovels.",
+        "They have a symbiotic relationship with honeyguide birds in Africa."
       ],
       "images": [
-        "https://images.pexels.com/photos/32617487/pexels-photo-32617487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/30788209/pexels-photo-30788209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/17993076/pexels-photo-17993076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/11882072/pexels-photo-11882072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "wild yak",
+      "name": "komodo dragon",
       "facts": [
-        "Wild yaks are large cattle from Asia, inhabiting the high, cold plateaus of Tibet and the Himalayas.",
-        "Their droppings are often used as fuel by local communities.",
-        "They have long, thick fur that helps them survive in extreme temperatures.",
-        "They are herd animals, living in groups, and their roar is often heard in the mountains."
+        "Komodo dragons are the largest living lizards, growing up to 10 feet long.",
+        "They have venomous saliva that prevents blood clotting, weakening prey over time.",
+        "Komodo dragons can eat up to 80% of their body weight in one meal.",
+        "They are excellent swimmers and can travel between islands in their native Indonesia."
       ],
       "images": [
-        "https://images.pexels.com/photos/18126401/pexels-photo-18126401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/30439892/pexels-photo-30439892.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/42754/pexels-photo-42754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2664272/pexels-photo-2664272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "civet",
+      "name": "tarsier",
       "facts": [
-        "They are omnivorous, eating fruits, insects, small mammals, and birds.",
-        "Kopi Luwak coffee, one of the most expensive coffees in the world, is produced from beans that have been digested and excreted by civets.",
-        "Most species are nocturnal and arboreal, although some are more terrestrial.",
-        "Civets are cat-like mammals from Africa and Asia, known for their ability to secrete a musky scent, used in perfumery."
+        "They can rotate their heads nearly 180 degrees in each direction.",
+        "Tarsiers are the only entirely carnivorous primates, eating insects, lizards, and small birds.",
+        "Tarsiers have the largest eyes relative to body size of any mammal.",
+        "They communicate using ultrasonic frequencies beyond human hearing."
       ],
       "images": [
-        "https://images.pexels.com/photos/19763157/pexels-photo-19763157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/7723964/pexels-photo-7723964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/12246423/pexels-photo-12246423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/802212/pexels-photo-802212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
