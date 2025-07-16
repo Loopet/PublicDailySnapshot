@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "scorpion",
+    "name": "sea cucumber",
     "facts": [
-      "Scorpions glow under ultraviolet light due to fluorescent chemicals in their exoskeletons.",
-      "Scorpions give birth to live young, which ride on their mother's back until their first molt.",
-      "They can survive for months without food by slowing their metabolism.",
-      "Only about 25 of the 1,500+ scorpion species have venom deadly to humans."
+      "Sea cucumbers can eject their internal organs as a defense mechanism and later regenerate them.",
+      "They breathe through their anus by pumping water in and out of their respiratory tree.",
+      "They play a crucial role in ocean ecosystems by recycling nutrients on the seafloor.",
+      "Some species can liquefy their bodies to squeeze through small spaces."
     ],
     "images": [
-      "https://images.pexels.com/photos/3696179/pexels-photo-3696179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/264871/pexels-photo-264871.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/32640123/pexels-photo-32640123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8826371/pexels-photo-8826371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "07-09",
-      "name": "rottweiler",
-      "facts": [
-        "They are powerfully built dogs with a natural guarding instinct.",
-        "Despite their tough appearance, they are affectionate with their families.",
-        "Rottweilers are descended from Roman war dogs and were used to herd cattle.",
-        "Rottweilers were one of the first police dogs and are still used in K-9 units today."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/170325/pexels-photo-170325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/1959052/pexels-photo-1959052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "07-10",
       "name": "sable",
       "facts": [
-        "Sables were once nearly hunted to extinction for their valuable fur.",
         "They are excellent climbers and swimmers, hunting both in trees and water.",
-        "They are solitary animals with large territories that they mark with scent.",
-        "Sables are small, agile members of the weasel family with luxurious fur."
+        "Sables are small, agile members of the weasel family with luxurious fur.",
+        "Sables were once nearly hunted to extinction for their valuable fur.",
+        "They are solitary animals with large territories that they mark with scent."
       ],
       "images": [
         "https://images.pexels.com/photos/236622/pexels-photo-236622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -46,8 +32,8 @@
       "name": "salmon",
       "facts": [
         "Salmon are anadromous, meaning they migrate from saltwater to freshwater to spawn.",
-        "Salmon are a keystone species, providing nutrients to forests when their carcasses decompose.",
         "They use Earth's magnetic field and smell to navigate back to their birthplace.",
+        "Salmon are a keystone species, providing nutrients to forests when their carcasses decompose.",
         "After spawning, most Pacific salmon die, while some Atlantic salmon may survive to spawn again."
       ],
       "images": [
@@ -60,9 +46,9 @@
       "name": "sand dollar",
       "facts": [
         "Sand dollars are flat sea urchins that live on the ocean floor.",
-        "The five-petal pattern seen on dead sand dollars is actually their skeletal structure.",
+        "They feed by filtering tiny particles of food from the sand using their tube feet.",
         "When alive, they are covered in tiny, velvety spines that help them move and feed.",
-        "They feed by filtering tiny particles of food from the sand using their tube feet."
+        "The five-petal pattern seen on dead sand dollars is actually their skeletal structure."
       ],
       "images": [
         "https://images.pexels.com/photos/6825467/pexels-photo-6825467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,10 +59,10 @@
       "date": "07-13",
       "name": "sandpiper",
       "facts": [
+        "Sandpipers are shorebirds with long bills for probing sand and mud for food.",
         "Sandpipers have specialized bills that can sense vibrations of prey underground.",
         "They perform elaborate aerial displays during courtship.",
-        "Some species undertake incredible migrations, flying nonstop for days over open ocean.",
-        "Sandpipers are shorebirds with long bills for probing sand and mud for food."
+        "Some species undertake incredible migrations, flying nonstop for days over open ocean."
       ],
       "images": [
         "https://images.pexels.com/photos/32650216/pexels-photo-32650216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,10 +73,10 @@
       "date": "07-14",
       "name": "sardine",
       "facts": [
-        "Sardines swim in massive schools that can contain millions of fish.",
-        "They are an important food source for many marine predators, including whales and dolphins.",
+        "They are rich in omega-3 fatty acids and are an important commercial fish.",
         "Sardines get their name from the Italian island of Sardinia where they were once abundant.",
-        "They are rich in omega-3 fatty acids and are an important commercial fish."
+        "They are an important food source for many marine predators, including whales and dolphins.",
+        "Sardines swim in massive schools that can contain millions of fish."
       ],
       "images": [
         "https://images.pexels.com/photos/1321124/pexels-photo-1321124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,55 +87,69 @@
       "date": "07-15",
       "name": "scorpion",
       "facts": [
-        "Only about 25 of the 1,500+ scorpion species have venom deadly to humans.",
         "Scorpions give birth to live young, which ride on their mother's back until their first molt.",
         "They can survive for months without food by slowing their metabolism.",
+        "Only about 25 of the 1,500+ scorpion species have venom deadly to humans.",
         "Scorpions glow under ultraviolet light due to fluorescent chemicals in their exoskeletons."
       ],
       "images": [
         "https://images.pexels.com/photos/3696179/pexels-photo-3696179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/264871/pexels-photo-264871.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "07-16",
+      "name": "sea cucumber",
+      "facts": [
+        "Sea cucumbers can eject their internal organs as a defense mechanism and later regenerate them.",
+        "They play a crucial role in ocean ecosystems by recycling nutrients on the seafloor.",
+        "Some species can liquefy their bodies to squeeze through small spaces.",
+        "They breathe through their anus by pumping water in and out of their respiratory tree."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/32640123/pexels-photo-32640123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/8826371/pexels-photo-8826371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "raven",
+      "name": "argali",
       "facts": [
-        "Ravens are among the smartest birds, capable of problem-solving and tool use.",
-        "They can mimic human speech and other sounds, though not as well as parrots.",
-        "Ravens play games, such as sliding down snowbanks or dropping sticks in flight to catch them.",
-        "In mythology, they are often symbols of wisdom or trickery."
+        "Argali are the largest species of wild sheep in the world, inhabiting the mountainous regions of Central Asia.",
+        "They live in small herds and are perfectly adapted to life in difficult, mountainous terrain.",
+        "Males have impressive, spirally twisted horns that can weigh over 30 kilograms (66 pounds).",
+        "Their population is threatened due to hunting and habitat loss."
       ],
       "images": [
-        "https://images.pexels.com/photos/946344/pexels-photo-946344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/953150/pexels-photo-953150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/32625022/pexels-photo-32625022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/32597390/pexels-photo-32597390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "heron",
+      "name": "lizard",
       "facts": [
-        "They can swallow fish whole, thanks to their flexible necks and sharp beaks.",
-        "Herons have a unique hunting technique, standing perfectly still before striking at prey.",
-        "Herons often nest in colonies called 'heronries,' high in trees or on cliffs.",
-        "Some heron species use bait, like twigs or insects, to lure fish closer."
+        "The smallest lizard, the Jaragua sphaero, is only 16 mm long.",
+        "Some lizards, like the chameleon, can change color for camouflage or communication.",
+        "Lizards can detach their tails to escape predators, a process called autotomy.",
+        "Komodo dragons are the largest lizards, growing up to 10 feet in length."
       ],
       "images": [
-        "https://images.pexels.com/photos/516543/pexels-photo-516543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/3660658/pexels-photo-3660658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/584165/pexels-photo-584165.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/62289/yemen-chameleon-chamaeleo-calyptratus-chameleon-reptile-62289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "gopher",
+      "name": "slow loris",
       "facts": [
-        "Gophers can dig tunnels up to 800 feet long.",
-        "They rarely come above ground and can live their entire lives underground.",
-        "Gophers have cheek pouches for carrying food back to their burrows.",
-        "They can close their lips behind their front teeth to keep dirt out while digging."
+        "They have large eyes that help them see at night, and are known for their very slow movements.",
+        "They feed on insects, fruits, nectar, and plant sap.",
+        "Slow lorises are small primates from Southeast Asia that are the only venomous primates in the world.",
+        "Their venom is secreted by glands on their arms and activated by mixing with saliva, causing painful bites."
       ],
       "images": [
-        "https://images.pexels.com/photos/32432599/pexels-photo-32432599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/4106232/pexels-photo-4106232.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/12102969/pexels-photo-12102969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/17423829/pexels-photo-17423829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
