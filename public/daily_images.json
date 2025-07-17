@@ -1,32 +1,18 @@
 {
   "animalOfTheDay": {
-    "name": "sea cucumber",
+    "name": "sea lion",
     "facts": [
-      "Sea cucumbers can eject their internal organs as a defense mechanism and later regenerate them.",
-      "They breathe through their anus by pumping water in and out of their respiratory tree.",
-      "They play a crucial role in ocean ecosystems by recycling nutrients on the seafloor.",
-      "Some species can liquefy their bodies to squeeze through small spaces."
+      "Sea lions can dive up to 900 feet and hold their breath for 10 minutes.",
+      "They are highly social and communicate through barks, growls, and body language.",
+      "Sea lions can rotate their hind flippers forward to walk on land.",
+      "They are intelligent and can be trained to perform complex tasks."
     ],
     "images": [
-      "https://images.pexels.com/photos/32640123/pexels-photo-32640123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/8826371/pexels-photo-8826371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/105819/pexels-photo-105819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1917846/pexels-photo-1917846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
-    {
-      "date": "07-10",
-      "name": "sable",
-      "facts": [
-        "They are excellent climbers and swimmers, hunting both in trees and water.",
-        "Sables are small, agile members of the weasel family with luxurious fur.",
-        "Sables were once nearly hunted to extinction for their valuable fur.",
-        "They are solitary animals with large territories that they mark with scent."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/236622/pexels-photo-236622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/2382876/pexels-photo-2382876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
     {
       "date": "07-11",
       "name": "salmon",
@@ -46,9 +32,9 @@
       "name": "sand dollar",
       "facts": [
         "Sand dollars are flat sea urchins that live on the ocean floor.",
+        "The five-petal pattern seen on dead sand dollars is actually their skeletal structure.",
         "They feed by filtering tiny particles of food from the sand using their tube feet.",
-        "When alive, they are covered in tiny, velvety spines that help them move and feed.",
-        "The five-petal pattern seen on dead sand dollars is actually their skeletal structure."
+        "When alive, they are covered in tiny, velvety spines that help them move and feed."
       ],
       "images": [
         "https://images.pexels.com/photos/6825467/pexels-photo-6825467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,10 +59,10 @@
       "date": "07-14",
       "name": "sardine",
       "facts": [
-        "They are rich in omega-3 fatty acids and are an important commercial fish.",
-        "Sardines get their name from the Italian island of Sardinia where they were once abundant.",
+        "Sardines swim in massive schools that can contain millions of fish.",
         "They are an important food source for many marine predators, including whales and dolphins.",
-        "Sardines swim in massive schools that can contain millions of fish."
+        "They are rich in omega-3 fatty acids and are an important commercial fish.",
+        "Sardines get their name from the Italian island of Sardinia where they were once abundant."
       ],
       "images": [
         "https://images.pexels.com/photos/1321124/pexels-photo-1321124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,36 +87,50 @@
       "date": "07-16",
       "name": "sea cucumber",
       "facts": [
-        "Sea cucumbers can eject their internal organs as a defense mechanism and later regenerate them.",
         "They play a crucial role in ocean ecosystems by recycling nutrients on the seafloor.",
-        "Some species can liquefy their bodies to squeeze through small spaces.",
-        "They breathe through their anus by pumping water in and out of their respiratory tree."
+        "They breathe through their anus by pumping water in and out of their respiratory tree.",
+        "Sea cucumbers can eject their internal organs as a defense mechanism and later regenerate them.",
+        "Some species can liquefy their bodies to squeeze through small spaces."
       ],
       "images": [
         "https://images.pexels.com/photos/32640123/pexels-photo-32640123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/8826371/pexels-photo-8826371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "07-17",
+      "name": "sea lion",
+      "facts": [
+        "Sea lions can dive up to 900 feet and hold their breath for 10 minutes.",
+        "They are intelligent and can be trained to perform complex tasks.",
+        "They are highly social and communicate through barks, growls, and body language.",
+        "Sea lions can rotate their hind flippers forward to walk on land."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/105819/pexels-photo-105819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/1917846/pexels-photo-1917846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "argali",
+      "name": "zebu",
       "facts": [
-        "Argali are the largest species of wild sheep in the world, inhabiting the mountainous regions of Central Asia.",
-        "They live in small herds and are perfectly adapted to life in difficult, mountainous terrain.",
-        "Males have impressive, spirally twisted horns that can weigh over 30 kilograms (66 pounds).",
-        "Their population is threatened due to hunting and habitat loss."
+        "Their loose skin helps dissipate heat in tropical climates.",
+        "Zebus have humps storing fat for drought survival – not water.",
+        "They sweat insect-repellent oils and tolerate heat better than European cattle.",
+        "Zebu are sacred in India – 330 million gods are said to live in each."
       ],
       "images": [
-        "https://images.pexels.com/photos/32625022/pexels-photo-32625022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/32597390/pexels-photo-32597390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/32598323/pexels-photo-32598323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2983572/pexels-photo-2983572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
       "name": "lizard",
       "facts": [
-        "The smallest lizard, the Jaragua sphaero, is only 16 mm long.",
         "Some lizards, like the chameleon, can change color for camouflage or communication.",
+        "The smallest lizard, the Jaragua sphaero, is only 16 mm long.",
         "Lizards can detach their tails to escape predators, a process called autotomy.",
         "Komodo dragons are the largest lizards, growing up to 10 feet in length."
       ],
@@ -140,16 +140,16 @@
       ]
     },
     {
-      "name": "slow loris",
+      "name": "cat",
       "facts": [
-        "They have large eyes that help them see at night, and are known for their very slow movements.",
-        "They feed on insects, fruits, nectar, and plant sap.",
-        "Slow lorises are small primates from Southeast Asia that are the only venomous primates in the world.",
-        "Their venom is secreted by glands on their arms and activated by mixing with saliva, causing painful bites."
+        "A group of cats is called a 'clowder' and a group of kittens is a 'kindle'.",
+        "Cats can rotate their ears 180 degrees to pinpoint sounds.",
+        "They have a third eyelid called a nictitating membrane for protection.",
+        "Cats spend 70% of their lives sleeping, which is 13-16 hours a day."
       ],
       "images": [
-        "https://images.pexels.com/photos/12102969/pexels-photo-12102969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/17423829/pexels-photo-17423829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
