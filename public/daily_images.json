@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "sea otter",
+    "name": "sea turtle",
     "facts": [
-      "They play a crucial role in maintaining kelp forest ecosystems by controlling sea urchin populations.",
-      "Sea otters hold hands while sleeping to prevent drifting apart.",
-      "They use rocks as tools to crack open shellfish while floating on their backs.",
-      "Sea otters have the densest fur of any animal, with up to 1 million hairs per square inch."
+      "Sea turtles can migrate thousands of miles between feeding and nesting grounds.",
+      "The temperature of the nest determines the gender of the hatchlings.",
+      "Leatherback sea turtles can dive deeper than 1,000 meters (3,280 feet).",
+      "They return to the same beach where they were born to lay their eggs."
     ],
     "images": [
-      "https://images.pexels.com/photos/31762654/pexels-photo-31762654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/24778638/pexels-photo-24778638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/1618606/pexels-photo-1618606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/847393/pexels-photo-847393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "07-12",
-      "name": "sand dollar",
-      "facts": [
-        "Sand dollars are flat sea urchins that live on the ocean floor.",
-        "When alive, they are covered in tiny, velvety spines that help them move and feed.",
-        "The five-petal pattern seen on dead sand dollars is actually their skeletal structure.",
-        "They feed by filtering tiny particles of food from the sand using their tube feet."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/6825467/pexels-photo-6825467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/6825471/pexels-photo-6825471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "07-13",
       "name": "sandpiper",
       "facts": [
-        "Sandpipers have specialized bills that can sense vibrations of prey underground.",
         "Sandpipers are shorebirds with long bills for probing sand and mud for food.",
         "Some species undertake incredible migrations, flying nonstop for days over open ocean.",
-        "They perform elaborate aerial displays during courtship."
+        "They perform elaborate aerial displays during courtship.",
+        "Sandpipers have specialized bills that can sense vibrations of prey underground."
       ],
       "images": [
         "https://images.pexels.com/photos/32650216/pexels-photo-32650216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,10 +31,10 @@
       "date": "07-14",
       "name": "sardine",
       "facts": [
-        "Sardines get their name from the Italian island of Sardinia where they were once abundant.",
         "They are rich in omega-3 fatty acids and are an important commercial fish.",
+        "Sardines swim in massive schools that can contain millions of fish.",
         "They are an important food source for many marine predators, including whales and dolphins.",
-        "Sardines swim in massive schools that can contain millions of fish."
+        "Sardines get their name from the Italian island of Sardinia where they were once abundant."
       ],
       "images": [
         "https://images.pexels.com/photos/1321124/pexels-photo-1321124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -60,9 +46,9 @@
       "name": "scorpion",
       "facts": [
         "Only about 25 of the 1,500+ scorpion species have venom deadly to humans.",
-        "Scorpions give birth to live young, which ride on their mother's back until their first molt.",
         "Scorpions glow under ultraviolet light due to fluorescent chemicals in their exoskeletons.",
-        "They can survive for months without food by slowing their metabolism."
+        "They can survive for months without food by slowing their metabolism.",
+        "Scorpions give birth to live young, which ride on their mother's back until their first molt."
       ],
       "images": [
         "https://images.pexels.com/photos/3696179/pexels-photo-3696179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -74,9 +60,9 @@
       "name": "sea cucumber",
       "facts": [
         "Some species can liquefy their bodies to squeeze through small spaces.",
-        "Sea cucumbers can eject their internal organs as a defense mechanism and later regenerate them.",
+        "They play a crucial role in ocean ecosystems by recycling nutrients on the seafloor.",
         "They breathe through their anus by pumping water in and out of their respiratory tree.",
-        "They play a crucial role in ocean ecosystems by recycling nutrients on the seafloor."
+        "Sea cucumbers can eject their internal organs as a defense mechanism and later regenerate them."
       ],
       "images": [
         "https://images.pexels.com/photos/32640123/pexels-photo-32640123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,10 +73,10 @@
       "date": "07-17",
       "name": "sea lion",
       "facts": [
-        "They are intelligent and can be trained to perform complex tasks.",
         "Sea lions can dive up to 900 feet and hold their breath for 10 minutes.",
-        "They are highly social and communicate through barks, growls, and body language.",
-        "Sea lions can rotate their hind flippers forward to walk on land."
+        "Sea lions can rotate their hind flippers forward to walk on land.",
+        "They are intelligent and can be trained to perform complex tasks.",
+        "They are highly social and communicate through barks, growls, and body language."
       ],
       "images": [
         "https://images.pexels.com/photos/105819/pexels-photo-105819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,8 +87,8 @@
       "date": "07-18",
       "name": "sea otter",
       "facts": [
-        "They play a crucial role in maintaining kelp forest ecosystems by controlling sea urchin populations.",
         "Sea otters hold hands while sleeping to prevent drifting apart.",
+        "They play a crucial role in maintaining kelp forest ecosystems by controlling sea urchin populations.",
         "Sea otters have the densest fur of any animal, with up to 1 million hairs per square inch.",
         "They use rocks as tools to crack open shellfish while floating on their backs."
       ],
@@ -110,46 +96,60 @@
         "https://images.pexels.com/photos/31762654/pexels-photo-31762654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/24778638/pexels-photo-24778638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "07-19",
+      "name": "sea turtle",
+      "facts": [
+        "Sea turtles can migrate thousands of miles between feeding and nesting grounds.",
+        "Leatherback sea turtles can dive deeper than 1,000 meters (3,280 feet).",
+        "They return to the same beach where they were born to lay their eggs.",
+        "The temperature of the nest determines the gender of the hatchlings."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/1618606/pexels-photo-1618606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/847393/pexels-photo-847393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "stork",
+      "name": "red panda",
       "facts": [
-        "Storks are known for their long legs and necks, which help them wade through water to catch prey.",
-        "In folklore, storks are said to deliver babies, a myth originating in Europe.",
-        "They are mute and communicate by clattering their bills together.",
-        "Storks are monogamous and often return to the same nest year after year."
+        "Red pandas are not closely related to giant pandas but share a bamboo-heavy diet.",
+        "They are endangered, with fewer than 10,000 left in the wild due to habitat loss.",
+        "They have a false thumb, an extended wrist bone, to help grip bamboo.",
+        "Red pandas are solitary and mark territory with scent glands on their feet."
       ],
       "images": [
-        "https://images.pexels.com/photos/220855/pexels-photo-220855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/35060/stork-bird-animal-fly.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/2265247/pexels-photo-2265247.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/851940/pexels-photo-851940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "vampire bat",
+      "name": "barn owl",
       "facts": [
-        "Bat saliva contains draculin – an anticoagulant studied for stroke treatment.",
-        "They use infrared sensors on noses to detect blood vessels.",
-        "Vampires run on ground using folded wings as front legs.",
-        "Vampire bats share regurgitated blood with starving colony members – reciprocal altruism."
+        "Barn owls have asymmetrical ear openings that help them locate prey in complete darkness.",
+        "They can fly completely silently due to special feather structures.",
+        "A single barn owl family can consume over 3,000 rodents in one breeding season.",
+        "They swallow prey whole and regurgitate indigestible parts as pellets."
       ],
       "images": [
-        "https://images.pexels.com/photos/7140769/pexels-photo-7140769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/9740381/pexels-photo-9740381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/1526404/pexels-photo-1526404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/106685/pexels-photo-106685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "flying squirrel",
+      "name": "owl",
       "facts": [
-        "They can glide over 150 feet from tree to tree.",
-        "They're very social and often nest together in groups during winter.",
-        "Flying squirrels don't actually fly - they glide using flaps of skin.",
-        "Flying squirrels are nocturnal and have large eyes for seeing in the dark."
+        "They swallow prey whole and later regurgitate indigestible parts as pellets.",
+        "Owls are silent fliers, thanks to specialized feathers that muffle sound.",
+        "Their asymmetrical ears help them pinpoint the exact location of prey in complete darkness.",
+        "Owls can rotate their heads up to 270 degrees due to specialized vertebrae."
       ],
       "images": [
-        "https://images.pexels.com/photos/9516935/pexels-photo-9516935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/19928013/pexels-photo-19928013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/86596/owl-bird-eyes-eagle-owl-86596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/53977/eagle-owl-raptor-falconry-owl-53977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
