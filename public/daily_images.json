@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "sea turtle",
+    "name": "seahorse",
     "facts": [
-      "Sea turtles can migrate thousands of miles between feeding and nesting grounds.",
-      "The temperature of the nest determines the gender of the hatchlings.",
-      "Leatherback sea turtles can dive deeper than 1,000 meters (3,280 feet).",
-      "They return to the same beach where they were born to lay their eggs."
+      "They are poor swimmers, relying on camouflage and slow movements to avoid predators.",
+      "Seahorses are the only fish where males become pregnant and give birth.",
+      "Seahorses lack stomachs and must eat constantly to survive.",
+      "They have prehensile tails to grip seagrass and corals, avoiding strong currents."
     ],
     "images": [
-      "https://images.pexels.com/photos/1618606/pexels-photo-1618606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/847393/pexels-photo-847393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/23459294/pexels-photo-23459294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28850035/pexels-photo-28850035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "07-13",
-      "name": "sandpiper",
-      "facts": [
-        "Sandpipers are shorebirds with long bills for probing sand and mud for food.",
-        "Some species undertake incredible migrations, flying nonstop for days over open ocean.",
-        "They perform elaborate aerial displays during courtship.",
-        "Sandpipers have specialized bills that can sense vibrations of prey underground."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/32650216/pexels-photo-32650216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/11504256/pexels-photo-11504256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "07-14",
       "name": "sardine",
       "facts": [
-        "They are rich in omega-3 fatty acids and are an important commercial fish.",
-        "Sardines swim in massive schools that can contain millions of fish.",
         "They are an important food source for many marine predators, including whales and dolphins.",
-        "Sardines get their name from the Italian island of Sardinia where they were once abundant."
+        "Sardines get their name from the Italian island of Sardinia where they were once abundant.",
+        "Sardines swim in massive schools that can contain millions of fish.",
+        "They are rich in omega-3 fatty acids and are an important commercial fish."
       ],
       "images": [
         "https://images.pexels.com/photos/1321124/pexels-photo-1321124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,10 +31,10 @@
       "date": "07-15",
       "name": "scorpion",
       "facts": [
-        "Only about 25 of the 1,500+ scorpion species have venom deadly to humans.",
         "Scorpions glow under ultraviolet light due to fluorescent chemicals in their exoskeletons.",
         "They can survive for months without food by slowing their metabolism.",
-        "Scorpions give birth to live young, which ride on their mother's back until their first molt."
+        "Scorpions give birth to live young, which ride on their mother's back until their first molt.",
+        "Only about 25 of the 1,500+ scorpion species have venom deadly to humans."
       ],
       "images": [
         "https://images.pexels.com/photos/3696179/pexels-photo-3696179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -59,10 +45,10 @@
       "date": "07-16",
       "name": "sea cucumber",
       "facts": [
-        "Some species can liquefy their bodies to squeeze through small spaces.",
-        "They play a crucial role in ocean ecosystems by recycling nutrients on the seafloor.",
         "They breathe through their anus by pumping water in and out of their respiratory tree.",
-        "Sea cucumbers can eject their internal organs as a defense mechanism and later regenerate them."
+        "Sea cucumbers can eject their internal organs as a defense mechanism and later regenerate them.",
+        "They play a crucial role in ocean ecosystems by recycling nutrients on the seafloor.",
+        "Some species can liquefy their bodies to squeeze through small spaces."
       ],
       "images": [
         "https://images.pexels.com/photos/32640123/pexels-photo-32640123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,10 +59,10 @@
       "date": "07-17",
       "name": "sea lion",
       "facts": [
-        "Sea lions can dive up to 900 feet and hold their breath for 10 minutes.",
-        "Sea lions can rotate their hind flippers forward to walk on land.",
         "They are intelligent and can be trained to perform complex tasks.",
-        "They are highly social and communicate through barks, growls, and body language."
+        "Sea lions can rotate their hind flippers forward to walk on land.",
+        "They are highly social and communicate through barks, growls, and body language.",
+        "Sea lions can dive up to 900 feet and hold their breath for 10 minutes."
       ],
       "images": [
         "https://images.pexels.com/photos/105819/pexels-photo-105819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,10 +73,10 @@
       "date": "07-18",
       "name": "sea otter",
       "facts": [
-        "Sea otters hold hands while sleeping to prevent drifting apart.",
-        "They play a crucial role in maintaining kelp forest ecosystems by controlling sea urchin populations.",
         "Sea otters have the densest fur of any animal, with up to 1 million hairs per square inch.",
-        "They use rocks as tools to crack open shellfish while floating on their backs."
+        "They use rocks as tools to crack open shellfish while floating on their backs.",
+        "Sea otters hold hands while sleeping to prevent drifting apart.",
+        "They play a crucial role in maintaining kelp forest ecosystems by controlling sea urchin populations."
       ],
       "images": [
         "https://images.pexels.com/photos/31762654/pexels-photo-31762654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -102,54 +88,65 @@
       "name": "sea turtle",
       "facts": [
         "Sea turtles can migrate thousands of miles between feeding and nesting grounds.",
-        "Leatherback sea turtles can dive deeper than 1,000 meters (3,280 feet).",
         "They return to the same beach where they were born to lay their eggs.",
-        "The temperature of the nest determines the gender of the hatchlings."
+        "The temperature of the nest determines the gender of the hatchlings.",
+        "Leatherback sea turtles can dive deeper than 1,000 meters (3,280 feet)."
       ],
       "images": [
         "https://images.pexels.com/photos/1618606/pexels-photo-1618606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/847393/pexels-photo-847393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "07-20",
+      "name": "seahorse",
+      "facts": [
+        "Seahorses lack stomachs and must eat constantly to survive.",
+        "They are poor swimmers, relying on camouflage and slow movements to avoid predators.",
+        "They have prehensile tails to grip seagrass and corals, avoiding strong currents.",
+        "Seahorses are the only fish where males become pregnant and give birth."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/23459294/pexels-photo-23459294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/28850035/pexels-photo-28850035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "red panda",
+      "name": "gannet",
       "facts": [
-        "Red pandas are not closely related to giant pandas but share a bamboo-heavy diet.",
-        "They are endangered, with fewer than 10,000 left in the wild due to habitat loss.",
-        "They have a false thumb, an extended wrist bone, to help grip bamboo.",
-        "Red pandas are solitary and mark territory with scent glands on their feet."
+        "No facts available."
       ],
       "images": [
-        "https://images.pexels.com/photos/2265247/pexels-photo-2265247.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/851940/pexels-photo-851940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/106691/pexels-photo-106691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/25649754/pexels-photo-25649754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "barn owl",
+      "name": "goose",
       "facts": [
-        "Barn owls have asymmetrical ear openings that help them locate prey in complete darkness.",
-        "They can fly completely silently due to special feather structures.",
-        "A single barn owl family can consume over 3,000 rodents in one breeding season.",
-        "They swallow prey whole and regurgitate indigestible parts as pellets."
+        "They fly in V-formation to conserve energy during long migrations.",
+        "Geese mate for life and can live over 25 years.",
+        "They can fly at altitudes up to 29,000 feet.",
+        "Geese have excellent memories and can remember migration routes for life."
       ],
       "images": [
-        "https://images.pexels.com/photos/1526404/pexels-photo-1526404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/106685/pexels-photo-106685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/66863/goose-water-bird-nature-bird-66863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/57406/greater-snow-goose-goose-snow-goose-wading-bird-57406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "owl",
+      "name": "impala",
       "facts": [
-        "They swallow prey whole and later regurgitate indigestible parts as pellets.",
-        "Owls are silent fliers, thanks to specialized feathers that muffle sound.",
-        "Their asymmetrical ears help them pinpoint the exact location of prey in complete darkness.",
-        "Owls can rotate their heads up to 270 degrees due to specialized vertebrae."
+        "Males defend territories during mating season, often engaging in horn clashes.",
+        "Impalas have a unique dental arrangement that allows them to chew food efficiently.",
+        "They use a behavior called 'pronking,' where they leap stiff-legged to confuse predators.",
+        "Impalas are known for their incredible leaping ability, jumping up to 10 feet high and 30 feet far."
       ],
       "images": [
-        "https://images.pexels.com/photos/86596/owl-bird-eyes-eagle-owl-86596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/53977/eagle-owl-raptor-falconry-owl-53977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/561858/pexels-photo-561858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/535431/pexels-photo-535431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
