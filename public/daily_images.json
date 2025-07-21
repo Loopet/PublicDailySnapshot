@@ -1,32 +1,18 @@
 {
   "animalOfTheDay": {
-    "name": "seahorse",
+    "name": "serval",
     "facts": [
-      "They are poor swimmers, relying on camouflage and slow movements to avoid predators.",
-      "Seahorses are the only fish where males become pregnant and give birth.",
-      "Seahorses lack stomachs and must eat constantly to survive.",
-      "They have prehensile tails to grip seagrass and corals, avoiding strong currents."
+      "Servals have the longest legs relative to body size of any cat.",
+      "They can leap 10 feet straight up to catch birds in flight.",
+      "Servals have excellent hearing and can detect rodents underground.",
+      "They are solitary hunters and mark their territory with urine and scent glands."
     ],
     "images": [
-      "https://images.pexels.com/photos/23459294/pexels-photo-23459294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/28850035/pexels-photo-28850035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/12271729/pexels-photo-12271729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/977955/pexels-photo-977955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
-    {
-      "date": "07-14",
-      "name": "sardine",
-      "facts": [
-        "They are an important food source for many marine predators, including whales and dolphins.",
-        "Sardines get their name from the Italian island of Sardinia where they were once abundant.",
-        "Sardines swim in massive schools that can contain millions of fish.",
-        "They are rich in omega-3 fatty acids and are an important commercial fish."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/1321124/pexels-photo-1321124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/2602493/pexels-photo-2602493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
     {
       "date": "07-15",
       "name": "scorpion",
@@ -45,9 +31,9 @@
       "date": "07-16",
       "name": "sea cucumber",
       "facts": [
-        "They breathe through their anus by pumping water in and out of their respiratory tree.",
         "Sea cucumbers can eject their internal organs as a defense mechanism and later regenerate them.",
         "They play a crucial role in ocean ecosystems by recycling nutrients on the seafloor.",
+        "They breathe through their anus by pumping water in and out of their respiratory tree.",
         "Some species can liquefy their bodies to squeeze through small spaces."
       ],
       "images": [
@@ -59,10 +45,10 @@
       "date": "07-17",
       "name": "sea lion",
       "facts": [
-        "They are intelligent and can be trained to perform complex tasks.",
-        "Sea lions can rotate their hind flippers forward to walk on land.",
         "They are highly social and communicate through barks, growls, and body language.",
-        "Sea lions can dive up to 900 feet and hold their breath for 10 minutes."
+        "Sea lions can dive up to 900 feet and hold their breath for 10 minutes.",
+        "They are intelligent and can be trained to perform complex tasks.",
+        "Sea lions can rotate their hind flippers forward to walk on land."
       ],
       "images": [
         "https://images.pexels.com/photos/105819/pexels-photo-105819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -74,9 +60,9 @@
       "name": "sea otter",
       "facts": [
         "Sea otters have the densest fur of any animal, with up to 1 million hairs per square inch.",
-        "They use rocks as tools to crack open shellfish while floating on their backs.",
         "Sea otters hold hands while sleeping to prevent drifting apart.",
-        "They play a crucial role in maintaining kelp forest ecosystems by controlling sea urchin populations."
+        "They play a crucial role in maintaining kelp forest ecosystems by controlling sea urchin populations.",
+        "They use rocks as tools to crack open shellfish while floating on their backs."
       ],
       "images": [
         "https://images.pexels.com/photos/31762654/pexels-photo-31762654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,10 +73,10 @@
       "date": "07-19",
       "name": "sea turtle",
       "facts": [
-        "Sea turtles can migrate thousands of miles between feeding and nesting grounds.",
-        "They return to the same beach where they were born to lay their eggs.",
+        "Leatherback sea turtles can dive deeper than 1,000 meters (3,280 feet).",
         "The temperature of the nest determines the gender of the hatchlings.",
-        "Leatherback sea turtles can dive deeper than 1,000 meters (3,280 feet)."
+        "They return to the same beach where they were born to lay their eggs.",
+        "Sea turtles can migrate thousands of miles between feeding and nesting grounds."
       ],
       "images": [
         "https://images.pexels.com/photos/1618606/pexels-photo-1618606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,33 +87,37 @@
       "date": "07-20",
       "name": "seahorse",
       "facts": [
-        "Seahorses lack stomachs and must eat constantly to survive.",
-        "They are poor swimmers, relying on camouflage and slow movements to avoid predators.",
+        "Seahorses are the only fish where males become pregnant and give birth.",
         "They have prehensile tails to grip seagrass and corals, avoiding strong currents.",
-        "Seahorses are the only fish where males become pregnant and give birth."
+        "Seahorses lack stomachs and must eat constantly to survive.",
+        "They are poor swimmers, relying on camouflage and slow movements to avoid predators."
       ],
       "images": [
         "https://images.pexels.com/photos/23459294/pexels-photo-23459294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/28850035/pexels-photo-28850035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "07-21",
+      "name": "serval",
+      "facts": [
+        "Servals have the longest legs relative to body size of any cat.",
+        "They can leap 10 feet straight up to catch birds in flight.",
+        "They are solitary hunters and mark their territory with urine and scent glands.",
+        "Servals have excellent hearing and can detect rodents underground."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/12271729/pexels-photo-12271729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/977955/pexels-photo-977955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "gannet",
-      "facts": [
-        "No facts available."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/106691/pexels-photo-106691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/25649754/pexels-photo-25649754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "name": "goose",
       "facts": [
-        "They fly in V-formation to conserve energy during long migrations.",
         "Geese mate for life and can live over 25 years.",
+        "They fly in V-formation to conserve energy during long migrations.",
         "They can fly at altitudes up to 29,000 feet.",
         "Geese have excellent memories and can remember migration routes for life."
       ],
@@ -137,16 +127,29 @@
       ]
     },
     {
-      "name": "impala",
+      "name": "mandrill",
       "facts": [
-        "Males defend territories during mating season, often engaging in horn clashes.",
-        "Impalas have a unique dental arrangement that allows them to chew food efficiently.",
-        "They use a behavior called 'pronking,' where they leap stiff-legged to confuse predators.",
-        "Impalas are known for their incredible leaping ability, jumping up to 10 feet high and 30 feet far."
+        "Mandrills are the largest monkeys, with males weighing up to 80 pounds.",
+        "Their colorful faces and rumps become brighter when excited or dominant.",
+        "Mandrills live in large groups called hordes, sometimes with over 1,000 individuals.",
+        "They are omnivorous, eating fruits, insects, and small vertebrates."
       ],
       "images": [
-        "https://images.pexels.com/photos/561858/pexels-photo-561858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/535431/pexels-photo-535431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/38280/monkey-mandril-africa-baboon-38280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/7196147/pexels-photo-7196147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
+    },
+    {
+      "name": "black mamba",
+      "facts": [
+        "They're the fastest snake in the world, capable of moving at 12.5 mph.",
+        "Black mambas are actually brown or gray - their name comes from their black mouth.",
+        "Despite their reputation, they're actually quite shy and prefer to flee from humans.",
+        "Their venom can kill a human in as little as 20 minutes without treatment."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/23817/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/30076157/pexels-photo-30076157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
