@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "serval",
+    "name": "siberian husky",
     "facts": [
-      "Servals have the longest legs relative to body size of any cat.",
-      "They can leap 10 feet straight up to catch birds in flight.",
-      "Servals have excellent hearing and can detect rodents underground.",
-      "They are solitary hunters and mark their territory with urine and scent glands."
+      "They are known for their striking blue or multi-colored eyes and thick double coat.",
+      "Siberian huskies are a medium-sized working dog breed.",
+      "They are energetic and require a lot of exercise.",
+      "Siberian huskies were originally bred as sled dogs."
     ],
     "images": [
-      "https://images.pexels.com/photos/12271729/pexels-photo-12271729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/977955/pexels-photo-977955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/3715587/pexels-photo-3715587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2853422/pexels-photo-2853422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "07-15",
-      "name": "scorpion",
-      "facts": [
-        "Scorpions glow under ultraviolet light due to fluorescent chemicals in their exoskeletons.",
-        "They can survive for months without food by slowing their metabolism.",
-        "Scorpions give birth to live young, which ride on their mother's back until their first molt.",
-        "Only about 25 of the 1,500+ scorpion species have venom deadly to humans."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/3696179/pexels-photo-3696179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/264871/pexels-photo-264871.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "07-16",
       "name": "sea cucumber",
       "facts": [
-        "Sea cucumbers can eject their internal organs as a defense mechanism and later regenerate them.",
-        "They play a crucial role in ocean ecosystems by recycling nutrients on the seafloor.",
+        "Some species can liquefy their bodies to squeeze through small spaces.",
         "They breathe through their anus by pumping water in and out of their respiratory tree.",
-        "Some species can liquefy their bodies to squeeze through small spaces."
+        "They play a crucial role in ocean ecosystems by recycling nutrients on the seafloor.",
+        "Sea cucumbers can eject their internal organs as a defense mechanism and later regenerate them."
       ],
       "images": [
         "https://images.pexels.com/photos/32640123/pexels-photo-32640123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -46,9 +32,9 @@
       "name": "sea lion",
       "facts": [
         "They are highly social and communicate through barks, growls, and body language.",
-        "Sea lions can dive up to 900 feet and hold their breath for 10 minutes.",
         "They are intelligent and can be trained to perform complex tasks.",
-        "Sea lions can rotate their hind flippers forward to walk on land."
+        "Sea lions can rotate their hind flippers forward to walk on land.",
+        "Sea lions can dive up to 900 feet and hold their breath for 10 minutes."
       ],
       "images": [
         "https://images.pexels.com/photos/105819/pexels-photo-105819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -59,10 +45,10 @@
       "date": "07-18",
       "name": "sea otter",
       "facts": [
-        "Sea otters have the densest fur of any animal, with up to 1 million hairs per square inch.",
         "Sea otters hold hands while sleeping to prevent drifting apart.",
         "They play a crucial role in maintaining kelp forest ecosystems by controlling sea urchin populations.",
-        "They use rocks as tools to crack open shellfish while floating on their backs."
+        "They use rocks as tools to crack open shellfish while floating on their backs.",
+        "Sea otters have the densest fur of any animal, with up to 1 million hairs per square inch."
       ],
       "images": [
         "https://images.pexels.com/photos/31762654/pexels-photo-31762654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,10 +59,10 @@
       "date": "07-19",
       "name": "sea turtle",
       "facts": [
-        "Leatherback sea turtles can dive deeper than 1,000 meters (3,280 feet).",
+        "Sea turtles can migrate thousands of miles between feeding and nesting grounds.",
         "The temperature of the nest determines the gender of the hatchlings.",
         "They return to the same beach where they were born to lay their eggs.",
-        "Sea turtles can migrate thousands of miles between feeding and nesting grounds."
+        "Leatherback sea turtles can dive deeper than 1,000 meters (3,280 feet)."
       ],
       "images": [
         "https://images.pexels.com/photos/1618606/pexels-photo-1618606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,10 +73,10 @@
       "date": "07-20",
       "name": "seahorse",
       "facts": [
-        "Seahorses are the only fish where males become pregnant and give birth.",
+        "They are poor swimmers, relying on camouflage and slow movements to avoid predators.",
         "They have prehensile tails to grip seagrass and corals, avoiding strong currents.",
-        "Seahorses lack stomachs and must eat constantly to survive.",
-        "They are poor swimmers, relying on camouflage and slow movements to avoid predators."
+        "Seahorses are the only fish where males become pregnant and give birth.",
+        "Seahorses lack stomachs and must eat constantly to survive."
       ],
       "images": [
         "https://images.pexels.com/photos/23459294/pexels-photo-23459294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,55 +87,69 @@
       "date": "07-21",
       "name": "serval",
       "facts": [
-        "Servals have the longest legs relative to body size of any cat.",
-        "They can leap 10 feet straight up to catch birds in flight.",
         "They are solitary hunters and mark their territory with urine and scent glands.",
+        "They can leap 10 feet straight up to catch birds in flight.",
+        "Servals have the longest legs relative to body size of any cat.",
         "Servals have excellent hearing and can detect rodents underground."
       ],
       "images": [
         "https://images.pexels.com/photos/12271729/pexels-photo-12271729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/977955/pexels-photo-977955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "07-22",
+      "name": "siberian husky",
+      "facts": [
+        "They are energetic and require a lot of exercise.",
+        "Siberian huskies were originally bred as sled dogs.",
+        "They are known for their striking blue or multi-colored eyes and thick double coat.",
+        "Siberian huskies are a medium-sized working dog breed."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/3715587/pexels-photo-3715587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2853422/pexels-photo-2853422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "goose",
+      "name": "sand dollar",
       "facts": [
-        "Geese mate for life and can live over 25 years.",
-        "They fly in V-formation to conserve energy during long migrations.",
-        "They can fly at altitudes up to 29,000 feet.",
-        "Geese have excellent memories and can remember migration routes for life."
+        "The five-petal pattern seen on dead sand dollars is actually their skeletal structure.",
+        "They feed by filtering tiny particles of food from the sand using their tube feet.",
+        "When alive, they are covered in tiny, velvety spines that help them move and feed.",
+        "Sand dollars are flat sea urchins that live on the ocean floor."
       ],
       "images": [
-        "https://images.pexels.com/photos/66863/goose-water-bird-nature-bird-66863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/57406/greater-snow-goose-goose-snow-goose-wading-bird-57406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/6825467/pexels-photo-6825467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/6825471/pexels-photo-6825471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "mandrill",
+      "name": "ibis",
       "facts": [
-        "Mandrills are the largest monkeys, with males weighing up to 80 pounds.",
-        "Their colorful faces and rumps become brighter when excited or dominant.",
-        "Mandrills live in large groups called hordes, sometimes with over 1,000 individuals.",
-        "They are omnivorous, eating fruits, insects, and small vertebrates."
+        "Ibises are social birds and usually nest in large colonies.",
+        "They often fly in V-shaped formations to conserve energy during migration.",
+        "The sacred ibis was revered in ancient Egypt and associated with the god Thoth.",
+        "Ibises have long, curved beaks that they use to probe mud and shallow water for food."
       ],
       "images": [
-        "https://images.pexels.com/photos/38280/monkey-mandril-africa-baboon-38280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/7196147/pexels-photo-7196147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/32650193/pexels-photo-32650193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/32618194/pexels-photo-32618194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "black mamba",
+      "name": "dog",
       "facts": [
-        "They're the fastest snake in the world, capable of moving at 12.5 mph.",
-        "Black mambas are actually brown or gray - their name comes from their black mouth.",
-        "Despite their reputation, they're actually quite shy and prefer to flee from humans.",
-        "Their venom can kill a human in as little as 20 minutes without treatment."
+        "Dogs have been human companions for over 15,000 years.",
+        "They can learn over 150 words and can count up to four or five.",
+        "A dog's nose print is unique, like a human fingerprint.",
+        "Dogs dream similarly to humans and can have nightmares."
       ],
       "images": [
-        "https://images.pexels.com/photos/23817/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/30076157/pexels-photo-30076157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/406014/pexels-photo-406014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
