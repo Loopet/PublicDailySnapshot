@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "snow leopard",
+    "name": "snowy owl",
     "facts": [
-      "Snow leopards are known as 'ghosts of the mountains' due to their elusive nature.",
-      "They have thick fur and wide, fur-covered feet that act as natural snowshoes.",
-      "They are unable to roar but communicate with chuffing sounds and growls.",
-      "Snow leopards can leap up to 50 feet in a single bound."
+      "Unlike most owls, they are diurnal and hunt both day and night in the Arctic tundra.",
+      "Snowy owls are one of the largest owl species, with a wingspan of up to 5 feet.",
+      "Snowy owls can detect prey moving beneath the snow using their exceptional hearing.",
+      "Their feathers are nearly entirely white, providing perfect camouflage in snowy environments."
     ],
     "images": [
-      "https://images.pexels.com/photos/267074/pexels-photo-267074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/751820/pexels-photo-751820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/1804976/pexels-photo-1804976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19898701/pexels-photo-19898701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "07-19",
-      "name": "sea turtle",
-      "facts": [
-        "Sea turtles can migrate thousands of miles between feeding and nesting grounds.",
-        "The temperature of the nest determines the gender of the hatchlings.",
-        "Leatherback sea turtles can dive deeper than 1,000 meters (3,280 feet).",
-        "They return to the same beach where they were born to lay their eggs."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/1618606/pexels-photo-1618606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/847393/pexels-photo-847393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "07-20",
       "name": "seahorse",
       "facts": [
-        "Seahorses lack stomachs and must eat constantly to survive.",
-        "They are poor swimmers, relying on camouflage and slow movements to avoid predators.",
         "They have prehensile tails to grip seagrass and corals, avoiding strong currents.",
-        "Seahorses are the only fish where males become pregnant and give birth."
+        "They are poor swimmers, relying on camouflage and slow movements to avoid predators.",
+        "Seahorses are the only fish where males become pregnant and give birth.",
+        "Seahorses lack stomachs and must eat constantly to survive."
       ],
       "images": [
         "https://images.pexels.com/photos/23459294/pexels-photo-23459294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -46,9 +32,9 @@
       "name": "serval",
       "facts": [
         "Servals have the longest legs relative to body size of any cat.",
-        "They are solitary hunters and mark their territory with urine and scent glands.",
         "They can leap 10 feet straight up to catch birds in flight.",
-        "Servals have excellent hearing and can detect rodents underground."
+        "Servals have excellent hearing and can detect rodents underground.",
+        "They are solitary hunters and mark their territory with urine and scent glands."
       ],
       "images": [
         "https://images.pexels.com/photos/12271729/pexels-photo-12271729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -59,9 +45,9 @@
       "date": "07-22",
       "name": "siberian husky",
       "facts": [
-        "They are energetic and require a lot of exercise.",
         "Siberian huskies were originally bred as sled dogs.",
         "They are known for their striking blue or multi-colored eyes and thick double coat.",
+        "They are energetic and require a lot of exercise.",
         "Siberian huskies are a medium-sized working dog breed."
       ],
       "images": [
@@ -73,10 +59,10 @@
       "date": "07-23",
       "name": "skunk",
       "facts": [
-        "They are immune to snake venom and will sometimes eat venomous snakes.",
-        "Skunks are known for their ability to spray a foul-smelling liquid as a defense mechanism, which can reach up to 10 feet.",
+        "Before spraying, skunks usually give a warning by stomping their feet or raising their tail.",
         "Skunks are nocturnal and have poor eyesight but an excellent sense of smell and hearing.",
-        "Before spraying, skunks usually give a warning by stomping their feet or raising their tail."
+        "They are immune to snake venom and will sometimes eat venomous snakes.",
+        "Skunks are known for their ability to spray a foul-smelling liquid as a defense mechanism, which can reach up to 10 feet."
       ],
       "images": [
         "https://images.pexels.com/photos/14210442/pexels-photo-14210442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,10 +73,10 @@
       "date": "07-24",
       "name": "snail",
       "facts": [
-        "The largest land snail, the African giant snail, can grow up to 15 inches long.",
-        "Snails are hermaphrodites, meaning each individual has both male and female reproductive organs.",
         "Snails can sleep for up to three years if the weather isn't favorable.",
-        "They have thousands of tiny teeth on their tongue-like radula, which they use to scrape food."
+        "They have thousands of tiny teeth on their tongue-like radula, which they use to scrape food.",
+        "Snails are hermaphrodites, meaning each individual has both male and female reproductive organs.",
+        "The largest land snail, the African giant snail, can grow up to 15 inches long."
       ],
       "images": [
         "https://images.pexels.com/photos/320956/pexels-photo-320956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -110,43 +96,60 @@
         "https://images.pexels.com/photos/267074/pexels-photo-267074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/751820/pexels-photo-751820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "07-26",
+      "name": "snowy owl",
+      "facts": [
+        "Their feathers are nearly entirely white, providing perfect camouflage in snowy environments.",
+        "Snowy owls are one of the largest owl species, with a wingspan of up to 5 feet.",
+        "Unlike most owls, they are diurnal and hunt both day and night in the Arctic tundra.",
+        "Snowy owls can detect prey moving beneath the snow using their exceptional hearing."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/1804976/pexels-photo-1804976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/19898701/pexels-photo-19898701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "newfoundland",
+      "name": "penguin",
       "facts": [
-        "No facts available."
+        "Penguins propose to mates with pebbles, offering them as gifts to build nests.",
+        "Emperor penguins are the tallest, standing up to 4 feet, while little blue penguins are the smallest.",
+        "They can drink seawater, thanks to special glands that filter out salt.",
+        "Penguins are flightless birds adapted for swimming, with flippers instead of wings."
       ],
       "images": [
-        "https://images.pexels.com/photos/58691/pexels-photo-58691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/2588592/pexels-photo-2588592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/86405/penguin-funny-blue-water-86405.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/52509/penguins-emperor-antarctic-life-52509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "tuatara",
+      "name": "wild yak",
       "facts": [
-        "They are active at night and feed on insects, lizards, and bird eggs.",
-        "The tuatara is a lizard-like reptile from New Zealand that is the only living member of the order Rhynchocephalia, making it a 'living fossil'.",
-        "They can live over 100 years, making them one of the longest-living reptiles.",
-        "They have a 'third eye' on the top of their head, which is sensitive to light but does not see images."
+        "Wild yaks are large cattle from Asia, inhabiting the high, cold plateaus of Tibet and the Himalayas.",
+        "They have long, thick fur that helps them survive in extreme temperatures.",
+        "Their droppings are often used as fuel by local communities.",
+        "They are herd animals, living in groups, and their roar is often heard in the mountains."
       ],
       "images": [
-        "https://images.pexels.com/photos/17884670/pexels-photo-17884670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/20922744/pexels-photo-20922744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/18126401/pexels-photo-18126401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/30439892/pexels-photo-30439892.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "javan rhino",
+      "name": "snow leopard",
       "facts": [
-        "Javan rhinos are one of the most endangered large mammals in the world, with a population of fewer than 80 individuals.",
-        "Their skin looks like armor, with folds forming 'plates' on their body.",
-        "They live solitary lives and are very secretive, making them difficult to observe and study.",
-        "They are the only rhinos that have only one horn, and in females, it is often very small or absent."
+        "Snow leopards can leap up to 50 feet in a single bound.",
+        "They are unable to roar but communicate with chuffing sounds and growls.",
+        "They have thick fur and wide, fur-covered feet that act as natural snowshoes.",
+        "Snow leopards are known as 'ghosts of the mountains' due to their elusive nature."
       ],
       "images": [
-        "https://images.pexels.com/photos/32586061/pexels-photo-32586061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/132400/pexels-photo-132400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/267074/pexels-photo-267074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/751820/pexels-photo-751820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
