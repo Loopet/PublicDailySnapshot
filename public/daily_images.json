@@ -1,32 +1,18 @@
 {
   "animalOfTheDay": {
-    "name": "snowy owl",
+    "name": "spider",
     "facts": [
-      "Unlike most owls, they are diurnal and hunt both day and night in the Arctic tundra.",
-      "Snowy owls are one of the largest owl species, with a wingspan of up to 5 feet.",
-      "Snowy owls can detect prey moving beneath the snow using their exceptional hearing.",
-      "Their feathers are nearly entirely white, providing perfect camouflage in snowy environments."
+      "The venom of most spiders is harmless to humans, with only a few species being dangerous.",
+      "Some spiders can 'balloon' by releasing silk threads to catch the wind and travel long distances.",
+      "All spiders produce silk, but not all spiders spin webs to catch prey.",
+      "Spiders are not insects; they are arachnids, with eight legs and two body segments."
     ],
     "images": [
-      "https://images.pexels.com/photos/1804976/pexels-photo-1804976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/19898701/pexels-photo-19898701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/40795/spider-macro-zebra-spider-insect-40795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34225/spider-web-with-water-beads-network-dewdrop.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
-    {
-      "date": "07-20",
-      "name": "seahorse",
-      "facts": [
-        "They have prehensile tails to grip seagrass and corals, avoiding strong currents.",
-        "They are poor swimmers, relying on camouflage and slow movements to avoid predators.",
-        "Seahorses are the only fish where males become pregnant and give birth.",
-        "Seahorses lack stomachs and must eat constantly to survive."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/23459294/pexels-photo-23459294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/28850035/pexels-photo-28850035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
     {
       "date": "07-21",
       "name": "serval",
@@ -45,10 +31,10 @@
       "date": "07-22",
       "name": "siberian husky",
       "facts": [
-        "Siberian huskies were originally bred as sled dogs.",
+        "Siberian huskies are a medium-sized working dog breed.",
         "They are known for their striking blue or multi-colored eyes and thick double coat.",
-        "They are energetic and require a lot of exercise.",
-        "Siberian huskies are a medium-sized working dog breed."
+        "Siberian huskies were originally bred as sled dogs.",
+        "They are energetic and require a lot of exercise."
       ],
       "images": [
         "https://images.pexels.com/photos/3715587/pexels-photo-3715587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -59,10 +45,10 @@
       "date": "07-23",
       "name": "skunk",
       "facts": [
-        "Before spraying, skunks usually give a warning by stomping their feet or raising their tail.",
-        "Skunks are nocturnal and have poor eyesight but an excellent sense of smell and hearing.",
+        "Skunks are known for their ability to spray a foul-smelling liquid as a defense mechanism, which can reach up to 10 feet.",
         "They are immune to snake venom and will sometimes eat venomous snakes.",
-        "Skunks are known for their ability to spray a foul-smelling liquid as a defense mechanism, which can reach up to 10 feet."
+        "Skunks are nocturnal and have poor eyesight but an excellent sense of smell and hearing.",
+        "Before spraying, skunks usually give a warning by stomping their feet or raising their tail."
       ],
       "images": [
         "https://images.pexels.com/photos/14210442/pexels-photo-14210442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,10 +59,10 @@
       "date": "07-24",
       "name": "snail",
       "facts": [
-        "Snails can sleep for up to three years if the weather isn't favorable.",
         "They have thousands of tiny teeth on their tongue-like radula, which they use to scrape food.",
+        "The largest land snail, the African giant snail, can grow up to 15 inches long.",
         "Snails are hermaphrodites, meaning each individual has both male and female reproductive organs.",
-        "The largest land snail, the African giant snail, can grow up to 15 inches long."
+        "Snails can sleep for up to three years if the weather isn't favorable."
       ],
       "images": [
         "https://images.pexels.com/photos/320956/pexels-photo-320956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -88,9 +74,9 @@
       "name": "snow leopard",
       "facts": [
         "Snow leopards are known as 'ghosts of the mountains' due to their elusive nature.",
+        "They are unable to roar but communicate with chuffing sounds and growls.",
         "They have thick fur and wide, fur-covered feet that act as natural snowshoes.",
-        "Snow leopards can leap up to 50 feet in a single bound.",
-        "They are unable to roar but communicate with chuffing sounds and growls."
+        "Snow leopards can leap up to 50 feet in a single bound."
       ],
       "images": [
         "https://images.pexels.com/photos/267074/pexels-photo-267074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -102,54 +88,68 @@
       "name": "snowy owl",
       "facts": [
         "Their feathers are nearly entirely white, providing perfect camouflage in snowy environments.",
-        "Snowy owls are one of the largest owl species, with a wingspan of up to 5 feet.",
         "Unlike most owls, they are diurnal and hunt both day and night in the Arctic tundra.",
-        "Snowy owls can detect prey moving beneath the snow using their exceptional hearing."
+        "Snowy owls can detect prey moving beneath the snow using their exceptional hearing.",
+        "Snowy owls are one of the largest owl species, with a wingspan of up to 5 feet."
       ],
       "images": [
         "https://images.pexels.com/photos/1804976/pexels-photo-1804976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/19898701/pexels-photo-19898701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "07-27",
+      "name": "spider",
+      "facts": [
+        "Spiders are not insects; they are arachnids, with eight legs and two body segments.",
+        "All spiders produce silk, but not all spiders spin webs to catch prey.",
+        "Some spiders can 'balloon' by releasing silk threads to catch the wind and travel long distances.",
+        "The venom of most spiders is harmless to humans, with only a few species being dangerous."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/40795/spider-macro-zebra-spider-insect-40795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/34225/spider-web-with-water-beads-network-dewdrop.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "penguin",
+      "name": "wasp",
       "facts": [
-        "Penguins propose to mates with pebbles, offering them as gifts to build nests.",
-        "Emperor penguins are the tallest, standing up to 4 feet, while little blue penguins are the smallest.",
-        "They can drink seawater, thanks to special glands that filter out salt.",
-        "Penguins are flightless birds adapted for swimming, with flippers instead of wings."
+        "Wasps produce paper by chewing wood fibers mixed with saliva.",
+        "Mud daubers build tubular nests with paralyzed spiders as living food for larvae.",
+        "Fig wasps co-evolved with figs – each fig species has its own wasp pollinator.",
+        "Parasitoid wasps lay eggs in hosts; larvae eat prey alive while avoiding vital organs."
       ],
       "images": [
-        "https://images.pexels.com/photos/86405/penguin-funny-blue-water-86405.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/52509/penguins-emperor-antarctic-life-52509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/158313/wasp-insect-macro-close-158313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/928966/pexels-photo-928966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "wild yak",
+      "name": "parrotfish",
       "facts": [
-        "Wild yaks are large cattle from Asia, inhabiting the high, cold plateaus of Tibet and the Himalayas.",
-        "They have long, thick fur that helps them survive in extreme temperatures.",
-        "Their droppings are often used as fuel by local communities.",
-        "They are herd animals, living in groups, and their roar is often heard in the mountains."
+        "Parrotfish can change their gender during their lifetime.",
+        "They produce sand by grinding up coral with their teeth—up to 200 pounds per year.",
+        "At night, some species secrete a mucus cocoon around themselves for protection.",
+        "Parrotfish get their name from their beak-like teeth used to scrape algae from coral."
       ],
       "images": [
-        "https://images.pexels.com/photos/18126401/pexels-photo-18126401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/30439892/pexels-photo-30439892.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/9762762/pexels-photo-9762762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/5272931/pexels-photo-5272931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "snow leopard",
+      "name": "heron",
       "facts": [
-        "Snow leopards can leap up to 50 feet in a single bound.",
-        "They are unable to roar but communicate with chuffing sounds and growls.",
-        "They have thick fur and wide, fur-covered feet that act as natural snowshoes.",
-        "Snow leopards are known as 'ghosts of the mountains' due to their elusive nature."
+        "They can swallow fish whole, thanks to their flexible necks and sharp beaks.",
+        "Some heron species use bait, like twigs or insects, to lure fish closer.",
+        "Herons have a unique hunting technique, standing perfectly still before striking at prey.",
+        "Herons often nest in colonies called 'heronries,' high in trees or on cliffs."
       ],
       "images": [
-        "https://images.pexels.com/photos/267074/pexels-photo-267074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/751820/pexels-photo-751820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/516543/pexels-photo-516543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/3660658/pexels-photo-3660658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
