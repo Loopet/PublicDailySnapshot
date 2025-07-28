@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "spider",
+    "name": "squid",
     "facts": [
-      "The venom of most spiders is harmless to humans, with only a few species being dangerous.",
-      "Some spiders can 'balloon' by releasing silk threads to catch the wind and travel long distances.",
-      "All spiders produce silk, but not all spiders spin webs to catch prey.",
-      "Spiders are not insects; they are arachnids, with eight legs and two body segments."
+      "Squid have three hearts: two pump blood to the gills, and one pumps it to the rest of the body.",
+      "They can change color rapidly to communicate or camouflage, using specialized cells called chromatophores.",
+      "Some squid species can 'fly' by propelling themselves out of the water and gliding for short distances.",
+      "The giant squid is the largest invertebrate, with eyes the size of dinner plates."
     ],
     "images": [
-      "https://images.pexels.com/photos/40795/spider-macro-zebra-spider-insect-40795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/34225/spider-web-with-water-beads-network-dewdrop.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/2505042/pexels-photo-2505042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1618925/pexels-photo-1618925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "07-21",
-      "name": "serval",
-      "facts": [
-        "Servals have the longest legs relative to body size of any cat.",
-        "They can leap 10 feet straight up to catch birds in flight.",
-        "Servals have excellent hearing and can detect rodents underground.",
-        "They are solitary hunters and mark their territory with urine and scent glands."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/12271729/pexels-photo-12271729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/977955/pexels-photo-977955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "07-22",
       "name": "siberian husky",
       "facts": [
-        "Siberian huskies are a medium-sized working dog breed.",
         "They are known for their striking blue or multi-colored eyes and thick double coat.",
-        "Siberian huskies were originally bred as sled dogs.",
-        "They are energetic and require a lot of exercise."
+        "Siberian huskies are a medium-sized working dog breed.",
+        "They are energetic and require a lot of exercise.",
+        "Siberian huskies were originally bred as sled dogs."
       ],
       "images": [
         "https://images.pexels.com/photos/3715587/pexels-photo-3715587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,10 +31,10 @@
       "date": "07-23",
       "name": "skunk",
       "facts": [
-        "Skunks are known for their ability to spray a foul-smelling liquid as a defense mechanism, which can reach up to 10 feet.",
-        "They are immune to snake venom and will sometimes eat venomous snakes.",
+        "Before spraying, skunks usually give a warning by stomping their feet or raising their tail.",
         "Skunks are nocturnal and have poor eyesight but an excellent sense of smell and hearing.",
-        "Before spraying, skunks usually give a warning by stomping their feet or raising their tail."
+        "They are immune to snake venom and will sometimes eat venomous snakes.",
+        "Skunks are known for their ability to spray a foul-smelling liquid as a defense mechanism, which can reach up to 10 feet."
       ],
       "images": [
         "https://images.pexels.com/photos/14210442/pexels-photo-14210442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -59,10 +45,10 @@
       "date": "07-24",
       "name": "snail",
       "facts": [
-        "They have thousands of tiny teeth on their tongue-like radula, which they use to scrape food.",
         "The largest land snail, the African giant snail, can grow up to 15 inches long.",
-        "Snails are hermaphrodites, meaning each individual has both male and female reproductive organs.",
-        "Snails can sleep for up to three years if the weather isn't favorable."
+        "Snails can sleep for up to three years if the weather isn't favorable.",
+        "They have thousands of tiny teeth on their tongue-like radula, which they use to scrape food.",
+        "Snails are hermaphrodites, meaning each individual has both male and female reproductive organs."
       ],
       "images": [
         "https://images.pexels.com/photos/320956/pexels-photo-320956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,10 +59,10 @@
       "date": "07-25",
       "name": "snow leopard",
       "facts": [
-        "Snow leopards are known as 'ghosts of the mountains' due to their elusive nature.",
         "They are unable to roar but communicate with chuffing sounds and growls.",
+        "Snow leopards can leap up to 50 feet in a single bound.",
         "They have thick fur and wide, fur-covered feet that act as natural snowshoes.",
-        "Snow leopards can leap up to 50 feet in a single bound."
+        "Snow leopards are known as 'ghosts of the mountains' due to their elusive nature."
       ],
       "images": [
         "https://images.pexels.com/photos/267074/pexels-photo-267074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,9 +73,9 @@
       "date": "07-26",
       "name": "snowy owl",
       "facts": [
+        "Snowy owls can detect prey moving beneath the snow using their exceptional hearing.",
         "Their feathers are nearly entirely white, providing perfect camouflage in snowy environments.",
         "Unlike most owls, they are diurnal and hunt both day and night in the Arctic tundra.",
-        "Snowy owls can detect prey moving beneath the snow using their exceptional hearing.",
         "Snowy owls are one of the largest owl species, with a wingspan of up to 5 feet."
       ],
       "images": [
@@ -101,8 +87,8 @@
       "date": "07-27",
       "name": "spider",
       "facts": [
-        "Spiders are not insects; they are arachnids, with eight legs and two body segments.",
         "All spiders produce silk, but not all spiders spin webs to catch prey.",
+        "Spiders are not insects; they are arachnids, with eight legs and two body segments.",
         "Some spiders can 'balloon' by releasing silk threads to catch the wind and travel long distances.",
         "The venom of most spiders is harmless to humans, with only a few species being dangerous."
       ],
@@ -110,46 +96,60 @@
         "https://images.pexels.com/photos/40795/spider-macro-zebra-spider-insect-40795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/34225/spider-web-with-water-beads-network-dewdrop.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "07-28",
+      "name": "squid",
+      "facts": [
+        "They can change color rapidly to communicate or camouflage, using specialized cells called chromatophores.",
+        "The giant squid is the largest invertebrate, with eyes the size of dinner plates.",
+        "Squid have three hearts: two pump blood to the gills, and one pumps it to the rest of the body.",
+        "Some squid species can 'fly' by propelling themselves out of the water and gliding for short distances."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/2505042/pexels-photo-2505042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/1618925/pexels-photo-1618925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "wasp",
+      "name": "civet",
       "facts": [
-        "Wasps produce paper by chewing wood fibers mixed with saliva.",
-        "Mud daubers build tubular nests with paralyzed spiders as living food for larvae.",
-        "Fig wasps co-evolved with figs – each fig species has its own wasp pollinator.",
-        "Parasitoid wasps lay eggs in hosts; larvae eat prey alive while avoiding vital organs."
+        "Kopi Luwak coffee, one of the most expensive coffees in the world, is produced from beans that have been digested and excreted by civets.",
+        "They are omnivorous, eating fruits, insects, small mammals, and birds.",
+        "Most species are nocturnal and arboreal, although some are more terrestrial.",
+        "Civets are cat-like mammals from Africa and Asia, known for their ability to secrete a musky scent, used in perfumery."
       ],
       "images": [
-        "https://images.pexels.com/photos/158313/wasp-insect-macro-close-158313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/928966/pexels-photo-928966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/19763157/pexels-photo-19763157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/7723964/pexels-photo-7723964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "parrotfish",
+      "name": "jaguar",
       "facts": [
-        "Parrotfish can change their gender during their lifetime.",
-        "They produce sand by grinding up coral with their teeth—up to 200 pounds per year.",
-        "At night, some species secrete a mucus cocoon around themselves for protection.",
-        "Parrotfish get their name from their beak-like teeth used to scrape algae from coral."
+        "Their spots, called rosettes, are unique to each individual, like fingerprints.",
+        "Jaguars are excellent swimmers and often hunt fish, turtles, and caimans.",
+        "They have the strongest bite force of any big cat, capable of crushing skulls.",
+        "Jaguars are the largest big cats in the Americas and the third-largest in the world."
       ],
       "images": [
-        "https://images.pexels.com/photos/9762762/pexels-photo-9762762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/5272931/pexels-photo-5272931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/235674/pexels-photo-235674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/773004/pexels-photo-773004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "heron",
+      "name": "bee-eater",
       "facts": [
-        "They can swallow fish whole, thanks to their flexible necks and sharp beaks.",
-        "Some heron species use bait, like twigs or insects, to lure fish closer.",
-        "Herons have a unique hunting technique, standing perfectly still before striking at prey.",
-        "Herons often nest in colonies called 'heronries,' high in trees or on cliffs."
+        "Before eating an insect, a bee-eater will rub it against a branch to remove the stinger and venom.",
+        "They are social birds, often nesting in colonies and foraging in groups.",
+        "Bee-eaters are known for their vibrant plumage and their ability to catch insects, especially bees and wasps, in mid-flight.",
+        "Most bee-eater species build their nests in burrows dug into the ground or in sandbanks."
       ],
       "images": [
-        "https://images.pexels.com/photos/516543/pexels-photo-516543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/3660658/pexels-photo-3660658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/32643969/pexels-photo-32643969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/32643968/pexels-photo-32643968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
