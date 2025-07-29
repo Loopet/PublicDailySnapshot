@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "squid",
+    "name": "squirrel",
     "facts": [
-      "Squid have three hearts: two pump blood to the gills, and one pumps it to the rest of the body.",
-      "They can change color rapidly to communicate or camouflage, using specialized cells called chromatophores.",
-      "Some squid species can 'fly' by propelling themselves out of the water and gliding for short distances.",
-      "The giant squid is the largest invertebrate, with eyes the size of dinner plates."
+      "Squirrels communicate with each other using tail flicking and vocalizations.",
+      "They can rotate their ankles 180 degrees to climb down trees headfirst.",
+      "Squirrels plant thousands of trees each year by forgetting where they buried their acorns.",
+      "Some species of squirrels can leap up to 20 feet between trees."
     ],
     "images": [
-      "https://images.pexels.com/photos/2505042/pexels-photo-2505042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/1618925/pexels-photo-1618925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/47547/squirrel-animal-cute-rodents-47547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/47359/squirrel-wildlife-nature-animal-47359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "07-22",
-      "name": "siberian husky",
-      "facts": [
-        "They are known for their striking blue or multi-colored eyes and thick double coat.",
-        "Siberian huskies are a medium-sized working dog breed.",
-        "They are energetic and require a lot of exercise.",
-        "Siberian huskies were originally bred as sled dogs."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/3715587/pexels-photo-3715587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/2853422/pexels-photo-2853422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "07-23",
       "name": "skunk",
       "facts": [
+        "Skunks are known for their ability to spray a foul-smelling liquid as a defense mechanism, which can reach up to 10 feet.",
         "Before spraying, skunks usually give a warning by stomping their feet or raising their tail.",
-        "Skunks are nocturnal and have poor eyesight but an excellent sense of smell and hearing.",
         "They are immune to snake venom and will sometimes eat venomous snakes.",
-        "Skunks are known for their ability to spray a foul-smelling liquid as a defense mechanism, which can reach up to 10 feet."
+        "Skunks are nocturnal and have poor eyesight but an excellent sense of smell and hearing."
       ],
       "images": [
         "https://images.pexels.com/photos/14210442/pexels-photo-14210442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,8 +31,8 @@
       "date": "07-24",
       "name": "snail",
       "facts": [
-        "The largest land snail, the African giant snail, can grow up to 15 inches long.",
         "Snails can sleep for up to three years if the weather isn't favorable.",
+        "The largest land snail, the African giant snail, can grow up to 15 inches long.",
         "They have thousands of tiny teeth on their tongue-like radula, which they use to scrape food.",
         "Snails are hermaphrodites, meaning each individual has both male and female reproductive organs."
       ],
@@ -59,10 +45,10 @@
       "date": "07-25",
       "name": "snow leopard",
       "facts": [
-        "They are unable to roar but communicate with chuffing sounds and growls.",
-        "Snow leopards can leap up to 50 feet in a single bound.",
+        "Snow leopards are known as 'ghosts of the mountains' due to their elusive nature.",
         "They have thick fur and wide, fur-covered feet that act as natural snowshoes.",
-        "Snow leopards are known as 'ghosts of the mountains' due to their elusive nature."
+        "Snow leopards can leap up to 50 feet in a single bound.",
+        "They are unable to roar but communicate with chuffing sounds and growls."
       ],
       "images": [
         "https://images.pexels.com/photos/267074/pexels-photo-267074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,10 +59,10 @@
       "date": "07-26",
       "name": "snowy owl",
       "facts": [
-        "Snowy owls can detect prey moving beneath the snow using their exceptional hearing.",
         "Their feathers are nearly entirely white, providing perfect camouflage in snowy environments.",
         "Unlike most owls, they are diurnal and hunt both day and night in the Arctic tundra.",
-        "Snowy owls are one of the largest owl species, with a wingspan of up to 5 feet."
+        "Snowy owls are one of the largest owl species, with a wingspan of up to 5 feet.",
+        "Snowy owls can detect prey moving beneath the snow using their exceptional hearing."
       ],
       "images": [
         "https://images.pexels.com/photos/1804976/pexels-photo-1804976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,8 +73,8 @@
       "date": "07-27",
       "name": "spider",
       "facts": [
-        "All spiders produce silk, but not all spiders spin webs to catch prey.",
         "Spiders are not insects; they are arachnids, with eight legs and two body segments.",
+        "All spiders produce silk, but not all spiders spin webs to catch prey.",
         "Some spiders can 'balloon' by releasing silk threads to catch the wind and travel long distances.",
         "The venom of most spiders is harmless to humans, with only a few species being dangerous."
       ],
@@ -102,54 +88,68 @@
       "name": "squid",
       "facts": [
         "They can change color rapidly to communicate or camouflage, using specialized cells called chromatophores.",
-        "The giant squid is the largest invertebrate, with eyes the size of dinner plates.",
         "Squid have three hearts: two pump blood to the gills, and one pumps it to the rest of the body.",
+        "The giant squid is the largest invertebrate, with eyes the size of dinner plates.",
         "Some squid species can 'fly' by propelling themselves out of the water and gliding for short distances."
       ],
       "images": [
         "https://images.pexels.com/photos/2505042/pexels-photo-2505042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/1618925/pexels-photo-1618925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "07-29",
+      "name": "squirrel",
+      "facts": [
+        "Squirrels plant thousands of trees each year by forgetting where they buried their acorns.",
+        "Some species of squirrels can leap up to 20 feet between trees.",
+        "They can rotate their ankles 180 degrees to climb down trees headfirst.",
+        "Squirrels communicate with each other using tail flicking and vocalizations."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/47547/squirrel-animal-cute-rodents-47547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/47359/squirrel-wildlife-nature-animal-47359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "civet",
+      "name": "mongoose",
       "facts": [
-        "Kopi Luwak coffee, one of the most expensive coffees in the world, is produced from beans that have been digested and excreted by civets.",
-        "They are omnivorous, eating fruits, insects, small mammals, and birds.",
-        "Most species are nocturnal and arboreal, although some are more terrestrial.",
-        "Civets are cat-like mammals from Africa and Asia, known for their ability to secrete a musky scent, used in perfumery."
+        "Mongooses are famous for their ability to fight and kill venomous snakes.",
+        "They have specialized acetylcholine receptors that make them resistant to snake venom.",
+        "Mongooses live in groups and communicate through a variety of vocalizations.",
+        "Some species, like the meerkat, are highly social and cooperative."
       ],
       "images": [
-        "https://images.pexels.com/photos/19763157/pexels-photo-19763157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/7723964/pexels-photo-7723964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/2873591/pexels-photo-2873591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/1557917/pexels-photo-1557917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "jaguar",
+      "name": "goose",
       "facts": [
-        "Their spots, called rosettes, are unique to each individual, like fingerprints.",
-        "Jaguars are excellent swimmers and often hunt fish, turtles, and caimans.",
-        "They have the strongest bite force of any big cat, capable of crushing skulls.",
-        "Jaguars are the largest big cats in the Americas and the third-largest in the world."
+        "Geese mate for life and can live over 25 years.",
+        "They fly in V-formation to conserve energy during long migrations.",
+        "Geese have excellent memories and can remember migration routes for life.",
+        "They can fly at altitudes up to 29,000 feet."
       ],
       "images": [
-        "https://images.pexels.com/photos/235674/pexels-photo-235674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/773004/pexels-photo-773004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/66863/goose-water-bird-nature-bird-66863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/57406/greater-snow-goose-goose-snow-goose-wading-bird-57406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "bee-eater",
+      "name": "cobra",
       "facts": [
-        "Before eating an insect, a bee-eater will rub it against a branch to remove the stinger and venom.",
-        "They are social birds, often nesting in colonies and foraging in groups.",
-        "Bee-eaters are known for their vibrant plumage and their ability to catch insects, especially bees and wasps, in mid-flight.",
-        "Most bee-eater species build their nests in burrows dug into the ground or in sandbanks."
+        "Cobras can 'stand up' by raising up to one-third of their body length.",
+        "Despite their reputation, they prefer to avoid confrontation with humans.",
+        "They spread their hood as a warning display when threatened.",
+        "King cobras are the longest venomous snakes in the world."
       ],
       "images": [
-        "https://images.pexels.com/photos/32643969/pexels-photo-32643969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/32643968/pexels-photo-32643968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/106690/pexels-photo-106690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/3810915/pexels-photo-3810915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
