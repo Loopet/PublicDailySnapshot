@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "squirrel",
+    "name": "starfish",
     "facts": [
-      "Squirrels communicate with each other using tail flicking and vocalizations.",
-      "They can rotate their ankles 180 degrees to climb down trees headfirst.",
-      "Squirrels plant thousands of trees each year by forgetting where they buried their acorns.",
-      "Some species of squirrels can leap up to 20 feet between trees."
+      "There are over 2,000 species of starfish, found in all the world's oceans.",
+      "Starfish are not fish; they are echinoderms, related to sea urchins and sand dollars.",
+      "They can regenerate lost arms, and some species can even regrow an entire body from a single arm.",
+      "Starfish have no brain or blood; instead, they use a water vascular system to move their tube feet."
     ],
     "images": [
-      "https://images.pexels.com/photos/47547/squirrel-animal-cute-rodents-47547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/47359/squirrel-wildlife-nature-animal-47359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/2540698/pexels-photo-2540698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2289411/pexels-photo-2289411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "07-23",
-      "name": "skunk",
-      "facts": [
-        "Skunks are known for their ability to spray a foul-smelling liquid as a defense mechanism, which can reach up to 10 feet.",
-        "Before spraying, skunks usually give a warning by stomping their feet or raising their tail.",
-        "They are immune to snake venom and will sometimes eat venomous snakes.",
-        "Skunks are nocturnal and have poor eyesight but an excellent sense of smell and hearing."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/14210442/pexels-photo-14210442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/17118048/pexels-photo-17118048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "07-24",
       "name": "snail",
       "facts": [
-        "Snails can sleep for up to three years if the weather isn't favorable.",
         "The largest land snail, the African giant snail, can grow up to 15 inches long.",
+        "Snails are hermaphrodites, meaning each individual has both male and female reproductive organs.",
         "They have thousands of tiny teeth on their tongue-like radula, which they use to scrape food.",
-        "Snails are hermaphrodites, meaning each individual has both male and female reproductive organs."
+        "Snails can sleep for up to three years if the weather isn't favorable."
       ],
       "images": [
         "https://images.pexels.com/photos/320956/pexels-photo-320956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,10 +31,10 @@
       "date": "07-25",
       "name": "snow leopard",
       "facts": [
-        "Snow leopards are known as 'ghosts of the mountains' due to their elusive nature.",
         "They have thick fur and wide, fur-covered feet that act as natural snowshoes.",
-        "Snow leopards can leap up to 50 feet in a single bound.",
-        "They are unable to roar but communicate with chuffing sounds and growls."
+        "They are unable to roar but communicate with chuffing sounds and growls.",
+        "Snow leopards are known as 'ghosts of the mountains' due to their elusive nature.",
+        "Snow leopards can leap up to 50 feet in a single bound."
       ],
       "images": [
         "https://images.pexels.com/photos/267074/pexels-photo-267074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -59,8 +45,8 @@
       "date": "07-26",
       "name": "snowy owl",
       "facts": [
-        "Their feathers are nearly entirely white, providing perfect camouflage in snowy environments.",
         "Unlike most owls, they are diurnal and hunt both day and night in the Arctic tundra.",
+        "Their feathers are nearly entirely white, providing perfect camouflage in snowy environments.",
         "Snowy owls are one of the largest owl species, with a wingspan of up to 5 feet.",
         "Snowy owls can detect prey moving beneath the snow using their exceptional hearing."
       ],
@@ -73,10 +59,10 @@
       "date": "07-27",
       "name": "spider",
       "facts": [
-        "Spiders are not insects; they are arachnids, with eight legs and two body segments.",
         "All spiders produce silk, but not all spiders spin webs to catch prey.",
         "Some spiders can 'balloon' by releasing silk threads to catch the wind and travel long distances.",
-        "The venom of most spiders is harmless to humans, with only a few species being dangerous."
+        "The venom of most spiders is harmless to humans, with only a few species being dangerous.",
+        "Spiders are not insects; they are arachnids, with eight legs and two body segments."
       ],
       "images": [
         "https://images.pexels.com/photos/40795/spider-macro-zebra-spider-insect-40795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,10 +73,10 @@
       "date": "07-28",
       "name": "squid",
       "facts": [
-        "They can change color rapidly to communicate or camouflage, using specialized cells called chromatophores.",
-        "Squid have three hearts: two pump blood to the gills, and one pumps it to the rest of the body.",
         "The giant squid is the largest invertebrate, with eyes the size of dinner plates.",
-        "Some squid species can 'fly' by propelling themselves out of the water and gliding for short distances."
+        "Some squid species can 'fly' by propelling themselves out of the water and gliding for short distances.",
+        "They can change color rapidly to communicate or camouflage, using specialized cells called chromatophores.",
+        "Squid have three hearts: two pump blood to the gills, and one pumps it to the rest of the body."
       ],
       "images": [
         "https://images.pexels.com/photos/2505042/pexels-photo-2505042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -102,54 +88,68 @@
       "name": "squirrel",
       "facts": [
         "Squirrels plant thousands of trees each year by forgetting where they buried their acorns.",
-        "Some species of squirrels can leap up to 20 feet between trees.",
         "They can rotate their ankles 180 degrees to climb down trees headfirst.",
-        "Squirrels communicate with each other using tail flicking and vocalizations."
+        "Squirrels communicate with each other using tail flicking and vocalizations.",
+        "Some species of squirrels can leap up to 20 feet between trees."
       ],
       "images": [
         "https://images.pexels.com/photos/47547/squirrel-animal-cute-rodents-47547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/47359/squirrel-wildlife-nature-animal-47359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "07-30",
+      "name": "starfish",
+      "facts": [
+        "They can regenerate lost arms, and some species can even regrow an entire body from a single arm.",
+        "Starfish have no brain or blood; instead, they use a water vascular system to move their tube feet.",
+        "There are over 2,000 species of starfish, found in all the world's oceans.",
+        "Starfish are not fish; they are echinoderms, related to sea urchins and sand dollars."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/2540698/pexels-photo-2540698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2289411/pexels-photo-2289411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "mongoose",
+      "name": "jaguar",
       "facts": [
-        "Mongooses are famous for their ability to fight and kill venomous snakes.",
-        "They have specialized acetylcholine receptors that make them resistant to snake venom.",
-        "Mongooses live in groups and communicate through a variety of vocalizations.",
-        "Some species, like the meerkat, are highly social and cooperative."
+        "Jaguars are the largest big cats in the Americas and the third-largest in the world.",
+        "They have the strongest bite force of any big cat, capable of crushing skulls.",
+        "Jaguars are excellent swimmers and often hunt fish, turtles, and caimans.",
+        "Their spots, called rosettes, are unique to each individual, like fingerprints."
       ],
       "images": [
-        "https://images.pexels.com/photos/2873591/pexels-photo-2873591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/1557917/pexels-photo-1557917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/235674/pexels-photo-235674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/773004/pexels-photo-773004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "goose",
+      "name": "coyote",
       "facts": [
-        "Geese mate for life and can live over 25 years.",
-        "They fly in V-formation to conserve energy during long migrations.",
-        "Geese have excellent memories and can remember migration routes for life.",
-        "They can fly at altitudes up to 29,000 feet."
+        "Coyotes have excellent hearing and can detect sounds from up to 6 miles away.",
+        "They're highly adaptable and have expanded their range across North America.",
+        "They're very social and communicate through howls, yips, and barks.",
+        "Coyotes can run up to 43 mph and jump up to 14 feet."
       ],
       "images": [
-        "https://images.pexels.com/photos/66863/goose-water-bird-nature-bird-66863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/57406/greater-snow-goose-goose-snow-goose-wading-bird-57406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/1603783/pexels-photo-1603783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/1581020/pexels-photo-1581020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "cobra",
+      "name": "tarsier",
       "facts": [
-        "Cobras can 'stand up' by raising up to one-third of their body length.",
-        "Despite their reputation, they prefer to avoid confrontation with humans.",
-        "They spread their hood as a warning display when threatened.",
-        "King cobras are the longest venomous snakes in the world."
+        "Tarsiers are the only entirely carnivorous primates, eating insects, lizards, and small birds.",
+        "Tarsiers have the largest eyes relative to body size of any mammal.",
+        "They communicate using ultrasonic frequencies beyond human hearing.",
+        "They can rotate their heads nearly 180 degrees in each direction."
       ],
       "images": [
-        "https://images.pexels.com/photos/106690/pexels-photo-106690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/3810915/pexels-photo-3810915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/12246423/pexels-photo-12246423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/802212/pexels-photo-802212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
