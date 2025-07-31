@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "starfish",
+    "name": "stick insect",
     "facts": [
-      "There are over 2,000 species of starfish, found in all the world's oceans.",
-      "Starfish are not fish; they are echinoderms, related to sea urchins and sand dollars.",
-      "They can regenerate lost arms, and some species can even regrow an entire body from a single arm.",
-      "Starfish have no brain or blood; instead, they use a water vascular system to move their tube feet."
+      "They can regenerate lost limbs when they molt.",
+      "Some species can reproduce without males through parthenogenesis.",
+      "Stick insects are among the longest insects, with some species reaching over 2 feet in length.",
+      "Stick insects are masters of camouflage, resembling twigs or leaves."
     ],
     "images": [
-      "https://images.pexels.com/photos/2540698/pexels-photo-2540698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/2289411/pexels-photo-2289411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/2132765/pexels-photo-2132765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2132283/pexels-photo-2132283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "07-24",
-      "name": "snail",
-      "facts": [
-        "The largest land snail, the African giant snail, can grow up to 15 inches long.",
-        "Snails are hermaphrodites, meaning each individual has both male and female reproductive organs.",
-        "They have thousands of tiny teeth on their tongue-like radula, which they use to scrape food.",
-        "Snails can sleep for up to three years if the weather isn't favorable."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/320956/pexels-photo-320956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/53203/snail-snail-shell-slow-animal-53203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "07-25",
       "name": "snow leopard",
       "facts": [
-        "They have thick fur and wide, fur-covered feet that act as natural snowshoes.",
-        "They are unable to roar but communicate with chuffing sounds and growls.",
         "Snow leopards are known as 'ghosts of the mountains' due to their elusive nature.",
-        "Snow leopards can leap up to 50 feet in a single bound."
+        "Snow leopards can leap up to 50 feet in a single bound.",
+        "They have thick fur and wide, fur-covered feet that act as natural snowshoes.",
+        "They are unable to roar but communicate with chuffing sounds and growls."
       ],
       "images": [
         "https://images.pexels.com/photos/267074/pexels-photo-267074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,10 +31,10 @@
       "date": "07-26",
       "name": "snowy owl",
       "facts": [
-        "Unlike most owls, they are diurnal and hunt both day and night in the Arctic tundra.",
-        "Their feathers are nearly entirely white, providing perfect camouflage in snowy environments.",
         "Snowy owls are one of the largest owl species, with a wingspan of up to 5 feet.",
-        "Snowy owls can detect prey moving beneath the snow using their exceptional hearing."
+        "Their feathers are nearly entirely white, providing perfect camouflage in snowy environments.",
+        "Snowy owls can detect prey moving beneath the snow using their exceptional hearing.",
+        "Unlike most owls, they are diurnal and hunt both day and night in the Arctic tundra."
       ],
       "images": [
         "https://images.pexels.com/photos/1804976/pexels-photo-1804976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -59,9 +45,9 @@
       "date": "07-27",
       "name": "spider",
       "facts": [
-        "All spiders produce silk, but not all spiders spin webs to catch prey.",
-        "Some spiders can 'balloon' by releasing silk threads to catch the wind and travel long distances.",
         "The venom of most spiders is harmless to humans, with only a few species being dangerous.",
+        "Some spiders can 'balloon' by releasing silk threads to catch the wind and travel long distances.",
+        "All spiders produce silk, but not all spiders spin webs to catch prey.",
         "Spiders are not insects; they are arachnids, with eight legs and two body segments."
       ],
       "images": [
@@ -73,10 +59,10 @@
       "date": "07-28",
       "name": "squid",
       "facts": [
-        "The giant squid is the largest invertebrate, with eyes the size of dinner plates.",
-        "Some squid species can 'fly' by propelling themselves out of the water and gliding for short distances.",
         "They can change color rapidly to communicate or camouflage, using specialized cells called chromatophores.",
-        "Squid have three hearts: two pump blood to the gills, and one pumps it to the rest of the body."
+        "Squid have three hearts: two pump blood to the gills, and one pumps it to the rest of the body.",
+        "The giant squid is the largest invertebrate, with eyes the size of dinner plates.",
+        "Some squid species can 'fly' by propelling themselves out of the water and gliding for short distances."
       ],
       "images": [
         "https://images.pexels.com/photos/2505042/pexels-photo-2505042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,55 +87,69 @@
       "date": "07-30",
       "name": "starfish",
       "facts": [
-        "They can regenerate lost arms, and some species can even regrow an entire body from a single arm.",
         "Starfish have no brain or blood; instead, they use a water vascular system to move their tube feet.",
+        "Starfish are not fish; they are echinoderms, related to sea urchins and sand dollars.",
         "There are over 2,000 species of starfish, found in all the world's oceans.",
-        "Starfish are not fish; they are echinoderms, related to sea urchins and sand dollars."
+        "They can regenerate lost arms, and some species can even regrow an entire body from a single arm."
       ],
       "images": [
         "https://images.pexels.com/photos/2540698/pexels-photo-2540698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/2289411/pexels-photo-2289411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "07-31",
+      "name": "stick insect",
+      "facts": [
+        "Some species can reproduce without males through parthenogenesis.",
+        "Stick insects are masters of camouflage, resembling twigs or leaves.",
+        "They can regenerate lost limbs when they molt.",
+        "Stick insects are among the longest insects, with some species reaching over 2 feet in length."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/2132765/pexels-photo-2132765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2132283/pexels-photo-2132283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "jaguar",
+      "name": "colugo",
       "facts": [
-        "Jaguars are the largest big cats in the Americas and the third-largest in the world.",
-        "They have the strongest bite force of any big cat, capable of crushing skulls.",
-        "Jaguars are excellent swimmers and often hunt fish, turtles, and caimans.",
-        "Their spots, called rosettes, are unique to each individual, like fingerprints."
+        "They are nocturnal and herbivorous animals, feeding on leaves, buds, and flowers.",
+        "Colugos are mammals from Southeast Asia that are gliding masters, capable of covering up to 100 meters (330 feet) in a single glide.",
+        "They have a special skin membrane, called a patagium, which stretches from the neck to the fingertips and from the hind legs to the tail.",
+        "They spend most of their lives in trees and rarely descend to the ground."
       ],
       "images": [
-        "https://images.pexels.com/photos/235674/pexels-photo-235674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/773004/pexels-photo-773004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/15265407/pexels-photo-15265407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/1575857/pexels-photo-1575857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "coyote",
+      "name": "seal",
       "facts": [
-        "Coyotes have excellent hearing and can detect sounds from up to 6 miles away.",
-        "They're highly adaptable and have expanded their range across North America.",
-        "They're very social and communicate through howls, yips, and barks.",
-        "Coyotes can run up to 43 mph and jump up to 14 feet."
+        "Seals are pinnipeds, meaning 'fin-footed,' and are divided into true seals and eared seals.",
+        "Seals communicate through a variety of vocalizations, from barks to complex songs.",
+        "Some species, like the leopard seal, are apex predators in their ecosystems.",
+        "They can hold their breath for up to 2 hours when diving for food."
       ],
       "images": [
-        "https://images.pexels.com/photos/1603783/pexels-photo-1603783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/1581020/pexels-photo-1581020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/185032/pexels-photo-185032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/3187036/pexels-photo-3187036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "tarsier",
+      "name": "husky",
       "facts": [
-        "Tarsiers are the only entirely carnivorous primates, eating insects, lizards, and small birds.",
-        "Tarsiers have the largest eyes relative to body size of any mammal.",
-        "They communicate using ultrasonic frequencies beyond human hearing.",
-        "They can rotate their heads nearly 180 degrees in each direction."
+        "They are highly energetic and require lots of exercise to stay happy and healthy.",
+        "Siberian huskies were bred by the Chukchi people of Siberia for sled-pulling and companionship.",
+        "They have a thick double coat that protects them from temperatures as low as -60°F.",
+        "Huskies are known for their striking blue or multicolored eyes."
       ],
       "images": [
-        "https://images.pexels.com/photos/12246423/pexels-photo-12246423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/802212/pexels-photo-802212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/245035/pexels-photo-245035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2853129/pexels-photo-2853129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
