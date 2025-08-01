@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "stick insect",
+    "name": "stingray",
     "facts": [
-      "They can regenerate lost limbs when they molt.",
-      "Some species can reproduce without males through parthenogenesis.",
-      "Stick insects are among the longest insects, with some species reaching over 2 feet in length.",
-      "Stick insects are masters of camouflage, resembling twigs or leaves."
+      "They use electroreceptors to detect the electrical signals of prey hidden in the sand.",
+      "Stingrays are closely related to sharks and have skeletons made of cartilage, not bone.",
+      "Stingrays 'fly' through the water by flapping their pectoral fins like wings.",
+      "Their stingers are modified scales and can deliver venom, but they only use them in self-defense."
     ],
     "images": [
-      "https://images.pexels.com/photos/2132765/pexels-photo-2132765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/2132283/pexels-photo-2132283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/889929/pexels-photo-889929.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2832643/pexels-photo-2832643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "07-25",
-      "name": "snow leopard",
-      "facts": [
-        "Snow leopards are known as 'ghosts of the mountains' due to their elusive nature.",
-        "Snow leopards can leap up to 50 feet in a single bound.",
-        "They have thick fur and wide, fur-covered feet that act as natural snowshoes.",
-        "They are unable to roar but communicate with chuffing sounds and growls."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/267074/pexels-photo-267074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/751820/pexels-photo-751820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "07-26",
       "name": "snowy owl",
       "facts": [
-        "Snowy owls are one of the largest owl species, with a wingspan of up to 5 feet.",
-        "Their feathers are nearly entirely white, providing perfect camouflage in snowy environments.",
         "Snowy owls can detect prey moving beneath the snow using their exceptional hearing.",
-        "Unlike most owls, they are diurnal and hunt both day and night in the Arctic tundra."
+        "Unlike most owls, they are diurnal and hunt both day and night in the Arctic tundra.",
+        "Snowy owls are one of the largest owl species, with a wingspan of up to 5 feet.",
+        "Their feathers are nearly entirely white, providing perfect camouflage in snowy environments."
       ],
       "images": [
         "https://images.pexels.com/photos/1804976/pexels-photo-1804976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,10 +31,10 @@
       "date": "07-27",
       "name": "spider",
       "facts": [
-        "The venom of most spiders is harmless to humans, with only a few species being dangerous.",
         "Some spiders can 'balloon' by releasing silk threads to catch the wind and travel long distances.",
+        "Spiders are not insects; they are arachnids, with eight legs and two body segments.",
         "All spiders produce silk, but not all spiders spin webs to catch prey.",
-        "Spiders are not insects; they are arachnids, with eight legs and two body segments."
+        "The venom of most spiders is harmless to humans, with only a few species being dangerous."
       ],
       "images": [
         "https://images.pexels.com/photos/40795/spider-macro-zebra-spider-insect-40795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -59,8 +45,8 @@
       "date": "07-28",
       "name": "squid",
       "facts": [
-        "They can change color rapidly to communicate or camouflage, using specialized cells called chromatophores.",
         "Squid have three hearts: two pump blood to the gills, and one pumps it to the rest of the body.",
+        "They can change color rapidly to communicate or camouflage, using specialized cells called chromatophores.",
         "The giant squid is the largest invertebrate, with eyes the size of dinner plates.",
         "Some squid species can 'fly' by propelling themselves out of the water and gliding for short distances."
       ],
@@ -74,9 +60,9 @@
       "name": "squirrel",
       "facts": [
         "Squirrels plant thousands of trees each year by forgetting where they buried their acorns.",
+        "Some species of squirrels can leap up to 20 feet between trees.",
         "They can rotate their ankles 180 degrees to climb down trees headfirst.",
-        "Squirrels communicate with each other using tail flicking and vocalizations.",
-        "Some species of squirrels can leap up to 20 feet between trees."
+        "Squirrels communicate with each other using tail flicking and vocalizations."
       ],
       "images": [
         "https://images.pexels.com/photos/47547/squirrel-animal-cute-rodents-47547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,10 +73,10 @@
       "date": "07-30",
       "name": "starfish",
       "facts": [
-        "Starfish have no brain or blood; instead, they use a water vascular system to move their tube feet.",
         "Starfish are not fish; they are echinoderms, related to sea urchins and sand dollars.",
-        "There are over 2,000 species of starfish, found in all the world's oceans.",
-        "They can regenerate lost arms, and some species can even regrow an entire body from a single arm."
+        "They can regenerate lost arms, and some species can even regrow an entire body from a single arm.",
+        "Starfish have no brain or blood; instead, they use a water vascular system to move their tube feet.",
+        "There are over 2,000 species of starfish, found in all the world's oceans."
       ],
       "images": [
         "https://images.pexels.com/photos/2540698/pexels-photo-2540698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,55 +87,69 @@
       "date": "07-31",
       "name": "stick insect",
       "facts": [
-        "Some species can reproduce without males through parthenogenesis.",
-        "Stick insects are masters of camouflage, resembling twigs or leaves.",
+        "Stick insects are among the longest insects, with some species reaching over 2 feet in length.",
         "They can regenerate lost limbs when they molt.",
-        "Stick insects are among the longest insects, with some species reaching over 2 feet in length."
+        "Stick insects are masters of camouflage, resembling twigs or leaves.",
+        "Some species can reproduce without males through parthenogenesis."
       ],
       "images": [
         "https://images.pexels.com/photos/2132765/pexels-photo-2132765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/2132283/pexels-photo-2132283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "08-01",
+      "name": "stingray",
+      "facts": [
+        "Stingrays are closely related to sharks and have skeletons made of cartilage, not bone.",
+        "Their stingers are modified scales and can deliver venom, but they only use them in self-defense.",
+        "Stingrays 'fly' through the water by flapping their pectoral fins like wings.",
+        "They use electroreceptors to detect the electrical signals of prey hidden in the sand."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/889929/pexels-photo-889929.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2832643/pexels-photo-2832643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "colugo",
+      "name": "ibis",
       "facts": [
-        "They are nocturnal and herbivorous animals, feeding on leaves, buds, and flowers.",
-        "Colugos are mammals from Southeast Asia that are gliding masters, capable of covering up to 100 meters (330 feet) in a single glide.",
-        "They have a special skin membrane, called a patagium, which stretches from the neck to the fingertips and from the hind legs to the tail.",
-        "They spend most of their lives in trees and rarely descend to the ground."
+        "Ibises have long, curved beaks that they use to probe mud and shallow water for food.",
+        "They often fly in V-shaped formations to conserve energy during migration.",
+        "The sacred ibis was revered in ancient Egypt and associated with the god Thoth.",
+        "Ibises are social birds and usually nest in large colonies."
       ],
       "images": [
-        "https://images.pexels.com/photos/15265407/pexels-photo-15265407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/1575857/pexels-photo-1575857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/32650193/pexels-photo-32650193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/32618194/pexels-photo-32618194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "seal",
+      "name": "labrador",
       "facts": [
-        "Seals are pinnipeds, meaning 'fin-footed,' and are divided into true seals and eared seals.",
-        "Seals communicate through a variety of vocalizations, from barks to complex songs.",
-        "Some species, like the leopard seal, are apex predators in their ecosystems.",
-        "They can hold their breath for up to 2 hours when diving for food."
+        "Labradors are often used as assistance dogs, guide dogs for the blind, therapy dogs, and search-and-rescue dogs.",
+        "Labrador Retrievers are one of the most popular dog breeds in the world, known for their gentle temperament and intelligence.",
+        "They originated in Newfoundland, Canada, where they originally helped fishermen retrieve nets and catch escaped fish.",
+        "They have a water-resistant coat and 'webbed' paws, making them excellent swimmers."
       ],
       "images": [
-        "https://images.pexels.com/photos/185032/pexels-photo-185032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/3187036/pexels-photo-3187036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/35638/labrador-breed-dogs-animal.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/544269/pexels-photo-544269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "husky",
+      "name": "deer",
       "facts": [
-        "They are highly energetic and require lots of exercise to stay happy and healthy.",
-        "Siberian huskies were bred by the Chukchi people of Siberia for sled-pulling and companionship.",
-        "They have a thick double coat that protects them from temperatures as low as -60°F.",
-        "Huskies are known for their striking blue or multicolored eyes."
+        "Only male deer typically grow antlers, which they shed and regrow annually.",
+        "Deer have excellent hearing and can rotate their ears without moving their heads.",
+        "They're herbivores but have been observed occasionally eating bird eggs or fish.",
+        "White-tailed deer can run up to 30 mph and jump 8 feet high."
       ],
       "images": [
-        "https://images.pexels.com/photos/245035/pexels-photo-245035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/2853129/pexels-photo-2853129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/34231/antler-antler-carrier-fallow-deer-hirsch.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2607423/pexels-photo-2607423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
