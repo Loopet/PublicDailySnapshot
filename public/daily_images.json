@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "stoat",
+    "name": "swordfish",
     "facts": [
-      "Stoats are small but fierce predators that can take down prey much larger than themselves.",
-      "In cold climates, they turn white in winter and are called ermine.",
-      "Stoats perform a hypnotic 'dance' to confuse prey before attacking.",
-      "They are excellent climbers and swimmers, hunting in trees and water."
+      "Their sword-like bill is used to slash at prey, stunning or injuring them.",
+      "They can swim at speeds up to 60 mph, making them one of the fastest fish.",
+      "Swordfish have a specialized organ that warms their eyes and brain, improving their vision in cold water.",
+      "Swordfish can dive to depths of over 1,800 feet in search of food."
     ],
     "images": [
-      "https://images.pexels.com/photos/13713008/pexels-photo-13713008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/27020993/pexels-photo-27020993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/4631154/pexels-photo-4631154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11105053/pexels-photo-11105053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
-    {
-      "date": "07-27",
-      "name": "spider",
-      "facts": [
-        "Spiders are not insects; they are arachnids, with eight legs and two body segments.",
-        "The venom of most spiders is harmless to humans, with only a few species being dangerous.",
-        "All spiders produce silk, but not all spiders spin webs to catch prey.",
-        "Some spiders can 'balloon' by releasing silk threads to catch the wind and travel long distances."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/40795/spider-macro-zebra-spider-insect-40795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/34225/spider-web-with-water-beads-network-dewdrop.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
     {
       "date": "07-28",
       "name": "squid",
       "facts": [
         "The giant squid is the largest invertebrate, with eyes the size of dinner plates.",
-        "Some squid species can 'fly' by propelling themselves out of the water and gliding for short distances.",
+        "Squid have three hearts: two pump blood to the gills, and one pumps it to the rest of the body.",
         "They can change color rapidly to communicate or camouflage, using specialized cells called chromatophores.",
-        "Squid have three hearts: two pump blood to the gills, and one pumps it to the rest of the body."
+        "Some squid species can 'fly' by propelling themselves out of the water and gliding for short distances."
       ],
       "images": [
         "https://images.pexels.com/photos/2505042/pexels-photo-2505042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,10 +31,10 @@
       "date": "07-29",
       "name": "squirrel",
       "facts": [
-        "Squirrels communicate with each other using tail flicking and vocalizations.",
+        "Squirrels plant thousands of trees each year by forgetting where they buried their acorns.",
         "Some species of squirrels can leap up to 20 feet between trees.",
         "They can rotate their ankles 180 degrees to climb down trees headfirst.",
-        "Squirrels plant thousands of trees each year by forgetting where they buried their acorns."
+        "Squirrels communicate with each other using tail flicking and vocalizations."
       ],
       "images": [
         "https://images.pexels.com/photos/47547/squirrel-animal-cute-rodents-47547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -59,10 +45,10 @@
       "date": "07-30",
       "name": "starfish",
       "facts": [
-        "Starfish are not fish; they are echinoderms, related to sea urchins and sand dollars.",
-        "Starfish have no brain or blood; instead, they use a water vascular system to move their tube feet.",
         "There are over 2,000 species of starfish, found in all the world's oceans.",
-        "They can regenerate lost arms, and some species can even regrow an entire body from a single arm."
+        "Starfish are not fish; they are echinoderms, related to sea urchins and sand dollars.",
+        "They can regenerate lost arms, and some species can even regrow an entire body from a single arm.",
+        "Starfish have no brain or blood; instead, they use a water vascular system to move their tube feet."
       ],
       "images": [
         "https://images.pexels.com/photos/2540698/pexels-photo-2540698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,10 +59,10 @@
       "date": "07-31",
       "name": "stick insect",
       "facts": [
-        "They can regenerate lost limbs when they molt.",
         "Stick insects are among the longest insects, with some species reaching over 2 feet in length.",
-        "Stick insects are masters of camouflage, resembling twigs or leaves.",
-        "Some species can reproduce without males through parthenogenesis."
+        "They can regenerate lost limbs when they molt.",
+        "Some species can reproduce without males through parthenogenesis.",
+        "Stick insects are masters of camouflage, resembling twigs or leaves."
       ],
       "images": [
         "https://images.pexels.com/photos/2132765/pexels-photo-2132765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,10 +73,10 @@
       "date": "08-01",
       "name": "stingray",
       "facts": [
-        "They use electroreceptors to detect the electrical signals of prey hidden in the sand.",
         "Stingrays 'fly' through the water by flapping their pectoral fins like wings.",
-        "Their stingers are modified scales and can deliver venom, but they only use them in self-defense.",
-        "Stingrays are closely related to sharks and have skeletons made of cartilage, not bone."
+        "Stingrays are closely related to sharks and have skeletons made of cartilage, not bone.",
+        "They use electroreceptors to detect the electrical signals of prey hidden in the sand.",
+        "Their stingers are modified scales and can deliver venom, but they only use them in self-defense."
       ],
       "images": [
         "https://images.pexels.com/photos/889929/pexels-photo-889929.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,55 +87,69 @@
       "date": "08-02",
       "name": "stoat",
       "facts": [
-        "Stoats perform a hypnotic 'dance' to confuse prey before attacking.",
-        "They are excellent climbers and swimmers, hunting in trees and water.",
+        "Stoats are small but fierce predators that can take down prey much larger than themselves.",
         "In cold climates, they turn white in winter and are called ermine.",
-        "Stoats are small but fierce predators that can take down prey much larger than themselves."
+        "They are excellent climbers and swimmers, hunting in trees and water.",
+        "Stoats perform a hypnotic 'dance' to confuse prey before attacking."
       ],
       "images": [
         "https://images.pexels.com/photos/13713008/pexels-photo-13713008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/27020993/pexels-photo-27020993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "08-03",
+      "name": "swordfish",
+      "facts": [
+        "Swordfish can dive to depths of over 1,800 feet in search of food.",
+        "Swordfish have a specialized organ that warms their eyes and brain, improving their vision in cold water.",
+        "Their sword-like bill is used to slash at prey, stunning or injuring them.",
+        "They can swim at speeds up to 60 mph, making them one of the fastest fish."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/4631154/pexels-photo-4631154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/11105053/pexels-photo-11105053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "sand dollar",
+      "name": "robin",
       "facts": [
-        "Sand dollars are flat sea urchins that live on the ocean floor.",
-        "They feed by filtering tiny particles of food from the sand using their tube feet.",
-        "The five-petal pattern seen on dead sand dollars is actually their skeletal structure.",
-        "When alive, they are covered in tiny, velvety spines that help them move and feed."
+        "They are one of the first birds to sing at dawn, earning them the nickname 'the early bird.'",
+        "Robins sing year-round, with males using song to establish territory and attract mates.",
+        "They are territorial and will aggressively defend their feeding areas in winter.",
+        "Robins are known for their red breasts, which are brighter in males during breeding season."
       ],
       "images": [
-        "https://images.pexels.com/photos/6825467/pexels-photo-6825467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/6825471/pexels-photo-6825471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/46166/robin-european-robin-erithacus-rubecula-red-46166.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/416179/pexels-photo-416179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "zorse",
+      "name": "wolf",
       "facts": [
-        "A zorse is a hybrid of a male zebra and a female horse, resulting in an animal with a horse-like appearance with zebra stripes.",
-        "These are bred animals and do not occur naturally in the wild.",
-        "Like mules, zorses are usually sterile, meaning they cannot have their own offspring.",
-        "Their stripes are usually less distinct than those of zebras and often appear only on their legs and neck."
+        "Wolves are large canids and the ancestors of domestic dogs.",
+        "They are highly social animals and live in packs.",
+        "Wolves are carnivores and hunt large prey.",
+        "They are found in North America, Europe, and Asia."
       ],
       "images": [
-        "https://images.pexels.com/photos/2317904/pexels-photo-2317904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/301448/pexels-photo-301448.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/682375/pexels-photo-682375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/397857/pexels-photo-397857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "binturong",
+      "name": "pheasant",
       "facts": [
-        "Their fur is coarse and dark, and long whiskers help them navigate in the dark.",
-        "They have prehensile tails that serve as a 'fifth limb' for moving through trees.",
-        "They are nocturnal and omnivorous, feeding on fruits, small mammals, birds, and eggs.",
-        "Binturongs, also known as bearcats, are mammals from Southeast Asia that smell like buttery popcorn."
+        "Pheasants roost in trees at night to avoid ground predators.",
+        "They are ground-dwelling but can fly short distances to escape predators.",
+        "Males have elaborate plumage and perform courtship displays to attract females.",
+        "Pheasants are colorful birds native to Asia but introduced worldwide for hunting."
       ],
       "images": [
-        "https://images.pexels.com/photos/7723183/pexels-photo-7723183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/1231708/pexels-photo-1231708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/56885/golden-pheasant-pheasant-bird-yellow-red-56885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/32632572/pexels-photo-32632572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
