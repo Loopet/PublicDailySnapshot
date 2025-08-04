@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "swordfish",
+    "name": "tamarin",
     "facts": [
-      "Their sword-like bill is used to slash at prey, stunning or injuring them.",
-      "They can swim at speeds up to 60 mph, making them one of the fastest fish.",
-      "Swordfish have a specialized organ that warms their eyes and brain, improving their vision in cold water.",
-      "Swordfish can dive to depths of over 1,800 feet in search of food."
+      "Tamarins have claw-like nails instead of flat nails like other monkeys.",
+      "Tamarin monkeys are among the smallest primates, some weighing less than a pound.",
+      "They often give birth to twins, which is unusual for primates.",
+      "They communicate through a variety of high-pitched vocalizations."
     ],
     "images": [
-      "https://images.pexels.com/photos/4631154/pexels-photo-4631154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/11105053/pexels-photo-11105053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/3973557/pexels-photo-3973557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/802211/pexels-photo-802211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
-    {
-      "date": "07-28",
-      "name": "squid",
-      "facts": [
-        "The giant squid is the largest invertebrate, with eyes the size of dinner plates.",
-        "Squid have three hearts: two pump blood to the gills, and one pumps it to the rest of the body.",
-        "They can change color rapidly to communicate or camouflage, using specialized cells called chromatophores.",
-        "Some squid species can 'fly' by propelling themselves out of the water and gliding for short distances."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/2505042/pexels-photo-2505042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/1618925/pexels-photo-1618925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
     {
       "date": "07-29",
       "name": "squirrel",
       "facts": [
         "Squirrels plant thousands of trees each year by forgetting where they buried their acorns.",
+        "Squirrels communicate with each other using tail flicking and vocalizations.",
         "Some species of squirrels can leap up to 20 feet between trees.",
-        "They can rotate their ankles 180 degrees to climb down trees headfirst.",
-        "Squirrels communicate with each other using tail flicking and vocalizations."
+        "They can rotate their ankles 180 degrees to climb down trees headfirst."
       ],
       "images": [
         "https://images.pexels.com/photos/47547/squirrel-animal-cute-rodents-47547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,9 +31,9 @@
       "date": "07-30",
       "name": "starfish",
       "facts": [
-        "There are over 2,000 species of starfish, found in all the world's oceans.",
-        "Starfish are not fish; they are echinoderms, related to sea urchins and sand dollars.",
         "They can regenerate lost arms, and some species can even regrow an entire body from a single arm.",
+        "Starfish are not fish; they are echinoderms, related to sea urchins and sand dollars.",
+        "There are over 2,000 species of starfish, found in all the world's oceans.",
         "Starfish have no brain or blood; instead, they use a water vascular system to move their tube feet."
       ],
       "images": [
@@ -59,10 +45,10 @@
       "date": "07-31",
       "name": "stick insect",
       "facts": [
-        "Stick insects are among the longest insects, with some species reaching over 2 feet in length.",
         "They can regenerate lost limbs when they molt.",
-        "Some species can reproduce without males through parthenogenesis.",
-        "Stick insects are masters of camouflage, resembling twigs or leaves."
+        "Stick insects are among the longest insects, with some species reaching over 2 feet in length.",
+        "Stick insects are masters of camouflage, resembling twigs or leaves.",
+        "Some species can reproduce without males through parthenogenesis."
       ],
       "images": [
         "https://images.pexels.com/photos/2132765/pexels-photo-2132765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,10 +59,10 @@
       "date": "08-01",
       "name": "stingray",
       "facts": [
-        "Stingrays 'fly' through the water by flapping their pectoral fins like wings.",
-        "Stingrays are closely related to sharks and have skeletons made of cartilage, not bone.",
         "They use electroreceptors to detect the electrical signals of prey hidden in the sand.",
-        "Their stingers are modified scales and can deliver venom, but they only use them in self-defense."
+        "Stingrays are closely related to sharks and have skeletons made of cartilage, not bone.",
+        "Their stingers are modified scales and can deliver venom, but they only use them in self-defense.",
+        "Stingrays 'fly' through the water by flapping their pectoral fins like wings."
       ],
       "images": [
         "https://images.pexels.com/photos/889929/pexels-photo-889929.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,9 +73,9 @@
       "date": "08-02",
       "name": "stoat",
       "facts": [
-        "Stoats are small but fierce predators that can take down prey much larger than themselves.",
         "In cold climates, they turn white in winter and are called ermine.",
         "They are excellent climbers and swimmers, hunting in trees and water.",
+        "Stoats are small but fierce predators that can take down prey much larger than themselves.",
         "Stoats perform a hypnotic 'dance' to confuse prey before attacking."
       ],
       "images": [
@@ -101,55 +87,69 @@
       "date": "08-03",
       "name": "swordfish",
       "facts": [
-        "Swordfish can dive to depths of over 1,800 feet in search of food.",
-        "Swordfish have a specialized organ that warms their eyes and brain, improving their vision in cold water.",
+        "They can swim at speeds up to 60 mph, making them one of the fastest fish.",
         "Their sword-like bill is used to slash at prey, stunning or injuring them.",
-        "They can swim at speeds up to 60 mph, making them one of the fastest fish."
+        "Swordfish have a specialized organ that warms their eyes and brain, improving their vision in cold water.",
+        "Swordfish can dive to depths of over 1,800 feet in search of food."
       ],
       "images": [
         "https://images.pexels.com/photos/4631154/pexels-photo-4631154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/11105053/pexels-photo-11105053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "08-04",
+      "name": "tamarin",
+      "facts": [
+        "Tamarin monkeys are among the smallest primates, some weighing less than a pound.",
+        "They often give birth to twins, which is unusual for primates.",
+        "Tamarins have claw-like nails instead of flat nails like other monkeys.",
+        "They communicate through a variety of high-pitched vocalizations."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/3973557/pexels-photo-3973557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/802211/pexels-photo-802211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "robin",
+      "name": "parrot",
       "facts": [
-        "They are one of the first birds to sing at dawn, earning them the nickname 'the early bird.'",
-        "Robins sing year-round, with males using song to establish territory and attract mates.",
-        "They are territorial and will aggressively defend their feeding areas in winter.",
-        "Robins are known for their red breasts, which are brighter in males during breeding season."
+        "Parrots have zygodactyl feet—two toes forward and two backward—for gripping branches.",
+        "They can mimic human speech and sounds, with some learning hundreds of words.",
+        "Parrots are among the most intelligent birds, capable of solving puzzles and using tools.",
+        "Some species, like the kakapo, are flightless and nocturnal."
       ],
       "images": [
-        "https://images.pexels.com/photos/46166/robin-european-robin-erithacus-rubecula-red-46166.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/416179/pexels-photo-416179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/1463295/pexels-photo-1463295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2317904/pexels-photo-2317904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "wolf",
+      "name": "sea lion",
       "facts": [
-        "Wolves are large canids and the ancestors of domestic dogs.",
-        "They are highly social animals and live in packs.",
-        "Wolves are carnivores and hunt large prey.",
-        "They are found in North America, Europe, and Asia."
+        "They are intelligent and can be trained to perform complex tasks.",
+        "Sea lions can rotate their hind flippers forward to walk on land.",
+        "Sea lions can dive up to 900 feet and hold their breath for 10 minutes.",
+        "They are highly social and communicate through barks, growls, and body language."
       ],
       "images": [
-        "https://images.pexels.com/photos/682375/pexels-photo-682375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/397857/pexels-photo-397857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/105819/pexels-photo-105819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/1917846/pexels-photo-1917846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "pheasant",
+      "name": "cockatoo",
       "facts": [
-        "Pheasants roost in trees at night to avoid ground predators.",
-        "They are ground-dwelling but can fly short distances to escape predators.",
-        "Males have elaborate plumage and perform courtship displays to attract females.",
-        "Pheasants are colorful birds native to Asia but introduced worldwide for hunting."
+        "Cockatoos are very social and can become depressed without interaction.",
+        "Their powerful beaks can crack the hardest nuts and seeds.",
+        "Cockatoos can live over 100 years, making them lifelong companions.",
+        "They're incredibly intelligent and can learn to solve complex puzzles."
       ],
       "images": [
-        "https://images.pexels.com/photos/56885/golden-pheasant-pheasant-bird-yellow-red-56885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/32632572/pexels-photo-32632572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/1689075/pexels-photo-1689075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2562914/pexels-photo-2562914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
