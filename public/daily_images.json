@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "tamarin",
+    "name": "tarsier",
     "facts": [
-      "Tamarins have claw-like nails instead of flat nails like other monkeys.",
-      "Tamarin monkeys are among the smallest primates, some weighing less than a pound.",
-      "They often give birth to twins, which is unusual for primates.",
-      "They communicate through a variety of high-pitched vocalizations."
+      "Tarsiers have the largest eyes relative to body size of any mammal.",
+      "They can rotate their heads nearly 180 degrees in each direction.",
+      "Tarsiers are the only entirely carnivorous primates, eating insects, lizards, and small birds.",
+      "They communicate using ultrasonic frequencies beyond human hearing."
     ],
     "images": [
-      "https://images.pexels.com/photos/3973557/pexels-photo-3973557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/802211/pexels-photo-802211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/12246423/pexels-photo-12246423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/802212/pexels-photo-802212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "07-29",
-      "name": "squirrel",
-      "facts": [
-        "Squirrels plant thousands of trees each year by forgetting where they buried their acorns.",
-        "Squirrels communicate with each other using tail flicking and vocalizations.",
-        "Some species of squirrels can leap up to 20 feet between trees.",
-        "They can rotate their ankles 180 degrees to climb down trees headfirst."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/47547/squirrel-animal-cute-rodents-47547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/47359/squirrel-wildlife-nature-animal-47359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "07-30",
       "name": "starfish",
       "facts": [
-        "They can regenerate lost arms, and some species can even regrow an entire body from a single arm.",
         "Starfish are not fish; they are echinoderms, related to sea urchins and sand dollars.",
-        "There are over 2,000 species of starfish, found in all the world's oceans.",
-        "Starfish have no brain or blood; instead, they use a water vascular system to move their tube feet."
+        "They can regenerate lost arms, and some species can even regrow an entire body from a single arm.",
+        "Starfish have no brain or blood; instead, they use a water vascular system to move their tube feet.",
+        "There are over 2,000 species of starfish, found in all the world's oceans."
       ],
       "images": [
         "https://images.pexels.com/photos/2540698/pexels-photo-2540698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,10 +31,10 @@
       "date": "07-31",
       "name": "stick insect",
       "facts": [
-        "They can regenerate lost limbs when they molt.",
-        "Stick insects are among the longest insects, with some species reaching over 2 feet in length.",
         "Stick insects are masters of camouflage, resembling twigs or leaves.",
-        "Some species can reproduce without males through parthenogenesis."
+        "Some species can reproduce without males through parthenogenesis.",
+        "They can regenerate lost limbs when they molt.",
+        "Stick insects are among the longest insects, with some species reaching over 2 feet in length."
       ],
       "images": [
         "https://images.pexels.com/photos/2132765/pexels-photo-2132765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -59,9 +45,9 @@
       "date": "08-01",
       "name": "stingray",
       "facts": [
-        "They use electroreceptors to detect the electrical signals of prey hidden in the sand.",
-        "Stingrays are closely related to sharks and have skeletons made of cartilage, not bone.",
         "Their stingers are modified scales and can deliver venom, but they only use them in self-defense.",
+        "Stingrays are closely related to sharks and have skeletons made of cartilage, not bone.",
+        "They use electroreceptors to detect the electrical signals of prey hidden in the sand.",
         "Stingrays 'fly' through the water by flapping their pectoral fins like wings."
       ],
       "images": [
@@ -73,10 +59,10 @@
       "date": "08-02",
       "name": "stoat",
       "facts": [
-        "In cold climates, they turn white in winter and are called ermine.",
-        "They are excellent climbers and swimmers, hunting in trees and water.",
         "Stoats are small but fierce predators that can take down prey much larger than themselves.",
-        "Stoats perform a hypnotic 'dance' to confuse prey before attacking."
+        "In cold climates, they turn white in winter and are called ermine.",
+        "Stoats perform a hypnotic 'dance' to confuse prey before attacking.",
+        "They are excellent climbers and swimmers, hunting in trees and water."
       ],
       "images": [
         "https://images.pexels.com/photos/13713008/pexels-photo-13713008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,10 +73,10 @@
       "date": "08-03",
       "name": "swordfish",
       "facts": [
-        "They can swim at speeds up to 60 mph, making them one of the fastest fish.",
-        "Their sword-like bill is used to slash at prey, stunning or injuring them.",
         "Swordfish have a specialized organ that warms their eyes and brain, improving their vision in cold water.",
-        "Swordfish can dive to depths of over 1,800 feet in search of food."
+        "Swordfish can dive to depths of over 1,800 feet in search of food.",
+        "They can swim at speeds up to 60 mph, making them one of the fastest fish.",
+        "Their sword-like bill is used to slash at prey, stunning or injuring them."
       ],
       "images": [
         "https://images.pexels.com/photos/4631154/pexels-photo-4631154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,8 +87,8 @@
       "date": "08-04",
       "name": "tamarin",
       "facts": [
-        "Tamarin monkeys are among the smallest primates, some weighing less than a pound.",
         "They often give birth to twins, which is unusual for primates.",
+        "Tamarin monkeys are among the smallest primates, some weighing less than a pound.",
         "Tamarins have claw-like nails instead of flat nails like other monkeys.",
         "They communicate through a variety of high-pitched vocalizations."
       ],
@@ -110,46 +96,60 @@
         "https://images.pexels.com/photos/3973557/pexels-photo-3973557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/802211/pexels-photo-802211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "08-05",
+      "name": "tarsier",
+      "facts": [
+        "They communicate using ultrasonic frequencies beyond human hearing.",
+        "Tarsiers are the only entirely carnivorous primates, eating insects, lizards, and small birds.",
+        "Tarsiers have the largest eyes relative to body size of any mammal.",
+        "They can rotate their heads nearly 180 degrees in each direction."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/12246423/pexels-photo-12246423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/802212/pexels-photo-802212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "parrot",
+      "name": "sea cucumber",
       "facts": [
-        "Parrots have zygodactyl feet—two toes forward and two backward—for gripping branches.",
-        "They can mimic human speech and sounds, with some learning hundreds of words.",
-        "Parrots are among the most intelligent birds, capable of solving puzzles and using tools.",
-        "Some species, like the kakapo, are flightless and nocturnal."
+        "Sea cucumbers can eject their internal organs as a defense mechanism and later regenerate them.",
+        "They breathe through their anus by pumping water in and out of their respiratory tree.",
+        "Some species can liquefy their bodies to squeeze through small spaces.",
+        "They play a crucial role in ocean ecosystems by recycling nutrients on the seafloor."
       ],
       "images": [
-        "https://images.pexels.com/photos/1463295/pexels-photo-1463295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/2317904/pexels-photo-2317904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/32640123/pexels-photo-32640123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/8826371/pexels-photo-8826371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "sea lion",
+      "name": "red fox",
       "facts": [
-        "They are intelligent and can be trained to perform complex tasks.",
-        "Sea lions can rotate their hind flippers forward to walk on land.",
-        "Sea lions can dive up to 900 feet and hold their breath for 10 minutes.",
-        "They are highly social and communicate through barks, growls, and body language."
+        "A group of foxes is called a skulk or leash.",
+        "They use over 40 different sounds to communicate.",
+        "Red foxes have excellent hearing and can locate prey under snow.",
+        "They're more closely related to dogs than cats."
       ],
       "images": [
-        "https://images.pexels.com/photos/105819/pexels-photo-105819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/1917846/pexels-photo-1917846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/2295744/pexels-photo-2295744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/158340/fuchs-wild-animal-predator-animal-world-158340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "cockatoo",
+      "name": "sea otter",
       "facts": [
-        "Cockatoos are very social and can become depressed without interaction.",
-        "Their powerful beaks can crack the hardest nuts and seeds.",
-        "Cockatoos can live over 100 years, making them lifelong companions.",
-        "They're incredibly intelligent and can learn to solve complex puzzles."
+        "Sea otters hold hands while sleeping to prevent drifting apart.",
+        "They play a crucial role in maintaining kelp forest ecosystems by controlling sea urchin populations.",
+        "They use rocks as tools to crack open shellfish while floating on their backs.",
+        "Sea otters have the densest fur of any animal, with up to 1 million hairs per square inch."
       ],
       "images": [
-        "https://images.pexels.com/photos/1689075/pexels-photo-1689075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/2562914/pexels-photo-2562914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/31762654/pexels-photo-31762654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/24778638/pexels-photo-24778638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
