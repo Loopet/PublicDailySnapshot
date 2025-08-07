@@ -1,39 +1,25 @@
 {
   "animalOfTheDay": {
-    "name": "tasmanian devil",
+    "name": "termite",
     "facts": [
-      "Tasmanian devils are carnivorous marsupials native to Tasmania, Australia.",
-      "They are known for their ferocious screeches and powerful bite.",
-      "Tasmanian devils are solitary and nocturnal scavengers.",
-      "They are the largest carnivorous marsupial in the world."
+      "Termites are more closely related to cockroaches than to ants.",
+      "They cultivate fungi in their nests as a food source.",
+      "Some termite mounds can be over 30 feet tall and contain millions of individuals.",
+      "Termite queens can live up to 50 years, making them among the longest-living insects."
     ],
     "images": [
-      "https://images.pexels.com/photos/21579905/pexels-photo-21579905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/3798395/pexels-photo-3798395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/32610024/pexels-photo-32610024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3790389/pexels-photo-3790389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "07-31",
-      "name": "stick insect",
-      "facts": [
-        "Stick insects are among the longest insects, with some species reaching over 2 feet in length.",
-        "They can regenerate lost limbs when they molt.",
-        "Some species can reproduce without males through parthenogenesis.",
-        "Stick insects are masters of camouflage, resembling twigs or leaves."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/2132765/pexels-photo-2132765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/2132283/pexels-photo-2132283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "08-01",
       "name": "stingray",
       "facts": [
-        "They use electroreceptors to detect the electrical signals of prey hidden in the sand.",
-        "Stingrays 'fly' through the water by flapping their pectoral fins like wings.",
         "Their stingers are modified scales and can deliver venom, but they only use them in self-defense.",
+        "Stingrays 'fly' through the water by flapping their pectoral fins like wings.",
+        "They use electroreceptors to detect the electrical signals of prey hidden in the sand.",
         "Stingrays are closely related to sharks and have skeletons made of cartilage, not bone."
       ],
       "images": [
@@ -45,10 +31,10 @@
       "date": "08-02",
       "name": "stoat",
       "facts": [
-        "Stoats perform a hypnotic 'dance' to confuse prey before attacking.",
-        "In cold climates, they turn white in winter and are called ermine.",
         "They are excellent climbers and swimmers, hunting in trees and water.",
-        "Stoats are small but fierce predators that can take down prey much larger than themselves."
+        "Stoats are small but fierce predators that can take down prey much larger than themselves.",
+        "In cold climates, they turn white in winter and are called ermine.",
+        "Stoats perform a hypnotic 'dance' to confuse prey before attacking."
       ],
       "images": [
         "https://images.pexels.com/photos/13713008/pexels-photo-13713008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -59,10 +45,10 @@
       "date": "08-03",
       "name": "swordfish",
       "facts": [
-        "Swordfish have a specialized organ that warms their eyes and brain, improving their vision in cold water.",
         "Swordfish can dive to depths of over 1,800 feet in search of food.",
+        "Their sword-like bill is used to slash at prey, stunning or injuring them.",
         "They can swim at speeds up to 60 mph, making them one of the fastest fish.",
-        "Their sword-like bill is used to slash at prey, stunning or injuring them."
+        "Swordfish have a specialized organ that warms their eyes and brain, improving their vision in cold water."
       ],
       "images": [
         "https://images.pexels.com/photos/4631154/pexels-photo-4631154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,8 +59,8 @@
       "date": "08-04",
       "name": "tamarin",
       "facts": [
-        "They communicate through a variety of high-pitched vocalizations.",
         "Tamarin monkeys are among the smallest primates, some weighing less than a pound.",
+        "They communicate through a variety of high-pitched vocalizations.",
         "They often give birth to twins, which is unusual for primates.",
         "Tamarins have claw-like nails instead of flat nails like other monkeys."
       ],
@@ -87,10 +73,10 @@
       "date": "08-05",
       "name": "tarsier",
       "facts": [
-        "They communicate using ultrasonic frequencies beyond human hearing.",
-        "Tarsiers are the only entirely carnivorous primates, eating insects, lizards, and small birds.",
+        "Tarsiers have the largest eyes relative to body size of any mammal.",
         "They can rotate their heads nearly 180 degrees in each direction.",
-        "Tarsiers have the largest eyes relative to body size of any mammal."
+        "They communicate using ultrasonic frequencies beyond human hearing.",
+        "Tarsiers are the only entirely carnivorous primates, eating insects, lizards, and small birds."
       ],
       "images": [
         "https://images.pexels.com/photos/12246423/pexels-photo-12246423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,55 +87,69 @@
       "date": "08-06",
       "name": "tasmanian devil",
       "facts": [
-        "Tasmanian devils are carnivorous marsupials native to Tasmania, Australia.",
-        "They are the largest carnivorous marsupial in the world.",
         "They are known for their ferocious screeches and powerful bite.",
-        "Tasmanian devils are solitary and nocturnal scavengers."
+        "They are the largest carnivorous marsupial in the world.",
+        "Tasmanian devils are solitary and nocturnal scavengers.",
+        "Tasmanian devils are carnivorous marsupials native to Tasmania, Australia."
       ],
       "images": [
         "https://images.pexels.com/photos/21579905/pexels-photo-21579905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/3798395/pexels-photo-3798395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "08-07",
+      "name": "termite",
+      "facts": [
+        "They cultivate fungi in their nests as a food source.",
+        "Some termite mounds can be over 30 feet tall and contain millions of individuals.",
+        "Termites are more closely related to cockroaches than to ants.",
+        "Termite queens can live up to 50 years, making them among the longest-living insects."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/32610024/pexels-photo-32610024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/3790389/pexels-photo-3790389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "caracal",
+      "name": "stoat",
       "facts": [
-        "Caracals can leap up to 10 feet high to catch birds in flight.",
-        "Their distinctive ear tufts help funnel sound to improve their hearing.",
-        "Caracals were once trained by Indian royalty to hunt birds.",
-        "They can survive without drinking water, getting moisture from their prey."
+        "They are excellent climbers and swimmers, hunting in trees and water.",
+        "Stoats perform a hypnotic 'dance' to confuse prey before attacking.",
+        "In cold climates, they turn white in winter and are called ermine.",
+        "Stoats are small but fierce predators that can take down prey much larger than themselves."
       ],
       "images": [
-        "https://images.pexels.com/photos/789577/pexels-photo-789577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/984468/pexels-photo-984468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/13713008/pexels-photo-13713008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/27020993/pexels-photo-27020993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "wasp",
+      "name": "badger",
       "facts": [
-        "Parasitoid wasps lay eggs in hosts; larvae eat prey alive while avoiding vital organs.",
-        "Fig wasps co-evolved with figs – each fig species has its own wasp pollinator.",
-        "Mud daubers build tubular nests with paralyzed spiders as living food for larvae.",
-        "Wasps produce paper by chewing wood fibers mixed with saliva."
+        "Badgers are excellent diggers and can excavate tunnels faster than humans with shovels.",
+        "They have incredibly thick skin that can resist bee stings and snake bites.",
+        "Honey badgers are considered one of the most fearless animals in the world.",
+        "They have a symbiotic relationship with honeyguide birds in Africa."
       ],
       "images": [
-        "https://images.pexels.com/photos/158313/wasp-insect-macro-close-158313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/928966/pexels-photo-928966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/17993076/pexels-photo-17993076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/11882072/pexels-photo-11882072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "sea lion",
+      "name": "sable",
       "facts": [
-        "Sea lions can rotate their hind flippers forward to walk on land.",
-        "Sea lions can dive up to 900 feet and hold their breath for 10 minutes.",
-        "They are highly social and communicate through barks, growls, and body language.",
-        "They are intelligent and can be trained to perform complex tasks."
+        "They are excellent climbers and swimmers, hunting both in trees and water.",
+        "Sables are small, agile members of the weasel family with luxurious fur.",
+        "Sables were once nearly hunted to extinction for their valuable fur.",
+        "They are solitary animals with large territories that they mark with scent."
       ],
       "images": [
-        "https://images.pexels.com/photos/105819/pexels-photo-105819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/1917846/pexels-photo-1917846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/236622/pexels-photo-236622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2382876/pexels-photo-2382876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
