@@ -1,39 +1,25 @@
 {
   "animalOfTheDay": {
-    "name": "termite",
+    "name": "tiger shark",
     "facts": [
-      "Termites are more closely related to cockroaches than to ants.",
-      "They cultivate fungi in their nests as a food source.",
-      "Some termite mounds can be over 30 feet tall and contain millions of individuals.",
-      "Termite queens can live up to 50 years, making them among the longest-living insects."
+      "They are born with distinctive stripes that fade as they mature.",
+      "Tiger sharks are one of the few shark species that can tolerate freshwater.",
+      "They have unique, saw-like teeth that can cut through turtle shells.",
+      "Tiger sharks are called 'garbage cans of the sea' because they'll eat almost anything."
     ],
     "images": [
-      "https://images.pexels.com/photos/32610024/pexels-photo-32610024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/3790389/pexels-photo-3790389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/18558753/pexels-photo-18558753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12059912/pexels-photo-12059912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "08-01",
-      "name": "stingray",
-      "facts": [
-        "Their stingers are modified scales and can deliver venom, but they only use them in self-defense.",
-        "Stingrays 'fly' through the water by flapping their pectoral fins like wings.",
-        "They use electroreceptors to detect the electrical signals of prey hidden in the sand.",
-        "Stingrays are closely related to sharks and have skeletons made of cartilage, not bone."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/889929/pexels-photo-889929.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/2832643/pexels-photo-2832643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "08-02",
       "name": "stoat",
       "facts": [
-        "They are excellent climbers and swimmers, hunting in trees and water.",
-        "Stoats are small but fierce predators that can take down prey much larger than themselves.",
         "In cold climates, they turn white in winter and are called ermine.",
+        "Stoats are small but fierce predators that can take down prey much larger than themselves.",
+        "They are excellent climbers and swimmers, hunting in trees and water.",
         "Stoats perform a hypnotic 'dance' to confuse prey before attacking."
       ],
       "images": [
@@ -45,10 +31,10 @@
       "date": "08-03",
       "name": "swordfish",
       "facts": [
+        "Swordfish have a specialized organ that warms their eyes and brain, improving their vision in cold water.",
         "Swordfish can dive to depths of over 1,800 feet in search of food.",
-        "Their sword-like bill is used to slash at prey, stunning or injuring them.",
         "They can swim at speeds up to 60 mph, making them one of the fastest fish.",
-        "Swordfish have a specialized organ that warms their eyes and brain, improving their vision in cold water."
+        "Their sword-like bill is used to slash at prey, stunning or injuring them."
       ],
       "images": [
         "https://images.pexels.com/photos/4631154/pexels-photo-4631154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -59,10 +45,10 @@
       "date": "08-04",
       "name": "tamarin",
       "facts": [
+        "Tamarins have claw-like nails instead of flat nails like other monkeys.",
         "Tamarin monkeys are among the smallest primates, some weighing less than a pound.",
         "They communicate through a variety of high-pitched vocalizations.",
-        "They often give birth to twins, which is unusual for primates.",
-        "Tamarins have claw-like nails instead of flat nails like other monkeys."
+        "They often give birth to twins, which is unusual for primates."
       ],
       "images": [
         "https://images.pexels.com/photos/3973557/pexels-photo-3973557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,10 +59,10 @@
       "date": "08-05",
       "name": "tarsier",
       "facts": [
-        "Tarsiers have the largest eyes relative to body size of any mammal.",
-        "They can rotate their heads nearly 180 degrees in each direction.",
         "They communicate using ultrasonic frequencies beyond human hearing.",
-        "Tarsiers are the only entirely carnivorous primates, eating insects, lizards, and small birds."
+        "Tarsiers are the only entirely carnivorous primates, eating insects, lizards, and small birds.",
+        "Tarsiers have the largest eyes relative to body size of any mammal.",
+        "They can rotate their heads nearly 180 degrees in each direction."
       ],
       "images": [
         "https://images.pexels.com/photos/12246423/pexels-photo-12246423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,9 +73,9 @@
       "date": "08-06",
       "name": "tasmanian devil",
       "facts": [
+        "Tasmanian devils are solitary and nocturnal scavengers.",
         "They are known for their ferocious screeches and powerful bite.",
         "They are the largest carnivorous marsupial in the world.",
-        "Tasmanian devils are solitary and nocturnal scavengers.",
         "Tasmanian devils are carnivorous marsupials native to Tasmania, Australia."
       ],
       "images": [
@@ -101,55 +87,66 @@
       "date": "08-07",
       "name": "termite",
       "facts": [
+        "Termites are more closely related to cockroaches than to ants.",
         "They cultivate fungi in their nests as a food source.",
         "Some termite mounds can be over 30 feet tall and contain millions of individuals.",
-        "Termites are more closely related to cockroaches than to ants.",
         "Termite queens can live up to 50 years, making them among the longest-living insects."
       ],
       "images": [
         "https://images.pexels.com/photos/32610024/pexels-photo-32610024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/3790389/pexels-photo-3790389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "08-08",
+      "name": "tiger shark",
+      "facts": [
+        "Tiger sharks are called 'garbage cans of the sea' because they'll eat almost anything.",
+        "They have unique, saw-like teeth that can cut through turtle shells.",
+        "Tiger sharks are one of the few shark species that can tolerate freshwater.",
+        "They are born with distinctive stripes that fade as they mature."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/18558753/pexels-photo-18558753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/12059912/pexels-photo-12059912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "stoat",
+      "name": "parrot",
       "facts": [
-        "They are excellent climbers and swimmers, hunting in trees and water.",
-        "Stoats perform a hypnotic 'dance' to confuse prey before attacking.",
-        "In cold climates, they turn white in winter and are called ermine.",
-        "Stoats are small but fierce predators that can take down prey much larger than themselves."
+        "Some species, like the kakapo, are flightless and nocturnal.",
+        "They can mimic human speech and sounds, with some learning hundreds of words.",
+        "Parrots are among the most intelligent birds, capable of solving puzzles and using tools.",
+        "Parrots have zygodactyl feet—two toes forward and two backward—for gripping branches."
       ],
       "images": [
-        "https://images.pexels.com/photos/13713008/pexels-photo-13713008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/27020993/pexels-photo-27020993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/1463295/pexels-photo-1463295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2317904/pexels-photo-2317904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "badger",
+      "name": "marmot",
       "facts": [
-        "Badgers are excellent diggers and can excavate tunnels faster than humans with shovels.",
-        "They have incredibly thick skin that can resist bee stings and snake bites.",
-        "Honey badgers are considered one of the most fearless animals in the world.",
-        "They have a symbiotic relationship with honeyguide birds in Africa."
+        "No facts available."
       ],
       "images": [
-        "https://images.pexels.com/photos/17993076/pexels-photo-17993076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/11882072/pexels-photo-11882072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/31034856/pexels-photo-31034856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/17427980/pexels-photo-17427980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "sable",
+      "name": "panther",
       "facts": [
-        "They are excellent climbers and swimmers, hunting both in trees and water.",
-        "Sables are small, agile members of the weasel family with luxurious fur.",
-        "Sables were once nearly hunted to extinction for their valuable fur.",
-        "They are solitary animals with large territories that they mark with scent."
+        "Their dark color comes from a genetic mutation called melanism.",
+        "They are powerful swimmers and climbers, capable of dragging prey up trees.",
+        "Panthers are not a distinct species but are black-coated leopards or jaguars.",
+        "Panthers are solitary and stealthy, hunting primarily at night."
       ],
       "images": [
-        "https://images.pexels.com/photos/236622/pexels-photo-236622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/2382876/pexels-photo-2382876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/26045671/pexels-photo-26045671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/4137250/pexels-photo-4137250.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
