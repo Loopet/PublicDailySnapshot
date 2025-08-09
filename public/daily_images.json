@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "tiger shark",
+    "name": "toad",
     "facts": [
-      "They are born with distinctive stripes that fade as they mature.",
-      "Tiger sharks are one of the few shark species that can tolerate freshwater.",
-      "They have unique, saw-like teeth that can cut through turtle shells.",
-      "Tiger sharks are called 'garbage cans of the sea' because they'll eat almost anything."
+      "Toads are more terrestrial than frogs and are often found far from water.",
+      "Toads have dry, warty skin, while frogs have smooth, moist skin.",
+      "They secrete toxins from their skin to deter predators, which can be harmful if ingested.",
+      "Some toads, like the cane toad, have become invasive species in certain regions."
     ],
     "images": [
-      "https://images.pexels.com/photos/18558753/pexels-photo-18558753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/12059912/pexels-photo-12059912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/158031/the-frog-amphibian-forest-nature-158031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/70083/frog-macro-amphibian-green-70083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "08-02",
-      "name": "stoat",
-      "facts": [
-        "In cold climates, they turn white in winter and are called ermine.",
-        "Stoats are small but fierce predators that can take down prey much larger than themselves.",
-        "They are excellent climbers and swimmers, hunting in trees and water.",
-        "Stoats perform a hypnotic 'dance' to confuse prey before attacking."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/13713008/pexels-photo-13713008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/27020993/pexels-photo-27020993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "08-03",
       "name": "swordfish",
       "facts": [
-        "Swordfish have a specialized organ that warms their eyes and brain, improving their vision in cold water.",
-        "Swordfish can dive to depths of over 1,800 feet in search of food.",
         "They can swim at speeds up to 60 mph, making them one of the fastest fish.",
-        "Their sword-like bill is used to slash at prey, stunning or injuring them."
+        "Swordfish can dive to depths of over 1,800 feet in search of food.",
+        "Their sword-like bill is used to slash at prey, stunning or injuring them.",
+        "Swordfish have a specialized organ that warms their eyes and brain, improving their vision in cold water."
       ],
       "images": [
         "https://images.pexels.com/photos/4631154/pexels-photo-4631154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,10 +31,10 @@
       "date": "08-04",
       "name": "tamarin",
       "facts": [
-        "Tamarins have claw-like nails instead of flat nails like other monkeys.",
-        "Tamarin monkeys are among the smallest primates, some weighing less than a pound.",
         "They communicate through a variety of high-pitched vocalizations.",
-        "They often give birth to twins, which is unusual for primates."
+        "Tamarin monkeys are among the smallest primates, some weighing less than a pound.",
+        "They often give birth to twins, which is unusual for primates.",
+        "Tamarins have claw-like nails instead of flat nails like other monkeys."
       ],
       "images": [
         "https://images.pexels.com/photos/3973557/pexels-photo-3973557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,10 +59,10 @@
       "date": "08-06",
       "name": "tasmanian devil",
       "facts": [
-        "Tasmanian devils are solitary and nocturnal scavengers.",
+        "Tasmanian devils are carnivorous marsupials native to Tasmania, Australia.",
         "They are known for their ferocious screeches and powerful bite.",
-        "They are the largest carnivorous marsupial in the world.",
-        "Tasmanian devils are carnivorous marsupials native to Tasmania, Australia."
+        "Tasmanian devils are solitary and nocturnal scavengers.",
+        "They are the largest carnivorous marsupial in the world."
       ],
       "images": [
         "https://images.pexels.com/photos/21579905/pexels-photo-21579905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -110,43 +96,60 @@
         "https://images.pexels.com/photos/18558753/pexels-photo-18558753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/12059912/pexels-photo-12059912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "08-09",
+      "name": "toad",
+      "facts": [
+        "Toads are more terrestrial than frogs and are often found far from water.",
+        "They secrete toxins from their skin to deter predators, which can be harmful if ingested.",
+        "Toads have dry, warty skin, while frogs have smooth, moist skin.",
+        "Some toads, like the cane toad, have become invasive species in certain regions."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/158031/the-frog-amphibian-forest-nature-158031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/70083/frog-macro-amphibian-green-70083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "parrot",
+      "name": "gopher",
       "facts": [
-        "Some species, like the kakapo, are flightless and nocturnal.",
-        "They can mimic human speech and sounds, with some learning hundreds of words.",
-        "Parrots are among the most intelligent birds, capable of solving puzzles and using tools.",
-        "Parrots have zygodactyl feet—two toes forward and two backward—for gripping branches."
+        "Gophers have cheek pouches for carrying food back to their burrows.",
+        "They rarely come above ground and can live their entire lives underground.",
+        "They can close their lips behind their front teeth to keep dirt out while digging.",
+        "Gophers can dig tunnels up to 800 feet long."
       ],
       "images": [
-        "https://images.pexels.com/photos/1463295/pexels-photo-1463295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/2317904/pexels-photo-2317904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/32432599/pexels-photo-32432599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/4106232/pexels-photo-4106232.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "marmot",
+      "name": "wallaby",
       "facts": [
-        "No facts available."
+        "Wallabies hop efficiently – energy use doesn't increase with speed.",
+        "They practice embryonic diapause; pausing development until environmental conditions improve.",
+        "Wallabies cool by licking forearms; saliva evaporation lowers blood temperature.",
+        "Rock wallabies scale cliffs using textured soles and tail balancing."
       ],
       "images": [
-        "https://images.pexels.com/photos/31034856/pexels-photo-31034856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/17427980/pexels-photo-17427980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/3142004/pexels-photo-3142004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/5486954/pexels-photo-5486954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "panther",
+      "name": "rabbit",
       "facts": [
-        "Their dark color comes from a genetic mutation called melanism.",
-        "They are powerful swimmers and climbers, capable of dragging prey up trees.",
-        "Panthers are not a distinct species but are black-coated leopards or jaguars.",
-        "Panthers are solitary and stealthy, hunting primarily at night."
+        "Their teeth never stop growing, so they must chew constantly to wear them down.",
+        "Rabbits perform joyful leaps called 'binkies' when happy or excited.",
+        "They have nearly 360-degree vision, allowing them to spot predators from almost any angle.",
+        "Rabbits are not rodents but belong to the order Lagomorpha, which includes hares and pikas."
       ],
       "images": [
-        "https://images.pexels.com/photos/26045671/pexels-photo-26045671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/4137250/pexels-photo-4137250.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/6845638/pexels-photo-6845638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/6618592/pexels-photo-6618592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
