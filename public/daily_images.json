@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "topi",
+    "name": "trout",
     "facts": [
-      "They have specialized scent glands that help them mark their territory.",
-      "Topis are fast antelopes that can reach speeds of up to 50 mph.",
-      "They have a unique 'pronking' behavior where they leap stiff-legged when alarmed.",
-      "Male topis defend small territories where females come to mate."
+      "Some trout species migrate between freshwater and saltwater during their life cycle.",
+      "They are indicators of clean water and are sensitive to pollution.",
+      "They can detect vibrations in the water through their lateral line system.",
+      "Trout have excellent vision and can see in color."
     ],
     "images": [
-      "https://images.pexels.com/photos/8566066/pexels-photo-8566066.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/7849647/pexels-photo-7849647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/32611695/pexels-photo-32611695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3311091/pexels-photo-3311091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "08-04",
-      "name": "tamarin",
-      "facts": [
-        "Tamarin monkeys are among the smallest primates, some weighing less than a pound.",
-        "They often give birth to twins, which is unusual for primates.",
-        "Tamarins have claw-like nails instead of flat nails like other monkeys.",
-        "They communicate through a variety of high-pitched vocalizations."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/3973557/pexels-photo-3973557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/802211/pexels-photo-802211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "08-05",
       "name": "tarsier",
       "facts": [
-        "They can rotate their heads nearly 180 degrees in each direction.",
-        "Tarsiers are the only entirely carnivorous primates, eating insects, lizards, and small birds.",
+        "They communicate using ultrasonic frequencies beyond human hearing.",
         "Tarsiers have the largest eyes relative to body size of any mammal.",
-        "They communicate using ultrasonic frequencies beyond human hearing."
+        "They can rotate their heads nearly 180 degrees in each direction.",
+        "Tarsiers are the only entirely carnivorous primates, eating insects, lizards, and small birds."
       ],
       "images": [
         "https://images.pexels.com/photos/12246423/pexels-photo-12246423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -47,8 +33,8 @@
       "facts": [
         "Tasmanian devils are carnivorous marsupials native to Tasmania, Australia.",
         "They are known for their ferocious screeches and powerful bite.",
-        "They are the largest carnivorous marsupial in the world.",
-        "Tasmanian devils are solitary and nocturnal scavengers."
+        "Tasmanian devils are solitary and nocturnal scavengers.",
+        "They are the largest carnivorous marsupial in the world."
       ],
       "images": [
         "https://images.pexels.com/photos/21579905/pexels-photo-21579905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -59,9 +45,9 @@
       "date": "08-07",
       "name": "termite",
       "facts": [
-        "Termites are more closely related to cockroaches than to ants.",
         "Termite queens can live up to 50 years, making them among the longest-living insects.",
         "Some termite mounds can be over 30 feet tall and contain millions of individuals.",
+        "Termites are more closely related to cockroaches than to ants.",
         "They cultivate fungi in their nests as a food source."
       ],
       "images": [
@@ -87,10 +73,10 @@
       "date": "08-09",
       "name": "toad",
       "facts": [
-        "They secrete toxins from their skin to deter predators, which can be harmful if ingested.",
+        "Toads have dry, warty skin, while frogs have smooth, moist skin.",
         "Toads are more terrestrial than frogs and are often found far from water.",
         "Some toads, like the cane toad, have become invasive species in certain regions.",
-        "Toads have dry, warty skin, while frogs have smooth, moist skin."
+        "They secrete toxins from their skin to deter predators, which can be harmful if ingested."
       ],
       "images": [
         "https://images.pexels.com/photos/158031/the-frog-amphibian-forest-nature-158031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,55 +87,69 @@
       "date": "08-10",
       "name": "topi",
       "facts": [
+        "They have a unique 'pronking' behavior where they leap stiff-legged when alarmed.",
         "They have specialized scent glands that help them mark their territory.",
-        "Male topis defend small territories where females come to mate.",
         "Topis are fast antelopes that can reach speeds of up to 50 mph.",
-        "They have a unique 'pronking' behavior where they leap stiff-legged when alarmed."
+        "Male topis defend small territories where females come to mate."
       ],
       "images": [
         "https://images.pexels.com/photos/8566066/pexels-photo-8566066.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/7849647/pexels-photo-7849647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "08-11",
+      "name": "trout",
+      "facts": [
+        "Trout have excellent vision and can see in color.",
+        "They can detect vibrations in the water through their lateral line system.",
+        "Some trout species migrate between freshwater and saltwater during their life cycle.",
+        "They are indicators of clean water and are sensitive to pollution."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/32611695/pexels-photo-32611695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/3311091/pexels-photo-3311091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "sea otter",
+      "name": "puffin",
       "facts": [
-        "Sea otters have the densest fur of any animal, with up to 1 million hairs per square inch.",
-        "Sea otters hold hands while sleeping to prevent drifting apart.",
-        "They play a crucial role in maintaining kelp forest ecosystems by controlling sea urchin populations.",
-        "They use rocks as tools to crack open shellfish while floating on their backs."
+        "Puffins are excellent swimmers, using their wings to 'fly' underwater.",
+        "They can carry dozens of small fish crosswise in their beaks at once.",
+        "Puffins are seabirds with colorful beaks that brighten during mating season.",
+        "They nest in burrows on cliffs and return to the same site year after year."
       ],
       "images": [
-        "https://images.pexels.com/photos/31762654/pexels-photo-31762654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/24778638/pexels-photo-24778638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/1159577/pexels-photo-1159577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2710186/pexels-photo-2710186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "whale",
+      "name": "walrus",
       "facts": [
-        "Blue whales are the largest animals ever – tongues weigh as much as elephants.",
-        "Humpback whales create bubble nets to trap fish – cooperative hunting.",
-        "Bowhead whales live 200+ years – evidenced by antique harpoons in blubber.",
-        "Sperm whales dive 7,000 ft for squid; clicks at 230 decibels stun prey."
+        "Walruses use their tusks to haul themselves onto ice and to forage for food.",
+        "They are found in Arctic waters.",
+        "Walruses are large marine mammals known for their prominent tusks.",
+        "They are social animals and live in large herds."
       ],
       "images": [
-        "https://images.pexels.com/photos/892548/pexels-photo-892548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/3635870/pexels-photo-3635870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/26690644/pexels-photo-26690644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/26690643/pexels-photo-26690643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "peacock",
+      "name": "bee",
       "facts": [
-        "The iridescent colors in their feathers are due to microscopic crystal-like structures.",
-        "Only male peafowls are called peacocks; females are peahens, and babies are peachicks.",
-        "Peacocks display their feathers to attract mates and deter rivals.",
-        "Their extravagant tail feathers, or train, can reach up to 6 feet long."
+        "They communicate through a complex 'waggle dance' to share location of flowers.",
+        "A single bee will only produce 1/12th of a teaspoon of honey in her lifetime.",
+        "Bees have five eyes and can see ultraviolet patterns on flowers invisible to humans.",
+        "They maintain their hive temperature at exactly 95°F year-round."
       ],
       "images": [
-        "https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/1300345/pexels-photo-1300345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/460961/pexels-photo-460961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/56876/queen-cup-honeycomb-honey-bee-new-queen-rearing-compartment-56876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
