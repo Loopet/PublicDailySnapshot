@@ -1,39 +1,25 @@
 {
   "animalOfTheDay": {
-    "name": "sloth",
+    "name": "turkey",
     "facts": [
-      "They only come down from the trees about once a week to defecate.",
-      "Sloths have a symbiotic relationship with algae, which grows on their fur and provides camouflage.",
-      "They spend most of their lives hanging upside down in trees, even sleeping and giving birth in this position.",
-      "Sloths are the slowest mammals on Earth, moving at a top speed of about 0.24 km/h."
+      "Wild turkeys can fly short distances at speeds of up to 55 mph.",
+      "They have excellent vision and can see in color, with a nearly 360-degree field of view.",
+      "Male turkeys, called toms, puff up their feathers and fan their tails to attract females.",
+      "Benjamin Franklin once proposed the turkey as the national bird of the United States."
     ],
     "images": [
-      "https://images.pexels.com/photos/2123059/pexels-photo-2123059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/4484954/pexels-photo-4484954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/2048865/pexels-photo-2048865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/917595/pexels-photo-917595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "08-06",
-      "name": "tasmanian devil",
-      "facts": [
-        "Tasmanian devils are carnivorous marsupials native to Tasmania, Australia.",
-        "They are the largest carnivorous marsupial in the world.",
-        "They are known for their ferocious screeches and powerful bite.",
-        "Tasmanian devils are solitary and nocturnal scavengers."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/21579905/pexels-photo-21579905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/3798395/pexels-photo-3798395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "08-07",
       "name": "termite",
       "facts": [
-        "Termites are more closely related to cockroaches than to ants.",
         "They cultivate fungi in their nests as a food source.",
         "Some termite mounds can be over 30 feet tall and contain millions of individuals.",
+        "Termites are more closely related to cockroaches than to ants.",
         "Termite queens can live up to 50 years, making them among the longest-living insects."
       ],
       "images": [
@@ -45,8 +31,8 @@
       "date": "08-08",
       "name": "tiger shark",
       "facts": [
-        "Tiger sharks are one of the few shark species that can tolerate freshwater.",
         "They are born with distinctive stripes that fade as they mature.",
+        "Tiger sharks are one of the few shark species that can tolerate freshwater.",
         "They have unique, saw-like teeth that can cut through turtle shells.",
         "Tiger sharks are called 'garbage cans of the sea' because they'll eat almost anything."
       ],
@@ -59,10 +45,10 @@
       "date": "08-09",
       "name": "toad",
       "facts": [
-        "They secrete toxins from their skin to deter predators, which can be harmful if ingested.",
+        "Some toads, like the cane toad, have become invasive species in certain regions.",
         "Toads are more terrestrial than frogs and are often found far from water.",
         "Toads have dry, warty skin, while frogs have smooth, moist skin.",
-        "Some toads, like the cane toad, have become invasive species in certain regions."
+        "They secrete toxins from their skin to deter predators, which can be harmful if ingested."
       ],
       "images": [
         "https://images.pexels.com/photos/158031/the-frog-amphibian-forest-nature-158031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,9 +59,9 @@
       "date": "08-10",
       "name": "topi",
       "facts": [
-        "They have specialized scent glands that help them mark their territory.",
-        "They have a unique 'pronking' behavior where they leap stiff-legged when alarmed.",
         "Topis are fast antelopes that can reach speeds of up to 50 mph.",
+        "They have a unique 'pronking' behavior where they leap stiff-legged when alarmed.",
+        "They have specialized scent glands that help them mark their territory.",
         "Male topis defend small territories where females come to mate."
       ],
       "images": [
@@ -87,10 +73,10 @@
       "date": "08-11",
       "name": "trout",
       "facts": [
-        "Trout have excellent vision and can see in color.",
+        "Some trout species migrate between freshwater and saltwater during their life cycle.",
         "They can detect vibrations in the water through their lateral line system.",
         "They are indicators of clean water and are sensitive to pollution.",
-        "Some trout species migrate between freshwater and saltwater during their life cycle."
+        "Trout have excellent vision and can see in color."
       ],
       "images": [
         "https://images.pexels.com/photos/32611695/pexels-photo-32611695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,55 +87,69 @@
       "date": "08-12",
       "name": "sloth",
       "facts": [
-        "They only come down from the trees about once a week to defecate.",
-        "Sloths have a symbiotic relationship with algae, which grows on their fur and provides camouflage.",
+        "Sloths are the slowest mammals on Earth, moving at a top speed of about 0.24 km/h.",
         "They spend most of their lives hanging upside down in trees, even sleeping and giving birth in this position.",
-        "Sloths are the slowest mammals on Earth, moving at a top speed of about 0.24 km/h."
+        "Sloths have a symbiotic relationship with algae, which grows on their fur and provides camouflage.",
+        "They only come down from the trees about once a week to defecate."
       ],
       "images": [
         "https://images.pexels.com/photos/2123059/pexels-photo-2123059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/4484954/pexels-photo-4484954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "08-13",
+      "name": "turkey",
+      "facts": [
+        "They have excellent vision and can see in color, with a nearly 360-degree field of view.",
+        "Wild turkeys can fly short distances at speeds of up to 55 mph.",
+        "Male turkeys, called toms, puff up their feathers and fan their tails to attract females.",
+        "Benjamin Franklin once proposed the turkey as the national bird of the United States."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/2048865/pexels-photo-2048865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/917595/pexels-photo-917595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "sea otter",
+      "name": "tree kangaroo",
       "facts": [
-        "Sea otters hold hands while sleeping to prevent drifting apart.",
-        "They use rocks as tools to crack open shellfish while floating on their backs.",
-        "They play a crucial role in maintaining kelp forest ecosystems by controlling sea urchin populations.",
-        "Sea otters have the densest fur of any animal, with up to 1 million hairs per square inch."
+        "Their front paws are stronger and more dexterous than those of ground kangaroos, with sharp claws for climbing.",
+        "They feed on leaves, fruits, ferns, and tree bark.",
+        "They have long, prehensile tails that help them maintain balance and climb branches.",
+        "Tree kangaroos are species of kangaroos that, instead of hopping on the ground, live in trees, in the rainforests of New Guinea and Australia."
       ],
       "images": [
-        "https://images.pexels.com/photos/31762654/pexels-photo-31762654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/24778638/pexels-photo-24778638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/85678/koala-animals-mammals-australian-85678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/21579905/pexels-photo-21579905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "goblin shark",
+      "name": "lion",
       "facts": [
-        "Their skin is pinkish-purple because blood vessels are close to the surface.",
-        "They live in very deep waters, making them rarely encountered by humans.",
-        "Its jaws can extend forward to snatch prey, and its teeth are needle-sharp.",
-        "The goblin shark is a rare species of deep-sea shark, known for its unusual appearance, with an elongated snout and protrusible jaws."
+        "Lions are the only big cats that live in social groups called prides.",
+        "A lion's roar can be heard up to 5 miles away.",
+        "Lions spend up to 20 hours a day resting to conserve energy.",
+        "Male lions defend the pride's territory while females do most of the hunting."
       ],
       "images": [
-        "https://images.pexels.com/photos/726478/pexels-photo-726478.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/889848/pexels-photo-889848.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/2220336/pexels-photo-2220336.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2220337/pexels-photo-2220337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "sea lion",
+      "name": "koala",
       "facts": [
-        "Sea lions can rotate their hind flippers forward to walk on land.",
-        "They are intelligent and can be trained to perform complex tasks.",
-        "They are highly social and communicate through barks, growls, and body language.",
-        "Sea lions can dive up to 900 feet and hold their breath for 10 minutes."
+        "They rarely drink water, getting most of their hydration from eucalyptus leaves.",
+        "They sleep up to 20 hours a day due to their low-energy eucalyptus leaf diet.",
+        "Koalas are not bears; they are marsupials and carry their young in a pouch.",
+        "Koalas have unique fingerprints, similar to humans and primates."
       ],
       "images": [
-        "https://images.pexels.com/photos/105819/pexels-photo-105819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/1917846/pexels-photo-1917846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/2610309/pexels-photo-2610309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/162339/koala-cute-tree-zoo-162339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
