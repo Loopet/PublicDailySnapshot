@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "turkey",
+    "name": "turtle",
     "facts": [
-      "Wild turkeys can fly short distances at speeds of up to 55 mph.",
-      "They have excellent vision and can see in color, with a nearly 360-degree field of view.",
-      "Male turkeys, called toms, puff up their feathers and fan their tails to attract females.",
-      "Benjamin Franklin once proposed the turkey as the national bird of the United States."
+      "The gender of many turtle species is determined by the temperature of the nest.",
+      "Some turtles, like the leatherback, can dive to depths of over 4,000 feet.",
+      "They can breathe through their butts (cloacal respiration) when hibernating underwater.",
+      "Turtles have been around for over 200 million years, outliving the dinosaurs."
     ],
     "images": [
-      "https://images.pexels.com/photos/2048865/pexels-photo-2048865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/917595/pexels-photo-917595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/1618606/pexels-photo-1618606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/789141/pexels-photo-789141.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "08-07",
-      "name": "termite",
-      "facts": [
-        "They cultivate fungi in their nests as a food source.",
-        "Some termite mounds can be over 30 feet tall and contain millions of individuals.",
-        "Termites are more closely related to cockroaches than to ants.",
-        "Termite queens can live up to 50 years, making them among the longest-living insects."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/32610024/pexels-photo-32610024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/3790389/pexels-photo-3790389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "08-08",
       "name": "tiger shark",
       "facts": [
-        "They are born with distinctive stripes that fade as they mature.",
-        "Tiger sharks are one of the few shark species that can tolerate freshwater.",
+        "Tiger sharks are called 'garbage cans of the sea' because they'll eat almost anything.",
         "They have unique, saw-like teeth that can cut through turtle shells.",
-        "Tiger sharks are called 'garbage cans of the sea' because they'll eat almost anything."
+        "Tiger sharks are one of the few shark species that can tolerate freshwater.",
+        "They are born with distinctive stripes that fade as they mature."
       ],
       "images": [
         "https://images.pexels.com/photos/18558753/pexels-photo-18558753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,10 +31,10 @@
       "date": "08-09",
       "name": "toad",
       "facts": [
-        "Some toads, like the cane toad, have become invasive species in certain regions.",
-        "Toads are more terrestrial than frogs and are often found far from water.",
         "Toads have dry, warty skin, while frogs have smooth, moist skin.",
-        "They secrete toxins from their skin to deter predators, which can be harmful if ingested."
+        "They secrete toxins from their skin to deter predators, which can be harmful if ingested.",
+        "Some toads, like the cane toad, have become invasive species in certain regions.",
+        "Toads are more terrestrial than frogs and are often found far from water."
       ],
       "images": [
         "https://images.pexels.com/photos/158031/the-frog-amphibian-forest-nature-158031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -59,10 +45,10 @@
       "date": "08-10",
       "name": "topi",
       "facts": [
+        "Male topis defend small territories where females come to mate.",
         "Topis are fast antelopes that can reach speeds of up to 50 mph.",
-        "They have a unique 'pronking' behavior where they leap stiff-legged when alarmed.",
         "They have specialized scent glands that help them mark their territory.",
-        "Male topis defend small territories where females come to mate."
+        "They have a unique 'pronking' behavior where they leap stiff-legged when alarmed."
       ],
       "images": [
         "https://images.pexels.com/photos/8566066/pexels-photo-8566066.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,9 +59,9 @@
       "date": "08-11",
       "name": "trout",
       "facts": [
+        "They are indicators of clean water and are sensitive to pollution.",
         "Some trout species migrate between freshwater and saltwater during their life cycle.",
         "They can detect vibrations in the water through their lateral line system.",
-        "They are indicators of clean water and are sensitive to pollution.",
         "Trout have excellent vision and can see in color."
       ],
       "images": [
@@ -87,10 +73,10 @@
       "date": "08-12",
       "name": "sloth",
       "facts": [
-        "Sloths are the slowest mammals on Earth, moving at a top speed of about 0.24 km/h.",
         "They spend most of their lives hanging upside down in trees, even sleeping and giving birth in this position.",
+        "They only come down from the trees about once a week to defecate.",
         "Sloths have a symbiotic relationship with algae, which grows on their fur and provides camouflage.",
-        "They only come down from the trees about once a week to defecate."
+        "Sloths are the slowest mammals on Earth, moving at a top speed of about 0.24 km/h."
       ],
       "images": [
         "https://images.pexels.com/photos/2123059/pexels-photo-2123059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,55 +87,69 @@
       "date": "08-13",
       "name": "turkey",
       "facts": [
-        "They have excellent vision and can see in color, with a nearly 360-degree field of view.",
         "Wild turkeys can fly short distances at speeds of up to 55 mph.",
-        "Male turkeys, called toms, puff up their feathers and fan their tails to attract females.",
-        "Benjamin Franklin once proposed the turkey as the national bird of the United States."
+        "Benjamin Franklin once proposed the turkey as the national bird of the United States.",
+        "They have excellent vision and can see in color, with a nearly 360-degree field of view.",
+        "Male turkeys, called toms, puff up their feathers and fan their tails to attract females."
       ],
       "images": [
         "https://images.pexels.com/photos/2048865/pexels-photo-2048865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/917595/pexels-photo-917595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "08-14",
+      "name": "turtle",
+      "facts": [
+        "Some turtles, like the leatherback, can dive to depths of over 4,000 feet.",
+        "The gender of many turtle species is determined by the temperature of the nest.",
+        "Turtles have been around for over 200 million years, outliving the dinosaurs.",
+        "They can breathe through their butts (cloacal respiration) when hibernating underwater."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/1618606/pexels-photo-1618606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/789141/pexels-photo-789141.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "tree kangaroo",
+      "name": "yellow-bellied marmot",
       "facts": [
-        "Their front paws are stronger and more dexterous than those of ground kangaroos, with sharp claws for climbing.",
-        "They feed on leaves, fruits, ferns, and tree bark.",
-        "They have long, prehensile tails that help them maintain balance and climb branches.",
-        "Tree kangaroos are species of kangaroos that, instead of hopping on the ground, live in trees, in the rainforests of New Guinea and Australia."
+        "Yellow-bellied marmots are large rodents from North America, known for hibernating for most of the year.",
+        "They spend up to eight months a year in deep sleep, significantly lowering their body temperature and metabolism.",
+        "They live in colonies in the mountains and dig extensive burrow systems.",
+        "They emit loud whistles to warn other individuals of predators, hence their nickname 'whistle pig'."
       ],
       "images": [
-        "https://images.pexels.com/photos/85678/koala-animals-mammals-australian-85678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/21579905/pexels-photo-21579905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/15088309/pexels-photo-15088309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/11932870/pexels-photo-11932870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "lion",
+      "name": "stoat",
       "facts": [
-        "Lions are the only big cats that live in social groups called prides.",
-        "A lion's roar can be heard up to 5 miles away.",
-        "Lions spend up to 20 hours a day resting to conserve energy.",
-        "Male lions defend the pride's territory while females do most of the hunting."
+        "They are excellent climbers and swimmers, hunting in trees and water.",
+        "Stoats perform a hypnotic 'dance' to confuse prey before attacking.",
+        "In cold climates, they turn white in winter and are called ermine.",
+        "Stoats are small but fierce predators that can take down prey much larger than themselves."
       ],
       "images": [
-        "https://images.pexels.com/photos/2220336/pexels-photo-2220336.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/2220337/pexels-photo-2220337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/13713008/pexels-photo-13713008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/27020993/pexels-photo-27020993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "koala",
+      "name": "anteater",
       "facts": [
-        "They rarely drink water, getting most of their hydration from eucalyptus leaves.",
-        "They sleep up to 20 hours a day due to their low-energy eucalyptus leaf diet.",
-        "Koalas are not bears; they are marsupials and carry their young in a pouch.",
-        "Koalas have unique fingerprints, similar to humans and primates."
+        "They have no teeth but use their sticky 2-foot-long tongues to catch prey.",
+        "Giant anteaters can consume up to 30,000 ants and termites per day.",
+        "Baby anteaters ride on their mother's back for up to 10 months.",
+        "Their sense of smell is 40 times stronger than humans."
       ],
       "images": [
-        "https://images.pexels.com/photos/2610309/pexels-photo-2610309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/162339/koala-cute-tree-zoo-162339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/2575701/pexels-photo-2575701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/982186/pexels-photo-982186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
