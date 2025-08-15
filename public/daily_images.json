@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "turtle",
+    "name": "umbrellabird",
     "facts": [
-      "The gender of many turtle species is determined by the temperature of the nest.",
-      "Some turtles, like the leatherback, can dive to depths of over 4,000 feet.",
-      "They can breathe through their butts (cloacal respiration) when hibernating underwater.",
-      "Turtles have been around for over 200 million years, outliving the dinosaurs."
+      "Umbrellabirds get their name from the distinctive umbrella-like crest on the male's head.",
+      "They have one of the deepest voices in the bird world, producing loud, booming calls.",
+      "They are found only in the rainforests of Central and South America.",
+      "Males gather in groups called leks to perform courtship displays for females."
     ],
     "images": [
-      "https://images.pexels.com/photos/1618606/pexels-photo-1618606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/789141/pexels-photo-789141.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/206770/pexels-photo-206770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32568477/pexels-photo-32568477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
-    {
-      "date": "08-08",
-      "name": "tiger shark",
-      "facts": [
-        "Tiger sharks are called 'garbage cans of the sea' because they'll eat almost anything.",
-        "They have unique, saw-like teeth that can cut through turtle shells.",
-        "Tiger sharks are one of the few shark species that can tolerate freshwater.",
-        "They are born with distinctive stripes that fade as they mature."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/18558753/pexels-photo-18558753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/12059912/pexels-photo-12059912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
     {
       "date": "08-09",
       "name": "toad",
       "facts": [
         "Toads have dry, warty skin, while frogs have smooth, moist skin.",
         "They secrete toxins from their skin to deter predators, which can be harmful if ingested.",
-        "Some toads, like the cane toad, have become invasive species in certain regions.",
-        "Toads are more terrestrial than frogs and are often found far from water."
+        "Toads are more terrestrial than frogs and are often found far from water.",
+        "Some toads, like the cane toad, have become invasive species in certain regions."
       ],
       "images": [
         "https://images.pexels.com/photos/158031/the-frog-amphibian-forest-nature-158031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,10 +31,10 @@
       "date": "08-10",
       "name": "topi",
       "facts": [
-        "Male topis defend small territories where females come to mate.",
-        "Topis are fast antelopes that can reach speeds of up to 50 mph.",
         "They have specialized scent glands that help them mark their territory.",
-        "They have a unique 'pronking' behavior where they leap stiff-legged when alarmed."
+        "They have a unique 'pronking' behavior where they leap stiff-legged when alarmed.",
+        "Topis are fast antelopes that can reach speeds of up to 50 mph.",
+        "Male topis defend small territories where females come to mate."
       ],
       "images": [
         "https://images.pexels.com/photos/8566066/pexels-photo-8566066.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -59,10 +45,10 @@
       "date": "08-11",
       "name": "trout",
       "facts": [
-        "They are indicators of clean water and are sensitive to pollution.",
-        "Some trout species migrate between freshwater and saltwater during their life cycle.",
+        "Trout have excellent vision and can see in color.",
         "They can detect vibrations in the water through their lateral line system.",
-        "Trout have excellent vision and can see in color."
+        "Some trout species migrate between freshwater and saltwater during their life cycle.",
+        "They are indicators of clean water and are sensitive to pollution."
       ],
       "images": [
         "https://images.pexels.com/photos/32611695/pexels-photo-32611695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,10 +59,10 @@
       "date": "08-12",
       "name": "sloth",
       "facts": [
+        "Sloths are the slowest mammals on Earth, moving at a top speed of about 0.24 km/h.",
         "They spend most of their lives hanging upside down in trees, even sleeping and giving birth in this position.",
-        "They only come down from the trees about once a week to defecate.",
         "Sloths have a symbiotic relationship with algae, which grows on their fur and provides camouflage.",
-        "Sloths are the slowest mammals on Earth, moving at a top speed of about 0.24 km/h."
+        "They only come down from the trees about once a week to defecate."
       ],
       "images": [
         "https://images.pexels.com/photos/2123059/pexels-photo-2123059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -88,9 +74,9 @@
       "name": "turkey",
       "facts": [
         "Wild turkeys can fly short distances at speeds of up to 55 mph.",
-        "Benjamin Franklin once proposed the turkey as the national bird of the United States.",
         "They have excellent vision and can see in color, with a nearly 360-degree field of view.",
-        "Male turkeys, called toms, puff up their feathers and fan their tails to attract females."
+        "Male turkeys, called toms, puff up their feathers and fan their tails to attract females.",
+        "Benjamin Franklin once proposed the turkey as the national bird of the United States."
       ],
       "images": [
         "https://images.pexels.com/photos/2048865/pexels-photo-2048865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,55 +87,69 @@
       "date": "08-14",
       "name": "turtle",
       "facts": [
-        "Some turtles, like the leatherback, can dive to depths of over 4,000 feet.",
-        "The gender of many turtle species is determined by the temperature of the nest.",
         "Turtles have been around for over 200 million years, outliving the dinosaurs.",
-        "They can breathe through their butts (cloacal respiration) when hibernating underwater."
+        "They can breathe through their butts (cloacal respiration) when hibernating underwater.",
+        "The gender of many turtle species is determined by the temperature of the nest.",
+        "Some turtles, like the leatherback, can dive to depths of over 4,000 feet."
       ],
       "images": [
         "https://images.pexels.com/photos/1618606/pexels-photo-1618606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/789141/pexels-photo-789141.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "08-15",
+      "name": "umbrellabird",
+      "facts": [
+        "They are found only in the rainforests of Central and South America.",
+        "Males gather in groups called leks to perform courtship displays for females.",
+        "Umbrellabirds get their name from the distinctive umbrella-like crest on the male's head.",
+        "They have one of the deepest voices in the bird world, producing loud, booming calls."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/206770/pexels-photo-206770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/32568477/pexels-photo-32568477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "yellow-bellied marmot",
+      "name": "robin",
       "facts": [
-        "Yellow-bellied marmots are large rodents from North America, known for hibernating for most of the year.",
-        "They spend up to eight months a year in deep sleep, significantly lowering their body temperature and metabolism.",
-        "They live in colonies in the mountains and dig extensive burrow systems.",
-        "They emit loud whistles to warn other individuals of predators, hence their nickname 'whistle pig'."
+        "They are one of the first birds to sing at dawn, earning them the nickname 'the early bird.'",
+        "Robins sing year-round, with males using song to establish territory and attract mates.",
+        "They are territorial and will aggressively defend their feeding areas in winter.",
+        "Robins are known for their red breasts, which are brighter in males during breeding season."
       ],
       "images": [
-        "https://images.pexels.com/photos/15088309/pexels-photo-15088309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/11932870/pexels-photo-11932870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/46166/robin-european-robin-erithacus-rubecula-red-46166.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/416179/pexels-photo-416179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "stoat",
+      "name": "mule",
       "facts": [
-        "They are excellent climbers and swimmers, hunting in trees and water.",
-        "Stoats perform a hypnotic 'dance' to confuse prey before attacking.",
-        "In cold climates, they turn white in winter and are called ermine.",
-        "Stoats are small but fierce predators that can take down prey much larger than themselves."
+        "Mules are hybrids, the offspring of a male donkey and a female horse.",
+        "Mules are known for their strength, endurance, and sure-footedness.",
+        "They are sterile, with almost all mules unable to reproduce.",
+        "They have longer ears than horses and a more stubborn reputation."
       ],
       "images": [
-        "https://images.pexels.com/photos/13713008/pexels-photo-13713008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/27020993/pexels-photo-27020993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/635871/pexels-photo-635871.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2409958/pexels-photo-2409958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "anteater",
+      "name": "cockatoo",
       "facts": [
-        "They have no teeth but use their sticky 2-foot-long tongues to catch prey.",
-        "Giant anteaters can consume up to 30,000 ants and termites per day.",
-        "Baby anteaters ride on their mother's back for up to 10 months.",
-        "Their sense of smell is 40 times stronger than humans."
+        "They're incredibly intelligent and can learn to solve complex puzzles.",
+        "Cockatoos can live over 100 years, making them lifelong companions.",
+        "Cockatoos are very social and can become depressed without interaction.",
+        "Their powerful beaks can crack the hardest nuts and seeds."
       ],
       "images": [
-        "https://images.pexels.com/photos/2575701/pexels-photo-2575701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/982186/pexels-photo-982186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/1689075/pexels-photo-1689075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2562914/pexels-photo-2562914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
