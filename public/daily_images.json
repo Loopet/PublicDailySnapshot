@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "umbrellabird",
+    "name": "vampire bat",
     "facts": [
-      "Umbrellabirds get their name from the distinctive umbrella-like crest on the male's head.",
-      "They have one of the deepest voices in the bird world, producing loud, booming calls.",
-      "They are found only in the rainforests of Central and South America.",
-      "Males gather in groups called leks to perform courtship displays for females."
+      "Vampire bats share regurgitated blood with starving colony members – reciprocal altruism.",
+      "They use infrared sensors on noses to detect blood vessels.",
+      "Bat saliva contains draculin – an anticoagulant studied for stroke treatment.",
+      "Vampires run on ground using folded wings as front legs."
     ],
     "images": [
-      "https://images.pexels.com/photos/206770/pexels-photo-206770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/32568477/pexels-photo-32568477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/7140769/pexels-photo-7140769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9740381/pexels-photo-9740381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "08-09",
-      "name": "toad",
-      "facts": [
-        "Toads have dry, warty skin, while frogs have smooth, moist skin.",
-        "They secrete toxins from their skin to deter predators, which can be harmful if ingested.",
-        "Toads are more terrestrial than frogs and are often found far from water.",
-        "Some toads, like the cane toad, have become invasive species in certain regions."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/158031/the-frog-amphibian-forest-nature-158031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/70083/frog-macro-amphibian-green-70083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "08-10",
       "name": "topi",
       "facts": [
-        "They have specialized scent glands that help them mark their territory.",
         "They have a unique 'pronking' behavior where they leap stiff-legged when alarmed.",
+        "Male topis defend small territories where females come to mate.",
         "Topis are fast antelopes that can reach speeds of up to 50 mph.",
-        "Male topis defend small territories where females come to mate."
+        "They have specialized scent glands that help them mark their territory."
       ],
       "images": [
         "https://images.pexels.com/photos/8566066/pexels-photo-8566066.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,10 +31,10 @@
       "date": "08-11",
       "name": "trout",
       "facts": [
-        "Trout have excellent vision and can see in color.",
+        "They are indicators of clean water and are sensitive to pollution.",
         "They can detect vibrations in the water through their lateral line system.",
         "Some trout species migrate between freshwater and saltwater during their life cycle.",
-        "They are indicators of clean water and are sensitive to pollution."
+        "Trout have excellent vision and can see in color."
       ],
       "images": [
         "https://images.pexels.com/photos/32611695/pexels-photo-32611695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,9 +73,9 @@
       "date": "08-14",
       "name": "turtle",
       "facts": [
+        "The gender of many turtle species is determined by the temperature of the nest.",
         "Turtles have been around for over 200 million years, outliving the dinosaurs.",
         "They can breathe through their butts (cloacal respiration) when hibernating underwater.",
-        "The gender of many turtle species is determined by the temperature of the nest.",
         "Some turtles, like the leatherback, can dive to depths of over 4,000 feet."
       ],
       "images": [
@@ -103,53 +89,67 @@
       "facts": [
         "They are found only in the rainforests of Central and South America.",
         "Males gather in groups called leks to perform courtship displays for females.",
-        "Umbrellabirds get their name from the distinctive umbrella-like crest on the male's head.",
-        "They have one of the deepest voices in the bird world, producing loud, booming calls."
+        "They have one of the deepest voices in the bird world, producing loud, booming calls.",
+        "Umbrellabirds get their name from the distinctive umbrella-like crest on the male's head."
       ],
       "images": [
         "https://images.pexels.com/photos/206770/pexels-photo-206770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/32568477/pexels-photo-32568477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "08-16",
+      "name": "vampire bat",
+      "facts": [
+        "Vampires run on ground using folded wings as front legs.",
+        "Bat saliva contains draculin – an anticoagulant studied for stroke treatment.",
+        "They use infrared sensors on noses to detect blood vessels.",
+        "Vampire bats share regurgitated blood with starving colony members – reciprocal altruism."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/7140769/pexels-photo-7140769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/9740381/pexels-photo-9740381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "robin",
+      "name": "manatee",
       "facts": [
-        "They are one of the first birds to sing at dawn, earning them the nickname 'the early bird.'",
-        "Robins sing year-round, with males using song to establish territory and attract mates.",
-        "They are territorial and will aggressively defend their feeding areas in winter.",
-        "Robins are known for their red breasts, which are brighter in males during breeding season."
+        "Manatees have no natural predators but are threatened by boat strikes and habitat loss.",
+        "They are herbivores, eating up to 10% of their body weight in plants daily.",
+        "They are closely related to elephants, sharing a common ancestor.",
+        "Manatees are also called 'sea cows' due to their slow, grazing behavior."
       ],
       "images": [
-        "https://images.pexels.com/photos/46166/robin-european-robin-erithacus-rubecula-red-46166.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/416179/pexels-photo-416179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/20268223/pexels-photo-20268223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/4766707/pexels-photo-4766707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "mule",
+      "name": "raven",
       "facts": [
-        "Mules are hybrids, the offspring of a male donkey and a female horse.",
-        "Mules are known for their strength, endurance, and sure-footedness.",
-        "They are sterile, with almost all mules unable to reproduce.",
-        "They have longer ears than horses and a more stubborn reputation."
+        "In mythology, they are often symbols of wisdom or trickery.",
+        "They can mimic human speech and other sounds, though not as well as parrots.",
+        "Ravens are among the smartest birds, capable of problem-solving and tool use.",
+        "Ravens play games, such as sliding down snowbanks or dropping sticks in flight to catch them."
       ],
       "images": [
-        "https://images.pexels.com/photos/635871/pexels-photo-635871.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/2409958/pexels-photo-2409958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/946344/pexels-photo-946344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/953150/pexels-photo-953150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "cockatoo",
+      "name": "bison",
       "facts": [
-        "They're incredibly intelligent and can learn to solve complex puzzles.",
-        "Cockatoos can live over 100 years, making them lifelong companions.",
-        "Cockatoos are very social and can become depressed without interaction.",
-        "Their powerful beaks can crack the hardest nuts and seeds."
+        "They're North America's largest land animal, with bulls weighing up to 2,000 pounds.",
+        "American bison can run up to 40 mph and jump 6 feet high.",
+        "Bison herds once numbered in millions but were nearly extinct by 1900.",
+        "They have excellent memories and can remember migration routes for decades."
       ],
       "images": [
-        "https://images.pexels.com/photos/1689075/pexels-photo-1689075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/2562914/pexels-photo-2562914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/360592/pexels-photo-360592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2666609/pexels-photo-2666609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
