@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "vampire bat",
+    "name": "vicuna",
     "facts": [
-      "Vampire bats share regurgitated blood with starving colony members – reciprocal altruism.",
-      "They use infrared sensors on noses to detect blood vessels.",
-      "Bat saliva contains draculin – an anticoagulant studied for stroke treatment.",
-      "Vampires run on ground using folded wings as front legs."
+      "They have lower incisor teeth that grow continuously like rodents.",
+      "Vicuñas spit foul-smelling cud at competitors during disputes.",
+      "Vicuñas produce the finest wool – fibers measure 12 micrometers (human hair: 75).",
+      "Inca royalty wore vicuña robes; illegal poaching still threatens populations."
     ],
     "images": [
-      "https://images.pexels.com/photos/7140769/pexels-photo-7140769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/9740381/pexels-photo-9740381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/4613387/pexels-photo-4613387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17987435/pexels-photo-17987435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "08-10",
-      "name": "topi",
-      "facts": [
-        "They have a unique 'pronking' behavior where they leap stiff-legged when alarmed.",
-        "Male topis defend small territories where females come to mate.",
-        "Topis are fast antelopes that can reach speeds of up to 50 mph.",
-        "They have specialized scent glands that help them mark their territory."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/8566066/pexels-photo-8566066.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/7849647/pexels-photo-7849647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "08-11",
       "name": "trout",
       "facts": [
-        "They are indicators of clean water and are sensitive to pollution.",
+        "Trout have excellent vision and can see in color.",
         "They can detect vibrations in the water through their lateral line system.",
         "Some trout species migrate between freshwater and saltwater during their life cycle.",
-        "Trout have excellent vision and can see in color."
+        "They are indicators of clean water and are sensitive to pollution."
       ],
       "images": [
         "https://images.pexels.com/photos/32611695/pexels-photo-32611695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,9 +31,9 @@
       "date": "08-12",
       "name": "sloth",
       "facts": [
-        "Sloths are the slowest mammals on Earth, moving at a top speed of about 0.24 km/h.",
-        "They spend most of their lives hanging upside down in trees, even sleeping and giving birth in this position.",
         "Sloths have a symbiotic relationship with algae, which grows on their fur and provides camouflage.",
+        "They spend most of their lives hanging upside down in trees, even sleeping and giving birth in this position.",
+        "Sloths are the slowest mammals on Earth, moving at a top speed of about 0.24 km/h.",
         "They only come down from the trees about once a week to defecate."
       ],
       "images": [
@@ -59,10 +45,10 @@
       "date": "08-13",
       "name": "turkey",
       "facts": [
-        "Wild turkeys can fly short distances at speeds of up to 55 mph.",
         "They have excellent vision and can see in color, with a nearly 360-degree field of view.",
+        "Benjamin Franklin once proposed the turkey as the national bird of the United States.",
         "Male turkeys, called toms, puff up their feathers and fan their tails to attract females.",
-        "Benjamin Franklin once proposed the turkey as the national bird of the United States."
+        "Wild turkeys can fly short distances at speeds of up to 55 mph."
       ],
       "images": [
         "https://images.pexels.com/photos/2048865/pexels-photo-2048865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,9 +59,9 @@
       "date": "08-14",
       "name": "turtle",
       "facts": [
-        "The gender of many turtle species is determined by the temperature of the nest.",
         "Turtles have been around for over 200 million years, outliving the dinosaurs.",
         "They can breathe through their butts (cloacal respiration) when hibernating underwater.",
+        "The gender of many turtle species is determined by the temperature of the nest.",
         "Some turtles, like the leatherback, can dive to depths of over 4,000 feet."
       ],
       "images": [
@@ -87,10 +73,10 @@
       "date": "08-15",
       "name": "umbrellabird",
       "facts": [
-        "They are found only in the rainforests of Central and South America.",
         "Males gather in groups called leks to perform courtship displays for females.",
         "They have one of the deepest voices in the bird world, producing loud, booming calls.",
-        "Umbrellabirds get their name from the distinctive umbrella-like crest on the male's head."
+        "Umbrellabirds get their name from the distinctive umbrella-like crest on the male's head.",
+        "They are found only in the rainforests of Central and South America."
       ],
       "images": [
         "https://images.pexels.com/photos/206770/pexels-photo-206770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -110,46 +96,60 @@
         "https://images.pexels.com/photos/7140769/pexels-photo-7140769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/9740381/pexels-photo-9740381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "08-17",
+      "name": "vicuna",
+      "facts": [
+        "Inca royalty wore vicuña robes; illegal poaching still threatens populations.",
+        "Vicuñas spit foul-smelling cud at competitors during disputes.",
+        "They have lower incisor teeth that grow continuously like rodents.",
+        "Vicuñas produce the finest wool – fibers measure 12 micrometers (human hair: 75)."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/4613387/pexels-photo-4613387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/17987435/pexels-photo-17987435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "manatee",
+      "name": "harpy eagle",
       "facts": [
-        "Manatees have no natural predators but are threatened by boat strikes and habitat loss.",
-        "They are herbivores, eating up to 10% of their body weight in plants daily.",
-        "They are closely related to elephants, sharing a common ancestor.",
-        "Manatees are also called 'sea cows' due to their slow, grazing behavior."
+        "The harpy eagle is one of the largest and most powerful eagles in the world.",
+        "They are named after the harpies of Greek mythology, which were fierce winged creatures.",
+        "Harpy eagles primarily hunt monkeys, sloths, and other tree-dwelling animals.",
+        "Its talons can be as long as a grizzly bear's claws, measuring up to 5 inches."
       ],
       "images": [
-        "https://images.pexels.com/photos/20268223/pexels-photo-20268223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/4766707/pexels-photo-4766707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/27039417/pexels-photo-27039417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/27039418/pexels-photo-27039418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "raven",
+      "name": "echidna",
       "facts": [
-        "In mythology, they are often symbols of wisdom or trickery.",
-        "They can mimic human speech and other sounds, though not as well as parrots.",
-        "Ravens are among the smartest birds, capable of problem-solving and tool use.",
-        "Ravens play games, such as sliding down snowbanks or dropping sticks in flight to catch them."
+        "Echidnas are one of only two mammal species that lay eggs.",
+        "They can live over 50 years, making them very long-lived for their size.",
+        "They have no teeth but use their sticky tongues to catch ants and termites.",
+        "Baby echidnas are called puggles and drink milk despite hatching from eggs."
       ],
       "images": [
-        "https://images.pexels.com/photos/946344/pexels-photo-946344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/953150/pexels-photo-953150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/7329775/pexels-photo-7329775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/5531166/pexels-photo-5531166.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "bison",
+      "name": "sardine",
       "facts": [
-        "They're North America's largest land animal, with bulls weighing up to 2,000 pounds.",
-        "American bison can run up to 40 mph and jump 6 feet high.",
-        "Bison herds once numbered in millions but were nearly extinct by 1900.",
-        "They have excellent memories and can remember migration routes for decades."
+        "They are an important food source for many marine predators, including whales and dolphins.",
+        "Sardines get their name from the Italian island of Sardinia where they were once abundant.",
+        "Sardines swim in massive schools that can contain millions of fish.",
+        "They are rich in omega-3 fatty acids and are an important commercial fish."
       ],
       "images": [
-        "https://images.pexels.com/photos/360592/pexels-photo-360592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/2666609/pexels-photo-2666609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/1321124/pexels-photo-1321124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2602493/pexels-photo-2602493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
