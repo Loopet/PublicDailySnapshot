@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "vicuna",
+    "name": "viper",
     "facts": [
-      "They have lower incisor teeth that grow continuously like rodents.",
-      "Vicuñas spit foul-smelling cud at competitors during disputes.",
-      "Vicuñas produce the finest wool – fibers measure 12 micrometers (human hair: 75).",
-      "Inca royalty wore vicuña robes; illegal poaching still threatens populations."
+      "Their hinged fangs fold against the roof of mouth when not striking.",
+      "Vipers have heat-sensing pits detecting temperature changes as small as 0.003°C.",
+      "Horned vipers in deserts move via sidewinding to avoid hot sand.",
+      "Gaboon vipers have longest fangs (2 inches) and highest venom yield."
     ],
     "images": [
-      "https://images.pexels.com/photos/4613387/pexels-photo-4613387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/17987435/pexels-photo-17987435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/36714/snake-rattlesnake-reptile-skin.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2581178/pexels-photo-2581178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "08-11",
-      "name": "trout",
-      "facts": [
-        "Trout have excellent vision and can see in color.",
-        "They can detect vibrations in the water through their lateral line system.",
-        "Some trout species migrate between freshwater and saltwater during their life cycle.",
-        "They are indicators of clean water and are sensitive to pollution."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/32611695/pexels-photo-32611695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/3311091/pexels-photo-3311091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "08-12",
       "name": "sloth",
       "facts": [
+        "They only come down from the trees about once a week to defecate.",
         "Sloths have a symbiotic relationship with algae, which grows on their fur and provides camouflage.",
         "They spend most of their lives hanging upside down in trees, even sleeping and giving birth in this position.",
-        "Sloths are the slowest mammals on Earth, moving at a top speed of about 0.24 km/h.",
-        "They only come down from the trees about once a week to defecate."
+        "Sloths are the slowest mammals on Earth, moving at a top speed of about 0.24 km/h."
       ],
       "images": [
         "https://images.pexels.com/photos/2123059/pexels-photo-2123059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,10 +31,10 @@
       "date": "08-13",
       "name": "turkey",
       "facts": [
-        "They have excellent vision and can see in color, with a nearly 360-degree field of view.",
-        "Benjamin Franklin once proposed the turkey as the national bird of the United States.",
+        "Wild turkeys can fly short distances at speeds of up to 55 mph.",
         "Male turkeys, called toms, puff up their feathers and fan their tails to attract females.",
-        "Wild turkeys can fly short distances at speeds of up to 55 mph."
+        "Benjamin Franklin once proposed the turkey as the national bird of the United States.",
+        "They have excellent vision and can see in color, with a nearly 360-degree field of view."
       ],
       "images": [
         "https://images.pexels.com/photos/2048865/pexels-photo-2048865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -60,9 +46,9 @@
       "name": "turtle",
       "facts": [
         "Turtles have been around for over 200 million years, outliving the dinosaurs.",
+        "Some turtles, like the leatherback, can dive to depths of over 4,000 feet.",
         "They can breathe through their butts (cloacal respiration) when hibernating underwater.",
-        "The gender of many turtle species is determined by the temperature of the nest.",
-        "Some turtles, like the leatherback, can dive to depths of over 4,000 feet."
+        "The gender of many turtle species is determined by the temperature of the nest."
       ],
       "images": [
         "https://images.pexels.com/photos/1618606/pexels-photo-1618606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,10 +59,10 @@
       "date": "08-15",
       "name": "umbrellabird",
       "facts": [
-        "Males gather in groups called leks to perform courtship displays for females.",
-        "They have one of the deepest voices in the bird world, producing loud, booming calls.",
         "Umbrellabirds get their name from the distinctive umbrella-like crest on the male's head.",
-        "They are found only in the rainforests of Central and South America."
+        "They are found only in the rainforests of Central and South America.",
+        "They have one of the deepest voices in the bird world, producing loud, booming calls.",
+        "Males gather in groups called leks to perform courtship displays for females."
       ],
       "images": [
         "https://images.pexels.com/photos/206770/pexels-photo-206770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,10 +73,10 @@
       "date": "08-16",
       "name": "vampire bat",
       "facts": [
-        "Vampires run on ground using folded wings as front legs.",
-        "Bat saliva contains draculin – an anticoagulant studied for stroke treatment.",
+        "Vampire bats share regurgitated blood with starving colony members – reciprocal altruism.",
         "They use infrared sensors on noses to detect blood vessels.",
-        "Vampire bats share regurgitated blood with starving colony members – reciprocal altruism."
+        "Bat saliva contains draculin – an anticoagulant studied for stroke treatment.",
+        "Vampires run on ground using folded wings as front legs."
       ],
       "images": [
         "https://images.pexels.com/photos/7140769/pexels-photo-7140769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,55 +87,69 @@
       "date": "08-17",
       "name": "vicuna",
       "facts": [
-        "Inca royalty wore vicuña robes; illegal poaching still threatens populations.",
-        "Vicuñas spit foul-smelling cud at competitors during disputes.",
+        "Vicuñas produce the finest wool – fibers measure 12 micrometers (human hair: 75).",
         "They have lower incisor teeth that grow continuously like rodents.",
-        "Vicuñas produce the finest wool – fibers measure 12 micrometers (human hair: 75)."
+        "Inca royalty wore vicuña robes; illegal poaching still threatens populations.",
+        "Vicuñas spit foul-smelling cud at competitors during disputes."
       ],
       "images": [
         "https://images.pexels.com/photos/4613387/pexels-photo-4613387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/17987435/pexels-photo-17987435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "08-18",
+      "name": "viper",
+      "facts": [
+        "Vipers have heat-sensing pits detecting temperature changes as small as 0.003°C.",
+        "Their hinged fangs fold against the roof of mouth when not striking.",
+        "Gaboon vipers have longest fangs (2 inches) and highest venom yield.",
+        "Horned vipers in deserts move via sidewinding to avoid hot sand."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/36714/snake-rattlesnake-reptile-skin.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2581178/pexels-photo-2581178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "harpy eagle",
+      "name": "hornbill",
       "facts": [
-        "The harpy eagle is one of the largest and most powerful eagles in the world.",
-        "They are named after the harpies of Greek mythology, which were fierce winged creatures.",
-        "Harpy eagles primarily hunt monkeys, sloths, and other tree-dwelling animals.",
-        "Its talons can be as long as a grizzly bear's claws, measuring up to 5 inches."
+        "Hornbills play a vital role in seed dispersal in tropical forests.",
+        "They seal the entrance of their nests with mud, leaving only a small slit to pass food.",
+        "Some species perform elaborate courtship dances, including bowing and bill-clapping.",
+        "Hornbills are known for their large, curved beaks, which are often brightly colored."
       ],
       "images": [
-        "https://images.pexels.com/photos/27039417/pexels-photo-27039417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/27039418/pexels-photo-27039418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/55746/hornbill-bird-tropical-zoo-55746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/312838/pexels-photo-312838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "echidna",
+      "name": "ocelot",
       "facts": [
-        "Echidnas are one of only two mammal species that lay eggs.",
-        "They can live over 50 years, making them very long-lived for their size.",
-        "They have no teeth but use their sticky tongues to catch ants and termites.",
-        "Baby echidnas are called puggles and drink milk despite hatching from eggs."
+        "Ocelots are beautiful wild cats from Central and South America, known for their distinctive, spotted fur resembling a leopard.",
+        "They are nocturnal animals that spend most of their time in trees, where they hunt birds and small mammals.",
+        "They have incredibly keen eyesight, allowing them to see in very low light.",
+        "Each ocelot has a unique pattern of spots, which allows for identification."
       ],
       "images": [
-        "https://images.pexels.com/photos/7329775/pexels-photo-7329775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/5531166/pexels-photo-5531166.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/20831801/pexels-photo-20831801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/28517671/pexels-photo-28517671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "sardine",
+      "name": "jerboa",
       "facts": [
-        "They are an important food source for many marine predators, including whales and dolphins.",
-        "Sardines get their name from the Italian island of Sardinia where they were once abundant.",
-        "Sardines swim in massive schools that can contain millions of fish.",
-        "They are rich in omega-3 fatty acids and are an important commercial fish."
+        "They have a very long tail that helps them maintain balance during jumps.",
+        "They can jump up to 3 meters (10 feet) high and 6 meters (20 feet) long to escape predators.",
+        "They are nocturnal animals that spend the day in cool burrows to avoid the heat.",
+        "Jerboas are small rodents from the deserts of Africa and Asia, known for their long hind legs and ability to jump long distances."
       ],
       "images": [
-        "https://images.pexels.com/photos/1321124/pexels-photo-1321124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/2602493/pexels-photo-2602493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/735431/pexels-photo-735431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/7723964/pexels-photo-7723964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
