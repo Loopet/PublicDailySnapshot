@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "viper",
+    "name": "vulture",
     "facts": [
-      "Their hinged fangs fold against the roof of mouth when not striking.",
-      "Vipers have heat-sensing pits detecting temperature changes as small as 0.003°C.",
-      "Horned vipers in deserts move via sidewinding to avoid hot sand.",
-      "Gaboon vipers have longest fangs (2 inches) and highest venom yield."
+      "They are known for their bald heads, which help keep them clean while feeding.",
+      "Vultures are scavenging birds of prey.",
+      "Vultures play a crucial role in ecosystems by cleaning up carcasses.",
+      "They have an excellent sense of smell."
     ],
     "images": [
-      "https://images.pexels.com/photos/36714/snake-rattlesnake-reptile-skin.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/2581178/pexels-photo-2581178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/797670/pexels-photo-797670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1025586/pexels-photo-1025586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
-    {
-      "date": "08-12",
-      "name": "sloth",
-      "facts": [
-        "They only come down from the trees about once a week to defecate.",
-        "Sloths have a symbiotic relationship with algae, which grows on their fur and provides camouflage.",
-        "They spend most of their lives hanging upside down in trees, even sleeping and giving birth in this position.",
-        "Sloths are the slowest mammals on Earth, moving at a top speed of about 0.24 km/h."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/2123059/pexels-photo-2123059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/4484954/pexels-photo-4484954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
     {
       "date": "08-13",
       "name": "turkey",
       "facts": [
         "Wild turkeys can fly short distances at speeds of up to 55 mph.",
-        "Male turkeys, called toms, puff up their feathers and fan their tails to attract females.",
+        "They have excellent vision and can see in color, with a nearly 360-degree field of view.",
         "Benjamin Franklin once proposed the turkey as the national bird of the United States.",
-        "They have excellent vision and can see in color, with a nearly 360-degree field of view."
+        "Male turkeys, called toms, puff up their feathers and fan their tails to attract females."
       ],
       "images": [
         "https://images.pexels.com/photos/2048865/pexels-photo-2048865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,10 +31,10 @@
       "date": "08-14",
       "name": "turtle",
       "facts": [
-        "Turtles have been around for over 200 million years, outliving the dinosaurs.",
-        "Some turtles, like the leatherback, can dive to depths of over 4,000 feet.",
+        "The gender of many turtle species is determined by the temperature of the nest.",
         "They can breathe through their butts (cloacal respiration) when hibernating underwater.",
-        "The gender of many turtle species is determined by the temperature of the nest."
+        "Some turtles, like the leatherback, can dive to depths of over 4,000 feet.",
+        "Turtles have been around for over 200 million years, outliving the dinosaurs."
       ],
       "images": [
         "https://images.pexels.com/photos/1618606/pexels-photo-1618606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -59,9 +45,9 @@
       "date": "08-15",
       "name": "umbrellabird",
       "facts": [
+        "They have one of the deepest voices in the bird world, producing loud, booming calls.",
         "Umbrellabirds get their name from the distinctive umbrella-like crest on the male's head.",
         "They are found only in the rainforests of Central and South America.",
-        "They have one of the deepest voices in the bird world, producing loud, booming calls.",
         "Males gather in groups called leks to perform courtship displays for females."
       ],
       "images": [
@@ -73,10 +59,10 @@
       "date": "08-16",
       "name": "vampire bat",
       "facts": [
-        "Vampire bats share regurgitated blood with starving colony members – reciprocal altruism.",
-        "They use infrared sensors on noses to detect blood vessels.",
+        "Vampires run on ground using folded wings as front legs.",
         "Bat saliva contains draculin – an anticoagulant studied for stroke treatment.",
-        "Vampires run on ground using folded wings as front legs."
+        "They use infrared sensors on noses to detect blood vessels.",
+        "Vampire bats share regurgitated blood with starving colony members – reciprocal altruism."
       ],
       "images": [
         "https://images.pexels.com/photos/7140769/pexels-photo-7140769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,9 +73,9 @@
       "date": "08-17",
       "name": "vicuna",
       "facts": [
+        "Inca royalty wore vicuña robes; illegal poaching still threatens populations.",
         "Vicuñas produce the finest wool – fibers measure 12 micrometers (human hair: 75).",
         "They have lower incisor teeth that grow continuously like rodents.",
-        "Inca royalty wore vicuña robes; illegal poaching still threatens populations.",
         "Vicuñas spit foul-smelling cud at competitors during disputes."
       ],
       "images": [
@@ -101,55 +87,69 @@
       "date": "08-18",
       "name": "viper",
       "facts": [
+        "Horned vipers in deserts move via sidewinding to avoid hot sand.",
         "Vipers have heat-sensing pits detecting temperature changes as small as 0.003°C.",
-        "Their hinged fangs fold against the roof of mouth when not striking.",
         "Gaboon vipers have longest fangs (2 inches) and highest venom yield.",
-        "Horned vipers in deserts move via sidewinding to avoid hot sand."
+        "Their hinged fangs fold against the roof of mouth when not striking."
       ],
       "images": [
         "https://images.pexels.com/photos/36714/snake-rattlesnake-reptile-skin.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/2581178/pexels-photo-2581178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "08-19",
+      "name": "vulture",
+      "facts": [
+        "They are known for their bald heads, which help keep them clean while feeding.",
+        "Vultures are scavenging birds of prey.",
+        "Vultures play a crucial role in ecosystems by cleaning up carcasses.",
+        "They have an excellent sense of smell."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/797670/pexels-photo-797670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/1025586/pexels-photo-1025586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "hornbill",
+      "name": "wallaby",
       "facts": [
-        "Hornbills play a vital role in seed dispersal in tropical forests.",
-        "They seal the entrance of their nests with mud, leaving only a small slit to pass food.",
-        "Some species perform elaborate courtship dances, including bowing and bill-clapping.",
-        "Hornbills are known for their large, curved beaks, which are often brightly colored."
+        "Wallabies hop efficiently – energy use doesn't increase with speed.",
+        "Wallabies cool by licking forearms; saliva evaporation lowers blood temperature.",
+        "They practice embryonic diapause; pausing development until environmental conditions improve.",
+        "Rock wallabies scale cliffs using textured soles and tail balancing."
       ],
       "images": [
-        "https://images.pexels.com/photos/55746/hornbill-bird-tropical-zoo-55746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/312838/pexels-photo-312838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/3142004/pexels-photo-3142004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/5486954/pexels-photo-5486954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "ocelot",
+      "name": "fossa",
       "facts": [
-        "Ocelots are beautiful wild cats from Central and South America, known for their distinctive, spotted fur resembling a leopard.",
-        "They are nocturnal animals that spend most of their time in trees, where they hunt birds and small mammals.",
-        "They have incredibly keen eyesight, allowing them to see in very low light.",
-        "Each ocelot has a unique pattern of spots, which allows for identification."
+        "They have prehensile ankles that allow them to rotate their hind feet 180 degrees, making it easier to climb and descend trees headfirst.",
+        "The fossa is the largest predator of Madagascar, resembling a cat, but genetically more closely related to mongooses.",
+        "Fossas are solitary and are active both day and night.",
+        "They are very agile and can leap between trees in search of lemurs, which make up a large part of their diet."
       ],
       "images": [
-        "https://images.pexels.com/photos/20831801/pexels-photo-20831801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/28517671/pexels-photo-28517671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/29036172/pexels-photo-29036172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/30707766/pexels-photo-30707766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "jerboa",
+      "name": "water buffalo",
       "facts": [
-        "They have a very long tail that helps them maintain balance during jumps.",
-        "They can jump up to 3 meters (10 feet) high and 6 meters (20 feet) long to escape predators.",
-        "They are nocturnal animals that spend the day in cool burrows to avoid the heat.",
-        "Jerboas are small rodents from the deserts of Africa and Asia, known for their long hind legs and ability to jump long distances."
+        "Water buffaloes have wide-splayed hooves preventing sinking in mud.",
+        "They wallow in water to cool down and deter biting insects.",
+        "Domesticated for 5,000 years, they provide more milk than dairy cows in some regions.",
+        "Wild water buffaloes are endangered; only 3,400 remain in fragmented habitats."
       ],
       "images": [
-        "https://images.pexels.com/photos/735431/pexels-photo-735431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/7723964/pexels-photo-7723964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/27721295/pexels-photo-27721295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2464145/pexels-photo-2464145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
