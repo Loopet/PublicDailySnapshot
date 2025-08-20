@@ -1,39 +1,25 @@
 {
   "animalOfTheDay": {
-    "name": "vulture",
+    "name": "wallaby",
     "facts": [
-      "They are known for their bald heads, which help keep them clean while feeding.",
-      "Vultures are scavenging birds of prey.",
-      "Vultures play a crucial role in ecosystems by cleaning up carcasses.",
-      "They have an excellent sense of smell."
+      "Wallabies hop efficiently – energy use doesn't increase with speed.",
+      "They practice embryonic diapause; pausing development until environmental conditions improve.",
+      "Rock wallabies scale cliffs using textured soles and tail balancing.",
+      "Wallabies cool by licking forearms; saliva evaporation lowers blood temperature."
     ],
     "images": [
-      "https://images.pexels.com/photos/797670/pexels-photo-797670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/1025586/pexels-photo-1025586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/3142004/pexels-photo-3142004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5486954/pexels-photo-5486954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
-    {
-      "date": "08-13",
-      "name": "turkey",
-      "facts": [
-        "Wild turkeys can fly short distances at speeds of up to 55 mph.",
-        "They have excellent vision and can see in color, with a nearly 360-degree field of view.",
-        "Benjamin Franklin once proposed the turkey as the national bird of the United States.",
-        "Male turkeys, called toms, puff up their feathers and fan their tails to attract females."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/2048865/pexels-photo-2048865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/917595/pexels-photo-917595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
     {
       "date": "08-14",
       "name": "turtle",
       "facts": [
         "The gender of many turtle species is determined by the temperature of the nest.",
-        "They can breathe through their butts (cloacal respiration) when hibernating underwater.",
         "Some turtles, like the leatherback, can dive to depths of over 4,000 feet.",
+        "They can breathe through their butts (cloacal respiration) when hibernating underwater.",
         "Turtles have been around for over 200 million years, outliving the dinosaurs."
       ],
       "images": [
@@ -46,9 +32,9 @@
       "name": "umbrellabird",
       "facts": [
         "They have one of the deepest voices in the bird world, producing loud, booming calls.",
-        "Umbrellabirds get their name from the distinctive umbrella-like crest on the male's head.",
+        "Males gather in groups called leks to perform courtship displays for females.",
         "They are found only in the rainforests of Central and South America.",
-        "Males gather in groups called leks to perform courtship displays for females."
+        "Umbrellabirds get their name from the distinctive umbrella-like crest on the male's head."
       ],
       "images": [
         "https://images.pexels.com/photos/206770/pexels-photo-206770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -59,8 +45,8 @@
       "date": "08-16",
       "name": "vampire bat",
       "facts": [
-        "Vampires run on ground using folded wings as front legs.",
         "Bat saliva contains draculin – an anticoagulant studied for stroke treatment.",
+        "Vampires run on ground using folded wings as front legs.",
         "They use infrared sensors on noses to detect blood vessels.",
         "Vampire bats share regurgitated blood with starving colony members – reciprocal altruism."
       ],
@@ -74,9 +60,9 @@
       "name": "vicuna",
       "facts": [
         "Inca royalty wore vicuña robes; illegal poaching still threatens populations.",
-        "Vicuñas produce the finest wool – fibers measure 12 micrometers (human hair: 75).",
+        "Vicuñas spit foul-smelling cud at competitors during disputes.",
         "They have lower incisor teeth that grow continuously like rodents.",
-        "Vicuñas spit foul-smelling cud at competitors during disputes."
+        "Vicuñas produce the finest wool – fibers measure 12 micrometers (human hair: 75)."
       ],
       "images": [
         "https://images.pexels.com/photos/4613387/pexels-photo-4613387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -89,8 +75,8 @@
       "facts": [
         "Horned vipers in deserts move via sidewinding to avoid hot sand.",
         "Vipers have heat-sensing pits detecting temperature changes as small as 0.003°C.",
-        "Gaboon vipers have longest fangs (2 inches) and highest venom yield.",
-        "Their hinged fangs fold against the roof of mouth when not striking."
+        "Their hinged fangs fold against the roof of mouth when not striking.",
+        "Gaboon vipers have longest fangs (2 inches) and highest venom yield."
       ],
       "images": [
         "https://images.pexels.com/photos/36714/snake-rattlesnake-reptile-skin.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,55 +87,69 @@
       "date": "08-19",
       "name": "vulture",
       "facts": [
-        "They are known for their bald heads, which help keep them clean while feeding.",
-        "Vultures are scavenging birds of prey.",
         "Vultures play a crucial role in ecosystems by cleaning up carcasses.",
+        "Vultures are scavenging birds of prey.",
+        "They are known for their bald heads, which help keep them clean while feeding.",
         "They have an excellent sense of smell."
       ],
       "images": [
         "https://images.pexels.com/photos/797670/pexels-photo-797670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/1025586/pexels-photo-1025586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
-    }
-  ],
-  "randomAnimals": [
+    },
     {
+      "date": "08-20",
       "name": "wallaby",
       "facts": [
         "Wallabies hop efficiently – energy use doesn't increase with speed.",
-        "Wallabies cool by licking forearms; saliva evaporation lowers blood temperature.",
         "They practice embryonic diapause; pausing development until environmental conditions improve.",
+        "Wallabies cool by licking forearms; saliva evaporation lowers blood temperature.",
         "Rock wallabies scale cliffs using textured soles and tail balancing."
       ],
       "images": [
         "https://images.pexels.com/photos/3142004/pexels-photo-3142004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/5486954/pexels-photo-5486954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
-    },
+    }
+  ],
+  "randomAnimals": [
     {
-      "name": "fossa",
+      "name": "chough",
       "facts": [
-        "They have prehensile ankles that allow them to rotate their hind feet 180 degrees, making it easier to climb and descend trees headfirst.",
-        "The fossa is the largest predator of Madagascar, resembling a cat, but genetically more closely related to mongooses.",
-        "Fossas are solitary and are active both day and night.",
-        "They are very agile and can leap between trees in search of lemurs, which make up a large part of their diet."
+        "They often occur on cliffs and mountains, where they hunt insects and other invertebrates.",
+        "They are a symbol of Cornwall and are protected in many countries.",
+        "They are intelligent birds that can use tools and solve problems.",
+        "Red-billed choughs are corvids, known for their glossy black plumage and bright red legs and beak."
       ],
       "images": [
-        "https://images.pexels.com/photos/29036172/pexels-photo-29036172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/30707766/pexels-photo-30707766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/1765049/pexels-photo-1765049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/15265407/pexels-photo-15265407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "water buffalo",
+      "name": "pony",
       "facts": [
-        "Water buffaloes have wide-splayed hooves preventing sinking in mud.",
-        "They wallow in water to cool down and deter biting insects.",
-        "Domesticated for 5,000 years, they provide more milk than dairy cows in some regions.",
-        "Wild water buffaloes are endangered; only 3,400 remain in fragmented habitats."
+        "Some breeds, like Shetland ponies, are known for their intelligence and stubbornness.",
+        "Ponies are small horses, typically under 14.2 hands (58 inches) tall at the withers.",
+        "They are hardy and strong for their size, often used for riding and driving.",
+        "Ponies have thicker manes, tails, and coats than horses, adapted to harsh climates."
       ],
       "images": [
-        "https://images.pexels.com/photos/27721295/pexels-photo-27721295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/2464145/pexels-photo-2464145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/943457/pexels-photo-943457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/297201/pexels-photo-297201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
+    },
+    {
+      "name": "capybara",
+      "facts": [
+        "They're so calm that other animals often sit on their backs to rest.",
+        "Capybaras are incredibly social and live in groups of 10-20 individuals.",
+        "They're semi-aquatic and can stay underwater for up to 5 minutes.",
+        "Capybaras are the world's largest rodents, weighing up to 140 pounds."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/160583/capybara-group-eat-meadow-160583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/1040414/pexels-photo-1040414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
