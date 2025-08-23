@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "warthog",
+    "name": "wasp",
     "facts": [
-      "Warthogs kneel on calloused wrists to graze low vegetation.",
-      "Warthogs have facial 'warts' that protect eyes during fights.",
-      "Birds like mongooses remove ticks from warthogs during grooming sessions.",
-      "They reverse into burrows – tusks facing outward to deter predators."
+      "Parasitoid wasps lay eggs in hosts; larvae eat prey alive while avoiding vital organs.",
+      "Fig wasps co-evolved with figs – each fig species has its own wasp pollinator.",
+      "Wasps produce paper by chewing wood fibers mixed with saliva.",
+      "Mud daubers build tubular nests with paralyzed spiders as living food for larvae."
     ],
     "images": [
-      "https://images.pexels.com/photos/206881/pexels-photo-206881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/6847982/pexels-photo-6847982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/158313/wasp-insect-macro-close-158313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/928966/pexels-photo-928966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "08-16",
-      "name": "vampire bat",
-      "facts": [
-        "Bat saliva contains draculin – an anticoagulant studied for stroke treatment.",
-        "Vampire bats share regurgitated blood with starving colony members – reciprocal altruism.",
-        "Vampires run on ground using folded wings as front legs.",
-        "They use infrared sensors on noses to detect blood vessels."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/7140769/pexels-photo-7140769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/9740381/pexels-photo-9740381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "08-17",
       "name": "vicuna",
       "facts": [
-        "Vicuñas produce the finest wool – fibers measure 12 micrometers (human hair: 75).",
-        "They have lower incisor teeth that grow continuously like rodents.",
         "Vicuñas spit foul-smelling cud at competitors during disputes.",
-        "Inca royalty wore vicuña robes; illegal poaching still threatens populations."
+        "They have lower incisor teeth that grow continuously like rodents.",
+        "Inca royalty wore vicuña robes; illegal poaching still threatens populations.",
+        "Vicuñas produce the finest wool – fibers measure 12 micrometers (human hair: 75)."
       ],
       "images": [
         "https://images.pexels.com/photos/4613387/pexels-photo-4613387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,10 +31,10 @@
       "date": "08-18",
       "name": "viper",
       "facts": [
-        "Horned vipers in deserts move via sidewinding to avoid hot sand.",
-        "Gaboon vipers have longest fangs (2 inches) and highest venom yield.",
+        "Vipers have heat-sensing pits detecting temperature changes as small as 0.003°C.",
         "Their hinged fangs fold against the roof of mouth when not striking.",
-        "Vipers have heat-sensing pits detecting temperature changes as small as 0.003°C."
+        "Gaboon vipers have longest fangs (2 inches) and highest venom yield.",
+        "Horned vipers in deserts move via sidewinding to avoid hot sand."
       ],
       "images": [
         "https://images.pexels.com/photos/36714/snake-rattlesnake-reptile-skin.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -61,8 +47,8 @@
       "facts": [
         "They have an excellent sense of smell.",
         "Vultures are scavenging birds of prey.",
-        "They are known for their bald heads, which help keep them clean while feeding.",
-        "Vultures play a crucial role in ecosystems by cleaning up carcasses."
+        "Vultures play a crucial role in ecosystems by cleaning up carcasses.",
+        "They are known for their bald heads, which help keep them clean while feeding."
       ],
       "images": [
         "https://images.pexels.com/photos/797670/pexels-photo-797670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,10 +59,10 @@
       "date": "08-20",
       "name": "wallaby",
       "facts": [
-        "Wallabies hop efficiently – energy use doesn't increase with speed.",
         "Rock wallabies scale cliffs using textured soles and tail balancing.",
+        "Wallabies cool by licking forearms; saliva evaporation lowers blood temperature.",
         "They practice embryonic diapause; pausing development until environmental conditions improve.",
-        "Wallabies cool by licking forearms; saliva evaporation lowers blood temperature."
+        "Wallabies hop efficiently – energy use doesn't increase with speed."
       ],
       "images": [
         "https://images.pexels.com/photos/3142004/pexels-photo-3142004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -88,9 +74,9 @@
       "name": "walrus",
       "facts": [
         "They are social animals and live in large herds.",
+        "Walruses use their tusks to haul themselves onto ice and to forage for food.",
         "They are found in Arctic waters.",
-        "Walruses are large marine mammals known for their prominent tusks.",
-        "Walruses use their tusks to haul themselves onto ice and to forage for food."
+        "Walruses are large marine mammals known for their prominent tusks."
       ],
       "images": [
         "https://images.pexels.com/photos/26690644/pexels-photo-26690644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,55 +87,69 @@
       "date": "08-22",
       "name": "warthog",
       "facts": [
-        "Warthogs have facial 'warts' that protect eyes during fights.",
         "Warthogs kneel on calloused wrists to graze low vegetation.",
         "They reverse into burrows – tusks facing outward to deter predators.",
+        "Warthogs have facial 'warts' that protect eyes during fights.",
         "Birds like mongooses remove ticks from warthogs during grooming sessions."
       ],
       "images": [
         "https://images.pexels.com/photos/206881/pexels-photo-206881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/6847982/pexels-photo-6847982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "08-23",
+      "name": "wasp",
+      "facts": [
+        "Fig wasps co-evolved with figs – each fig species has its own wasp pollinator.",
+        "Wasps produce paper by chewing wood fibers mixed with saliva.",
+        "Parasitoid wasps lay eggs in hosts; larvae eat prey alive while avoiding vital organs.",
+        "Mud daubers build tubular nests with paralyzed spiders as living food for larvae."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/158313/wasp-insect-macro-close-158313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/928966/pexels-photo-928966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "meerkat",
+      "name": "lamb",
       "facts": [
-        "They teach their young how to handle dangerous prey, like scorpions, by disabling them first.",
-        "Meerkats are immune to many venoms, including scorpion stings.",
-        "They take turns standing guard on their hind legs to watch for predators.",
-        "Meerkats are highly social, living in groups called mobs or clans."
+        "They form strong social bonds and can become stressed when separated from their flock.",
+        "Lambs can recognize their mother's voice within a few hours of being born.",
+        "Lambs are born with a full set of milk teeth that are replaced by adult teeth as they grow.",
+        "They can stand and walk within an hour of being born."
       ],
       "images": [
-        "https://images.pexels.com/photos/1454786/pexels-photo-1454786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/1669860/pexels-photo-1669860.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/678448/pexels-photo-678448.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/323682/pexels-photo-323682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "jaguar",
+      "name": "black bear",
       "facts": [
-        "Jaguars are excellent swimmers and often hunt fish, turtles, and caimans.",
-        "They have the strongest bite force of any big cat, capable of crushing skulls.",
-        "Jaguars are the largest big cats in the Americas and the third-largest in the world.",
-        "Their spots, called rosettes, are unique to each individual, like fingerprints."
+        "They have color vision and can see better than humans.",
+        "They can run up to 30 mph and are excellent climbers and swimmers.",
+        "Cubs are born the size of hamsters and weigh less than a pound.",
+        "Black bears aren't always black - they can be brown, cinnamon, or even blonde."
       ],
       "images": [
-        "https://images.pexels.com/photos/235674/pexels-photo-235674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/773004/pexels-photo-773004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/2123059/pexels-photo-2123059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/32597390/pexels-photo-32597390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "hamster",
+      "name": "civet",
       "facts": [
-        "Hamsters have cheek pouches that can stretch to store food, sometimes as large as their bodies.",
-        "They are nocturnal animals, meaning they are most active during the night.",
-        "Hamsters can run up to 5 miles in a single night on their exercise wheels.",
-        "In the wild, hamsters live in burrows that can be up to 3 feet deep."
+        "Civets are cat-like mammals from Africa and Asia, known for their ability to secrete a musky scent, used in perfumery.",
+        "Most species are nocturnal and arboreal, although some are more terrestrial.",
+        "Kopi Luwak coffee, one of the most expensive coffees in the world, is produced from beans that have been digested and excreted by civets.",
+        "They are omnivorous, eating fruits, insects, small mammals, and birds."
       ],
       "images": [
-        "https://images.pexels.com/photos/2013665/pexels-photo-2013665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/3362697/pexels-photo-3362697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/19763157/pexels-photo-19763157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/7723964/pexels-photo-7723964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
