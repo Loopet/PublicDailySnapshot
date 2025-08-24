@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "wasp",
+    "name": "water buffalo",
     "facts": [
-      "Parasitoid wasps lay eggs in hosts; larvae eat prey alive while avoiding vital organs.",
-      "Fig wasps co-evolved with figs – each fig species has its own wasp pollinator.",
-      "Wasps produce paper by chewing wood fibers mixed with saliva.",
-      "Mud daubers build tubular nests with paralyzed spiders as living food for larvae."
+      "Wild water buffaloes are endangered; only 3,400 remain in fragmented habitats.",
+      "They wallow in water to cool down and deter biting insects.",
+      "Water buffaloes have wide-splayed hooves preventing sinking in mud.",
+      "Domesticated for 5,000 years, they provide more milk than dairy cows in some regions."
     ],
     "images": [
-      "https://images.pexels.com/photos/158313/wasp-insect-macro-close-158313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/928966/pexels-photo-928966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/27721295/pexels-photo-27721295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2464145/pexels-photo-2464145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "08-17",
-      "name": "vicuna",
-      "facts": [
-        "Vicuñas spit foul-smelling cud at competitors during disputes.",
-        "They have lower incisor teeth that grow continuously like rodents.",
-        "Inca royalty wore vicuña robes; illegal poaching still threatens populations.",
-        "Vicuñas produce the finest wool – fibers measure 12 micrometers (human hair: 75)."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/4613387/pexels-photo-4613387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/17987435/pexels-photo-17987435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "08-18",
       "name": "viper",
       "facts": [
-        "Vipers have heat-sensing pits detecting temperature changes as small as 0.003°C.",
-        "Their hinged fangs fold against the roof of mouth when not striking.",
+        "Horned vipers in deserts move via sidewinding to avoid hot sand.",
         "Gaboon vipers have longest fangs (2 inches) and highest venom yield.",
-        "Horned vipers in deserts move via sidewinding to avoid hot sand."
+        "Their hinged fangs fold against the roof of mouth when not striking.",
+        "Vipers have heat-sensing pits detecting temperature changes as small as 0.003°C."
       ],
       "images": [
         "https://images.pexels.com/photos/36714/snake-rattlesnake-reptile-skin.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,10 +31,10 @@
       "date": "08-19",
       "name": "vulture",
       "facts": [
-        "They have an excellent sense of smell.",
         "Vultures are scavenging birds of prey.",
+        "They are known for their bald heads, which help keep them clean while feeding.",
         "Vultures play a crucial role in ecosystems by cleaning up carcasses.",
-        "They are known for their bald heads, which help keep them clean while feeding."
+        "They have an excellent sense of smell."
       ],
       "images": [
         "https://images.pexels.com/photos/797670/pexels-photo-797670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,9 +73,9 @@
       "date": "08-22",
       "name": "warthog",
       "facts": [
+        "Warthogs have facial 'warts' that protect eyes during fights.",
         "Warthogs kneel on calloused wrists to graze low vegetation.",
         "They reverse into burrows – tusks facing outward to deter predators.",
-        "Warthogs have facial 'warts' that protect eyes during fights.",
         "Birds like mongooses remove ticks from warthogs during grooming sessions."
       ],
       "images": [
@@ -101,55 +87,69 @@
       "date": "08-23",
       "name": "wasp",
       "facts": [
-        "Fig wasps co-evolved with figs – each fig species has its own wasp pollinator.",
-        "Wasps produce paper by chewing wood fibers mixed with saliva.",
         "Parasitoid wasps lay eggs in hosts; larvae eat prey alive while avoiding vital organs.",
-        "Mud daubers build tubular nests with paralyzed spiders as living food for larvae."
+        "Fig wasps co-evolved with figs – each fig species has its own wasp pollinator.",
+        "Mud daubers build tubular nests with paralyzed spiders as living food for larvae.",
+        "Wasps produce paper by chewing wood fibers mixed with saliva."
       ],
       "images": [
         "https://images.pexels.com/photos/158313/wasp-insect-macro-close-158313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/928966/pexels-photo-928966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "08-24",
+      "name": "water buffalo",
+      "facts": [
+        "Water buffaloes have wide-splayed hooves preventing sinking in mud.",
+        "They wallow in water to cool down and deter biting insects.",
+        "Domesticated for 5,000 years, they provide more milk than dairy cows in some regions.",
+        "Wild water buffaloes are endangered; only 3,400 remain in fragmented habitats."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/27721295/pexels-photo-27721295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2464145/pexels-photo-2464145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "lamb",
+      "name": "indri",
       "facts": [
-        "They form strong social bonds and can become stressed when separated from their flock.",
-        "Lambs can recognize their mother's voice within a few hours of being born.",
-        "Lambs are born with a full set of milk teeth that are replaced by adult teeth as they grow.",
-        "They can stand and walk within an hour of being born."
+        "They feed mainly on leaves, flowers, and fruits, and their diet is highly specialized.",
+        "Unlike many lemurs, indri have a short tail and an upright body posture.",
+        "They are known for their unique, loud songs, which are used for communication between groups and territorial marking.",
+        "Indri are the largest living lemurs, inhabiting the eastern rainforests of Madagascar."
       ],
       "images": [
-        "https://images.pexels.com/photos/678448/pexels-photo-678448.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/323682/pexels-photo-323682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/3767862/pexels-photo-3767862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/5777881/pexels-photo-5777881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "black bear",
+      "name": "bee",
       "facts": [
-        "They have color vision and can see better than humans.",
-        "They can run up to 30 mph and are excellent climbers and swimmers.",
-        "Cubs are born the size of hamsters and weigh less than a pound.",
-        "Black bears aren't always black - they can be brown, cinnamon, or even blonde."
+        "A single bee will only produce 1/12th of a teaspoon of honey in her lifetime.",
+        "They communicate through a complex 'waggle dance' to share location of flowers.",
+        "Bees have five eyes and can see ultraviolet patterns on flowers invisible to humans.",
+        "They maintain their hive temperature at exactly 95°F year-round."
       ],
       "images": [
-        "https://images.pexels.com/photos/2123059/pexels-photo-2123059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/32597390/pexels-photo-32597390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/460961/pexels-photo-460961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/56876/queen-cup-honeycomb-honey-bee-new-queen-rearing-compartment-56876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "civet",
+      "name": "tuna",
       "facts": [
-        "Civets are cat-like mammals from Africa and Asia, known for their ability to secrete a musky scent, used in perfumery.",
-        "Most species are nocturnal and arboreal, although some are more terrestrial.",
-        "Kopi Luwak coffee, one of the most expensive coffees in the world, is produced from beans that have been digested and excreted by civets.",
-        "They are omnivorous, eating fruits, insects, small mammals, and birds."
+        "They are warm-blooded, unlike most fish, which helps them swim in cold waters.",
+        "Tuna can migrate across entire oceans, traveling thousands of miles.",
+        "They have a unique circulatory system that conserves heat in their muscles.",
+        "Tuna are among the fastest fish, reaching speeds up to 47 mph."
       ],
       "images": [
-        "https://images.pexels.com/photos/19763157/pexels-photo-19763157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/7723964/pexels-photo-7723964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/3296392/pexels-photo-3296392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/3296394/pexels-photo-3296394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
