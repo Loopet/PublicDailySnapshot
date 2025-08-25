@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "water buffalo",
+    "name": "wild boar",
     "facts": [
-      "Wild water buffaloes are endangered; only 3,400 remain in fragmented habitats.",
-      "They wallow in water to cool down and deter biting insects.",
-      "Water buffaloes have wide-splayed hooves preventing sinking in mud.",
-      "Domesticated for 5,000 years, they provide more milk than dairy cows in some regions."
+      "Sows build 'farrowing nests' of woven grass before giving birth.",
+      "Wild boars have razor-sharp tusks that regrow continuously.",
+      "Boars run 30 mph and jump 5-ft fences.",
+      "They create 'boar baths' – mud wallows that cool and remove parasites."
     ],
     "images": [
-      "https://images.pexels.com/photos/27721295/pexels-photo-27721295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/2464145/pexels-photo-2464145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/236684/pexels-photo-236684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1344772/pexels-photo-1344772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "08-18",
-      "name": "viper",
-      "facts": [
-        "Horned vipers in deserts move via sidewinding to avoid hot sand.",
-        "Gaboon vipers have longest fangs (2 inches) and highest venom yield.",
-        "Their hinged fangs fold against the roof of mouth when not striking.",
-        "Vipers have heat-sensing pits detecting temperature changes as small as 0.003°C."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/36714/snake-rattlesnake-reptile-skin.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/2581178/pexels-photo-2581178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "08-19",
       "name": "vulture",
       "facts": [
-        "Vultures are scavenging birds of prey.",
-        "They are known for their bald heads, which help keep them clean while feeding.",
         "Vultures play a crucial role in ecosystems by cleaning up carcasses.",
-        "They have an excellent sense of smell."
+        "They have an excellent sense of smell.",
+        "They are known for their bald heads, which help keep them clean while feeding.",
+        "Vultures are scavenging birds of prey."
       ],
       "images": [
         "https://images.pexels.com/photos/797670/pexels-photo-797670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,10 +31,10 @@
       "date": "08-20",
       "name": "wallaby",
       "facts": [
-        "Rock wallabies scale cliffs using textured soles and tail balancing.",
-        "Wallabies cool by licking forearms; saliva evaporation lowers blood temperature.",
+        "Wallabies hop efficiently – energy use doesn't increase with speed.",
         "They practice embryonic diapause; pausing development until environmental conditions improve.",
-        "Wallabies hop efficiently – energy use doesn't increase with speed."
+        "Wallabies cool by licking forearms; saliva evaporation lowers blood temperature.",
+        "Rock wallabies scale cliffs using textured soles and tail balancing."
       ],
       "images": [
         "https://images.pexels.com/photos/3142004/pexels-photo-3142004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -59,10 +45,10 @@
       "date": "08-21",
       "name": "walrus",
       "facts": [
-        "They are social animals and live in large herds.",
         "Walruses use their tusks to haul themselves onto ice and to forage for food.",
         "They are found in Arctic waters.",
-        "Walruses are large marine mammals known for their prominent tusks."
+        "Walruses are large marine mammals known for their prominent tusks.",
+        "They are social animals and live in large herds."
       ],
       "images": [
         "https://images.pexels.com/photos/26690644/pexels-photo-26690644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -74,9 +60,9 @@
       "name": "warthog",
       "facts": [
         "Warthogs have facial 'warts' that protect eyes during fights.",
-        "Warthogs kneel on calloused wrists to graze low vegetation.",
+        "Birds like mongooses remove ticks from warthogs during grooming sessions.",
         "They reverse into burrows – tusks facing outward to deter predators.",
-        "Birds like mongooses remove ticks from warthogs during grooming sessions."
+        "Warthogs kneel on calloused wrists to graze low vegetation."
       ],
       "images": [
         "https://images.pexels.com/photos/206881/pexels-photo-206881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,55 +87,66 @@
       "date": "08-24",
       "name": "water buffalo",
       "facts": [
-        "Water buffaloes have wide-splayed hooves preventing sinking in mud.",
+        "Wild water buffaloes are endangered; only 3,400 remain in fragmented habitats.",
         "They wallow in water to cool down and deter biting insects.",
-        "Domesticated for 5,000 years, they provide more milk than dairy cows in some regions.",
-        "Wild water buffaloes are endangered; only 3,400 remain in fragmented habitats."
+        "Water buffaloes have wide-splayed hooves preventing sinking in mud.",
+        "Domesticated for 5,000 years, they provide more milk than dairy cows in some regions."
       ],
       "images": [
         "https://images.pexels.com/photos/27721295/pexels-photo-27721295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/2464145/pexels-photo-2464145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "08-25",
+      "name": "wild boar",
+      "facts": [
+        "Boars run 30 mph and jump 5-ft fences.",
+        "They create 'boar baths' – mud wallows that cool and remove parasites.",
+        "Wild boars have razor-sharp tusks that regrow continuously.",
+        "Sows build 'farrowing nests' of woven grass before giving birth."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/236684/pexels-photo-236684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/1344772/pexels-photo-1344772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "indri",
-      "facts": [
-        "They feed mainly on leaves, flowers, and fruits, and their diet is highly specialized.",
-        "Unlike many lemurs, indri have a short tail and an upright body posture.",
-        "They are known for their unique, loud songs, which are used for communication between groups and territorial marking.",
-        "Indri are the largest living lemurs, inhabiting the eastern rainforests of Madagascar."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/3767862/pexels-photo-3767862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/5777881/pexels-photo-5777881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
-      "name": "bee",
-      "facts": [
-        "A single bee will only produce 1/12th of a teaspoon of honey in her lifetime.",
-        "They communicate through a complex 'waggle dance' to share location of flowers.",
-        "Bees have five eyes and can see ultraviolet patterns on flowers invisible to humans.",
-        "They maintain their hive temperature at exactly 95°F year-round."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/460961/pexels-photo-460961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/56876/queen-cup-honeycomb-honey-bee-new-queen-rearing-compartment-56876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "name": "tuna",
       "facts": [
-        "They are warm-blooded, unlike most fish, which helps them swim in cold waters.",
-        "Tuna can migrate across entire oceans, traveling thousands of miles.",
+        "Tuna are among the fastest fish, reaching speeds up to 47 mph.",
         "They have a unique circulatory system that conserves heat in their muscles.",
-        "Tuna are among the fastest fish, reaching speeds up to 47 mph."
+        "They are warm-blooded, unlike most fish, which helps them swim in cold waters.",
+        "Tuna can migrate across entire oceans, traveling thousands of miles."
       ],
       "images": [
         "https://images.pexels.com/photos/3296392/pexels-photo-3296392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/3296394/pexels-photo-3296394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
+    },
+    {
+      "name": "lamb",
+      "facts": [
+        "They can stand and walk within an hour of being born.",
+        "Lambs are born with a full set of milk teeth that are replaced by adult teeth as they grow.",
+        "They form strong social bonds and can become stressed when separated from their flock.",
+        "Lambs can recognize their mother's voice within a few hours of being born."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/678448/pexels-photo-678448.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/323682/pexels-photo-323682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
+    },
+    {
+      "name": "newfoundland",
+      "facts": [
+        "No facts available."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/58691/pexels-photo-58691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2588592/pexels-photo-2588592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
