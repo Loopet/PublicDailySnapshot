@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "wild boar",
+    "name": "wild dog",
     "facts": [
-      "Sows build 'farrowing nests' of woven grass before giving birth.",
-      "Wild boars have razor-sharp tusks that regrow continuously.",
-      "Boars run 30 mph and jump 5-ft fences.",
-      "They create 'boar baths' – mud wallows that cool and remove parasites."
+      "African wild dogs vote to hunt via sneezing – more sneezes trigger departures.",
+      "They regurgitate food for pups, elders, and injured pack members.",
+      "Wild dogs have mottled coats unique to each individual.",
+      "Packs hold territories up to 900 square miles."
     ],
     "images": [
-      "https://images.pexels.com/photos/236684/pexels-photo-236684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/1344772/pexels-photo-1344772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/32661014/pexels-photo-32661014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1546584/pexels-photo-1546584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "08-19",
-      "name": "vulture",
-      "facts": [
-        "Vultures play a crucial role in ecosystems by cleaning up carcasses.",
-        "They have an excellent sense of smell.",
-        "They are known for their bald heads, which help keep them clean while feeding.",
-        "Vultures are scavenging birds of prey."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/797670/pexels-photo-797670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/1025586/pexels-photo-1025586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "08-20",
       "name": "wallaby",
       "facts": [
-        "Wallabies hop efficiently – energy use doesn't increase with speed.",
-        "They practice embryonic diapause; pausing development until environmental conditions improve.",
         "Wallabies cool by licking forearms; saliva evaporation lowers blood temperature.",
-        "Rock wallabies scale cliffs using textured soles and tail balancing."
+        "Rock wallabies scale cliffs using textured soles and tail balancing.",
+        "Wallabies hop efficiently – energy use doesn't increase with speed.",
+        "They practice embryonic diapause; pausing development until environmental conditions improve."
       ],
       "images": [
         "https://images.pexels.com/photos/3142004/pexels-photo-3142004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,10 +31,10 @@
       "date": "08-21",
       "name": "walrus",
       "facts": [
-        "Walruses use their tusks to haul themselves onto ice and to forage for food.",
-        "They are found in Arctic waters.",
+        "They are social animals and live in large herds.",
         "Walruses are large marine mammals known for their prominent tusks.",
-        "They are social animals and live in large herds."
+        "Walruses use their tusks to haul themselves onto ice and to forage for food.",
+        "They are found in Arctic waters."
       ],
       "images": [
         "https://images.pexels.com/photos/26690644/pexels-photo-26690644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -60,9 +46,9 @@
       "name": "warthog",
       "facts": [
         "Warthogs have facial 'warts' that protect eyes during fights.",
-        "Birds like mongooses remove ticks from warthogs during grooming sessions.",
         "They reverse into burrows – tusks facing outward to deter predators.",
-        "Warthogs kneel on calloused wrists to graze low vegetation."
+        "Warthogs kneel on calloused wrists to graze low vegetation.",
+        "Birds like mongooses remove ticks from warthogs during grooming sessions."
       ],
       "images": [
         "https://images.pexels.com/photos/206881/pexels-photo-206881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,10 +59,10 @@
       "date": "08-23",
       "name": "wasp",
       "facts": [
-        "Parasitoid wasps lay eggs in hosts; larvae eat prey alive while avoiding vital organs.",
         "Fig wasps co-evolved with figs – each fig species has its own wasp pollinator.",
-        "Mud daubers build tubular nests with paralyzed spiders as living food for larvae.",
-        "Wasps produce paper by chewing wood fibers mixed with saliva."
+        "Wasps produce paper by chewing wood fibers mixed with saliva.",
+        "Parasitoid wasps lay eggs in hosts; larvae eat prey alive while avoiding vital organs.",
+        "Mud daubers build tubular nests with paralyzed spiders as living food for larvae."
       ],
       "images": [
         "https://images.pexels.com/photos/158313/wasp-insect-macro-close-158313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -88,9 +74,9 @@
       "name": "water buffalo",
       "facts": [
         "Wild water buffaloes are endangered; only 3,400 remain in fragmented habitats.",
+        "Domesticated for 5,000 years, they provide more milk than dairy cows in some regions.",
         "They wallow in water to cool down and deter biting insects.",
-        "Water buffaloes have wide-splayed hooves preventing sinking in mud.",
-        "Domesticated for 5,000 years, they provide more milk than dairy cows in some regions."
+        "Water buffaloes have wide-splayed hooves preventing sinking in mud."
       ],
       "images": [
         "https://images.pexels.com/photos/27721295/pexels-photo-27721295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,52 +87,69 @@
       "date": "08-25",
       "name": "wild boar",
       "facts": [
-        "Boars run 30 mph and jump 5-ft fences.",
-        "They create 'boar baths' – mud wallows that cool and remove parasites.",
         "Wild boars have razor-sharp tusks that regrow continuously.",
-        "Sows build 'farrowing nests' of woven grass before giving birth."
+        "They create 'boar baths' – mud wallows that cool and remove parasites.",
+        "Sows build 'farrowing nests' of woven grass before giving birth.",
+        "Boars run 30 mph and jump 5-ft fences."
       ],
       "images": [
         "https://images.pexels.com/photos/236684/pexels-photo-236684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/1344772/pexels-photo-1344772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "08-26",
+      "name": "wild dog",
+      "facts": [
+        "They regurgitate food for pups, elders, and injured pack members.",
+        "Wild dogs have mottled coats unique to each individual.",
+        "Packs hold territories up to 900 square miles.",
+        "African wild dogs vote to hunt via sneezing – more sneezes trigger departures."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/32661014/pexels-photo-32661014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/1546584/pexels-photo-1546584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "tuna",
+      "name": "snail",
       "facts": [
-        "Tuna are among the fastest fish, reaching speeds up to 47 mph.",
-        "They have a unique circulatory system that conserves heat in their muscles.",
-        "They are warm-blooded, unlike most fish, which helps them swim in cold waters.",
-        "Tuna can migrate across entire oceans, traveling thousands of miles."
+        "The largest land snail, the African giant snail, can grow up to 15 inches long.",
+        "Snails are hermaphrodites, meaning each individual has both male and female reproductive organs.",
+        "They have thousands of tiny teeth on their tongue-like radula, which they use to scrape food.",
+        "Snails can sleep for up to three years if the weather isn't favorable."
       ],
       "images": [
-        "https://images.pexels.com/photos/3296392/pexels-photo-3296392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/3296394/pexels-photo-3296394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/320956/pexels-photo-320956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/53203/snail-snail-shell-slow-animal-53203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "lamb",
+      "name": "yellowfin tuna",
       "facts": [
-        "They can stand and walk within an hour of being born.",
-        "Lambs are born with a full set of milk teeth that are replaced by adult teeth as they grow.",
-        "They form strong social bonds and can become stressed when separated from their flock.",
-        "Lambs can recognize their mother's voice within a few hours of being born."
+        "They hunt in coordinated schools, herding prey toward the surface.",
+        "Yellowfin tuna can reach 50 mph – among the fastest fish.",
+        "Yellowfins maintain muscle temperature above water via specialized blood vessels.",
+        "Their fins glow yellow when excited – a display during feeding frenzies."
       ],
       "images": [
-        "https://images.pexels.com/photos/678448/pexels-photo-678448.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/323682/pexels-photo-323682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/6148937/pexels-photo-6148937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/8352346/pexels-photo-8352346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "newfoundland",
+      "name": "sea turtle",
       "facts": [
-        "No facts available."
+        "Leatherback sea turtles can dive deeper than 1,000 meters (3,280 feet).",
+        "The temperature of the nest determines the gender of the hatchlings.",
+        "They return to the same beach where they were born to lay their eggs.",
+        "Sea turtles can migrate thousands of miles between feeding and nesting grounds."
       ],
       "images": [
-        "https://images.pexels.com/photos/58691/pexels-photo-58691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/2588592/pexels-photo-2588592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/1618606/pexels-photo-1618606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/847393/pexels-photo-847393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
