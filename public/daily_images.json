@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "wild dog",
+    "name": "wombat",
     "facts": [
-      "African wild dogs vote to hunt via sneezing – more sneezes trigger departures.",
-      "They regurgitate food for pups, elders, and injured pack members.",
-      "Wild dogs have mottled coats unique to each individual.",
-      "Packs hold territories up to 900 square miles."
+      "Wombat rear hides have cartilage plates – blocking dingo bites when fleeing to tunnels.",
+      "They dig complex burrows with multiple entrances and sleeping chambers.",
+      "Wombats produce cube-shaped feces – unique among animals – to prevent rolling.",
+      "They can run 25 mph despite stubby legs."
     ],
     "images": [
-      "https://images.pexels.com/photos/32661014/pexels-photo-32661014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/1546584/pexels-photo-1546584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/3798395/pexels-photo-3798395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5486956/pexels-photo-5486956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
-    {
-      "date": "08-20",
-      "name": "wallaby",
-      "facts": [
-        "Wallabies cool by licking forearms; saliva evaporation lowers blood temperature.",
-        "Rock wallabies scale cliffs using textured soles and tail balancing.",
-        "Wallabies hop efficiently – energy use doesn't increase with speed.",
-        "They practice embryonic diapause; pausing development until environmental conditions improve."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/3142004/pexels-photo-3142004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/5486954/pexels-photo-5486954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
     {
       "date": "08-21",
       "name": "walrus",
       "facts": [
         "They are social animals and live in large herds.",
-        "Walruses are large marine mammals known for their prominent tusks.",
+        "They are found in Arctic waters.",
         "Walruses use their tusks to haul themselves onto ice and to forage for food.",
-        "They are found in Arctic waters."
+        "Walruses are large marine mammals known for their prominent tusks."
       ],
       "images": [
         "https://images.pexels.com/photos/26690644/pexels-photo-26690644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,9 +31,9 @@
       "date": "08-22",
       "name": "warthog",
       "facts": [
-        "Warthogs have facial 'warts' that protect eyes during fights.",
-        "They reverse into burrows – tusks facing outward to deter predators.",
         "Warthogs kneel on calloused wrists to graze low vegetation.",
+        "They reverse into burrows – tusks facing outward to deter predators.",
+        "Warthogs have facial 'warts' that protect eyes during fights.",
         "Birds like mongooses remove ticks from warthogs during grooming sessions."
       ],
       "images": [
@@ -59,9 +45,9 @@
       "date": "08-23",
       "name": "wasp",
       "facts": [
-        "Fig wasps co-evolved with figs – each fig species has its own wasp pollinator.",
-        "Wasps produce paper by chewing wood fibers mixed with saliva.",
         "Parasitoid wasps lay eggs in hosts; larvae eat prey alive while avoiding vital organs.",
+        "Wasps produce paper by chewing wood fibers mixed with saliva.",
+        "Fig wasps co-evolved with figs – each fig species has its own wasp pollinator.",
         "Mud daubers build tubular nests with paralyzed spiders as living food for larvae."
       ],
       "images": [
@@ -73,8 +59,8 @@
       "date": "08-24",
       "name": "water buffalo",
       "facts": [
-        "Wild water buffaloes are endangered; only 3,400 remain in fragmented habitats.",
         "Domesticated for 5,000 years, they provide more milk than dairy cows in some regions.",
+        "Wild water buffaloes are endangered; only 3,400 remain in fragmented habitats.",
         "They wallow in water to cool down and deter biting insects.",
         "Water buffaloes have wide-splayed hooves preventing sinking in mud."
       ],
@@ -87,10 +73,10 @@
       "date": "08-25",
       "name": "wild boar",
       "facts": [
-        "Wild boars have razor-sharp tusks that regrow continuously.",
-        "They create 'boar baths' – mud wallows that cool and remove parasites.",
         "Sows build 'farrowing nests' of woven grass before giving birth.",
-        "Boars run 30 mph and jump 5-ft fences."
+        "Boars run 30 mph and jump 5-ft fences.",
+        "They create 'boar baths' – mud wallows that cool and remove parasites.",
+        "Wild boars have razor-sharp tusks that regrow continuously."
       ],
       "images": [
         "https://images.pexels.com/photos/236684/pexels-photo-236684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,55 +87,69 @@
       "date": "08-26",
       "name": "wild dog",
       "facts": [
+        "African wild dogs vote to hunt via sneezing – more sneezes trigger departures.",
         "They regurgitate food for pups, elders, and injured pack members.",
         "Wild dogs have mottled coats unique to each individual.",
-        "Packs hold territories up to 900 square miles.",
-        "African wild dogs vote to hunt via sneezing – more sneezes trigger departures."
+        "Packs hold territories up to 900 square miles."
       ],
       "images": [
         "https://images.pexels.com/photos/32661014/pexels-photo-32661014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/1546584/pexels-photo-1546584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "08-27",
+      "name": "wombat",
+      "facts": [
+        "Wombats produce cube-shaped feces – unique among animals – to prevent rolling.",
+        "They dig complex burrows with multiple entrances and sleeping chambers.",
+        "Wombat rear hides have cartilage plates – blocking dingo bites when fleeing to tunnels.",
+        "They can run 25 mph despite stubby legs."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/3798395/pexels-photo-3798395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/5486956/pexels-photo-5486956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "snail",
+      "name": "oyster",
       "facts": [
-        "The largest land snail, the African giant snail, can grow up to 15 inches long.",
-        "Snails are hermaphrodites, meaning each individual has both male and female reproductive organs.",
-        "They have thousands of tiny teeth on their tongue-like radula, which they use to scrape food.",
-        "Snails can sleep for up to three years if the weather isn't favorable."
+        "Oysters can change their gender multiple times during their lifetime.",
+        "A single oyster can filter up to 50 gallons of water per day.",
+        "Pearls form when an irritant gets inside an oyster's shell and is coated with nacre.",
+        "Oysters were so abundant in the 19th century that they were considered poor man's food."
       ],
       "images": [
-        "https://images.pexels.com/photos/320956/pexels-photo-320956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/53203/snail-snail-shell-slow-animal-53203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/2647939/pexels-photo-2647939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2647936/pexels-photo-2647936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "yellowfin tuna",
+      "name": "tamarin",
       "facts": [
-        "They hunt in coordinated schools, herding prey toward the surface.",
-        "Yellowfin tuna can reach 50 mph – among the fastest fish.",
-        "Yellowfins maintain muscle temperature above water via specialized blood vessels.",
-        "Their fins glow yellow when excited – a display during feeding frenzies."
+        "They communicate through a variety of high-pitched vocalizations.",
+        "Tamarins have claw-like nails instead of flat nails like other monkeys.",
+        "They often give birth to twins, which is unusual for primates.",
+        "Tamarin monkeys are among the smallest primates, some weighing less than a pound."
       ],
       "images": [
-        "https://images.pexels.com/photos/6148937/pexels-photo-6148937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/8352346/pexels-photo-8352346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/3973557/pexels-photo-3973557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/802211/pexels-photo-802211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "sea turtle",
+      "name": "harpy eagle",
       "facts": [
-        "Leatherback sea turtles can dive deeper than 1,000 meters (3,280 feet).",
-        "The temperature of the nest determines the gender of the hatchlings.",
-        "They return to the same beach where they were born to lay their eggs.",
-        "Sea turtles can migrate thousands of miles between feeding and nesting grounds."
+        "Harpy eagles primarily hunt monkeys, sloths, and other tree-dwelling animals.",
+        "They are named after the harpies of Greek mythology, which were fierce winged creatures.",
+        "Its talons can be as long as a grizzly bear's claws, measuring up to 5 inches.",
+        "The harpy eagle is one of the largest and most powerful eagles in the world."
       ],
       "images": [
-        "https://images.pexels.com/photos/1618606/pexels-photo-1618606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/847393/pexels-photo-847393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/27039417/pexels-photo-27039417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/27039418/pexels-photo-27039418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
