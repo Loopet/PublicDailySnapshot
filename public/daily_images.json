@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "wombat",
+    "name": "woodpecker",
     "facts": [
-      "Wombat rear hides have cartilage plates – blocking dingo bites when fleeing to tunnels.",
-      "They dig complex burrows with multiple entrances and sleeping chambers.",
-      "Wombats produce cube-shaped feces – unique among animals – to prevent rolling.",
-      "They can run 25 mph despite stubby legs."
+      "Acorn woodpeckers drill thousands of holes to store acorns – 'granary trees'.",
+      "Their tongues wrap around skulls to cushion brains during pecking.",
+      "Woodpeckers have shock-absorbing skulls and compressible brain cases.",
+      "Pileated woodpeckers create rectangular holes in trees searching for ants."
     ],
     "images": [
-      "https://images.pexels.com/photos/3798395/pexels-photo-3798395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/5486956/pexels-photo-5486956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/2570158/pexels-photo-2570158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/917105/pexels-photo-917105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "08-21",
-      "name": "walrus",
-      "facts": [
-        "They are social animals and live in large herds.",
-        "They are found in Arctic waters.",
-        "Walruses use their tusks to haul themselves onto ice and to forage for food.",
-        "Walruses are large marine mammals known for their prominent tusks."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/26690644/pexels-photo-26690644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/26690643/pexels-photo-26690643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "08-22",
       "name": "warthog",
       "facts": [
-        "Warthogs kneel on calloused wrists to graze low vegetation.",
-        "They reverse into burrows – tusks facing outward to deter predators.",
+        "Birds like mongooses remove ticks from warthogs during grooming sessions.",
         "Warthogs have facial 'warts' that protect eyes during fights.",
-        "Birds like mongooses remove ticks from warthogs during grooming sessions."
+        "They reverse into burrows – tusks facing outward to deter predators.",
+        "Warthogs kneel on calloused wrists to graze low vegetation."
       ],
       "images": [
         "https://images.pexels.com/photos/206881/pexels-photo-206881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,10 +31,10 @@
       "date": "08-23",
       "name": "wasp",
       "facts": [
-        "Parasitoid wasps lay eggs in hosts; larvae eat prey alive while avoiding vital organs.",
-        "Wasps produce paper by chewing wood fibers mixed with saliva.",
         "Fig wasps co-evolved with figs – each fig species has its own wasp pollinator.",
-        "Mud daubers build tubular nests with paralyzed spiders as living food for larvae."
+        "Parasitoid wasps lay eggs in hosts; larvae eat prey alive while avoiding vital organs.",
+        "Mud daubers build tubular nests with paralyzed spiders as living food for larvae.",
+        "Wasps produce paper by chewing wood fibers mixed with saliva."
       ],
       "images": [
         "https://images.pexels.com/photos/158313/wasp-insect-macro-close-158313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,10 +59,10 @@
       "date": "08-25",
       "name": "wild boar",
       "facts": [
-        "Sows build 'farrowing nests' of woven grass before giving birth.",
-        "Boars run 30 mph and jump 5-ft fences.",
+        "Wild boars have razor-sharp tusks that regrow continuously.",
         "They create 'boar baths' – mud wallows that cool and remove parasites.",
-        "Wild boars have razor-sharp tusks that regrow continuously."
+        "Boars run 30 mph and jump 5-ft fences.",
+        "Sows build 'farrowing nests' of woven grass before giving birth."
       ],
       "images": [
         "https://images.pexels.com/photos/236684/pexels-photo-236684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -89,8 +75,8 @@
       "facts": [
         "African wild dogs vote to hunt via sneezing – more sneezes trigger departures.",
         "They regurgitate food for pups, elders, and injured pack members.",
-        "Wild dogs have mottled coats unique to each individual.",
-        "Packs hold territories up to 900 square miles."
+        "Packs hold territories up to 900 square miles.",
+        "Wild dogs have mottled coats unique to each individual."
       ],
       "images": [
         "https://images.pexels.com/photos/32661014/pexels-photo-32661014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -103,53 +89,67 @@
       "facts": [
         "Wombats produce cube-shaped feces – unique among animals – to prevent rolling.",
         "They dig complex burrows with multiple entrances and sleeping chambers.",
-        "Wombat rear hides have cartilage plates – blocking dingo bites when fleeing to tunnels.",
-        "They can run 25 mph despite stubby legs."
+        "They can run 25 mph despite stubby legs.",
+        "Wombat rear hides have cartilage plates – blocking dingo bites when fleeing to tunnels."
       ],
       "images": [
         "https://images.pexels.com/photos/3798395/pexels-photo-3798395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/5486956/pexels-photo-5486956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "08-28",
+      "name": "woodpecker",
+      "facts": [
+        "Woodpeckers have shock-absorbing skulls and compressible brain cases.",
+        "Acorn woodpeckers drill thousands of holes to store acorns – 'granary trees'.",
+        "Pileated woodpeckers create rectangular holes in trees searching for ants.",
+        "Their tongues wrap around skulls to cushion brains during pecking."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/2570158/pexels-photo-2570158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/917105/pexels-photo-917105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "oyster",
+      "name": "dolphin",
       "facts": [
-        "Oysters can change their gender multiple times during their lifetime.",
-        "A single oyster can filter up to 50 gallons of water per day.",
-        "Pearls form when an irritant gets inside an oyster's shell and is coated with nacre.",
-        "Oysters were so abundant in the 19th century that they were considered poor man's food."
+        "Dolphins have names for each other and can call specific individuals.",
+        "They use echolocation so precisely they can detect objects buried in sand.",
+        "They can recognize themselves in mirrors, showing self-awareness.",
+        "Dolphins sleep with one brain hemisphere at a time to stay alert for breathing."
       ],
       "images": [
-        "https://images.pexels.com/photos/2647939/pexels-photo-2647939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/2647936/pexels-photo-2647936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/64219/dolphin-marine-mammals-water-sea-64219.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/1986374/pexels-photo-1986374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "tamarin",
+      "name": "nene",
       "facts": [
-        "They communicate through a variety of high-pitched vocalizations.",
-        "Tamarins have claw-like nails instead of flat nails like other monkeys.",
-        "They often give birth to twins, which is unusual for primates.",
-        "Tamarin monkeys are among the smallest primates, some weighing less than a pound."
+        "They are highly endangered, but breeding programs have helped increase their population.",
+        "They feed mainly on grasses, leaves, and berries.",
+        "They evolved to live in volcanic areas, and their legs are less adapted for swimming than other geese, but better for walking on uneven terrain.",
+        "The Nene, also known as the Hawaiian goose, is the only goose species found in Hawaii and is the state bird."
       ],
       "images": [
-        "https://images.pexels.com/photos/3973557/pexels-photo-3973557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/802211/pexels-photo-802211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/32614550/pexels-photo-32614550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/29159825/pexels-photo-29159825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "harpy eagle",
+      "name": "cobra",
       "facts": [
-        "Harpy eagles primarily hunt monkeys, sloths, and other tree-dwelling animals.",
-        "They are named after the harpies of Greek mythology, which were fierce winged creatures.",
-        "Its talons can be as long as a grizzly bear's claws, measuring up to 5 inches.",
-        "The harpy eagle is one of the largest and most powerful eagles in the world."
+        "Cobras can 'stand up' by raising up to one-third of their body length.",
+        "Despite their reputation, they prefer to avoid confrontation with humans.",
+        "King cobras are the longest venomous snakes in the world.",
+        "They spread their hood as a warning display when threatened."
       ],
       "images": [
-        "https://images.pexels.com/photos/27039417/pexels-photo-27039417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/27039418/pexels-photo-27039418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/106690/pexels-photo-106690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/3810915/pexels-photo-3810915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
