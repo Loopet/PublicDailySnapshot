@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "woodpecker",
+    "name": "woolly mammoth",
     "facts": [
-      "Acorn woodpeckers drill thousands of holes to store acorns – 'granary trees'.",
-      "Their tongues wrap around skulls to cushion brains during pecking.",
-      "Woodpeckers have shock-absorbing skulls and compressible brain cases.",
-      "Pileated woodpeckers create rectangular holes in trees searching for ants."
+      "Permafrost-preserved mammoths provide DNA for de-extinction projects.",
+      "Woolly mammoths had fur up to 3 ft long and 4-inch fat layers for insulation.",
+      "Their curved tusks measured 16 ft – used for clearing snow to reach grass.",
+      "Mammoths survived on Wrangel Island until 1650 BCE – contemporary with Egyptian pyramids."
     ],
     "images": [
-      "https://images.pexels.com/photos/2570158/pexels-photo-2570158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/917105/pexels-photo-917105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/9660890/pexels-photo-9660890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18417014/pexels-photo-18417014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "08-22",
-      "name": "warthog",
-      "facts": [
-        "Birds like mongooses remove ticks from warthogs during grooming sessions.",
-        "Warthogs have facial 'warts' that protect eyes during fights.",
-        "They reverse into burrows – tusks facing outward to deter predators.",
-        "Warthogs kneel on calloused wrists to graze low vegetation."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/206881/pexels-photo-206881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/6847982/pexels-photo-6847982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "08-23",
       "name": "wasp",
       "facts": [
-        "Fig wasps co-evolved with figs – each fig species has its own wasp pollinator.",
-        "Parasitoid wasps lay eggs in hosts; larvae eat prey alive while avoiding vital organs.",
         "Mud daubers build tubular nests with paralyzed spiders as living food for larvae.",
-        "Wasps produce paper by chewing wood fibers mixed with saliva."
+        "Wasps produce paper by chewing wood fibers mixed with saliva.",
+        "Parasitoid wasps lay eggs in hosts; larvae eat prey alive while avoiding vital organs.",
+        "Fig wasps co-evolved with figs – each fig species has its own wasp pollinator."
       ],
       "images": [
         "https://images.pexels.com/photos/158313/wasp-insect-macro-close-158313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,10 +31,10 @@
       "date": "08-24",
       "name": "water buffalo",
       "facts": [
+        "Water buffaloes have wide-splayed hooves preventing sinking in mud.",
         "Domesticated for 5,000 years, they provide more milk than dairy cows in some regions.",
         "Wild water buffaloes are endangered; only 3,400 remain in fragmented habitats.",
-        "They wallow in water to cool down and deter biting insects.",
-        "Water buffaloes have wide-splayed hooves preventing sinking in mud."
+        "They wallow in water to cool down and deter biting insects."
       ],
       "images": [
         "https://images.pexels.com/photos/27721295/pexels-photo-27721295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -61,8 +47,8 @@
       "facts": [
         "Wild boars have razor-sharp tusks that regrow continuously.",
         "They create 'boar baths' – mud wallows that cool and remove parasites.",
-        "Boars run 30 mph and jump 5-ft fences.",
-        "Sows build 'farrowing nests' of woven grass before giving birth."
+        "Sows build 'farrowing nests' of woven grass before giving birth.",
+        "Boars run 30 mph and jump 5-ft fences."
       ],
       "images": [
         "https://images.pexels.com/photos/236684/pexels-photo-236684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,10 +73,10 @@
       "date": "08-27",
       "name": "wombat",
       "facts": [
-        "Wombats produce cube-shaped feces – unique among animals – to prevent rolling.",
         "They dig complex burrows with multiple entrances and sleeping chambers.",
+        "Wombat rear hides have cartilage plates – blocking dingo bites when fleeing to tunnels.",
         "They can run 25 mph despite stubby legs.",
-        "Wombat rear hides have cartilage plates – blocking dingo bites when fleeing to tunnels."
+        "Wombats produce cube-shaped feces – unique among animals – to prevent rolling."
       ],
       "images": [
         "https://images.pexels.com/photos/3798395/pexels-photo-3798395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -102,54 +88,65 @@
       "name": "woodpecker",
       "facts": [
         "Woodpeckers have shock-absorbing skulls and compressible brain cases.",
-        "Acorn woodpeckers drill thousands of holes to store acorns – 'granary trees'.",
+        "Their tongues wrap around skulls to cushion brains during pecking.",
         "Pileated woodpeckers create rectangular holes in trees searching for ants.",
-        "Their tongues wrap around skulls to cushion brains during pecking."
+        "Acorn woodpeckers drill thousands of holes to store acorns – 'granary trees'."
       ],
       "images": [
         "https://images.pexels.com/photos/2570158/pexels-photo-2570158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/917105/pexels-photo-917105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "08-29",
+      "name": "woolly mammoth",
+      "facts": [
+        "Woolly mammoths had fur up to 3 ft long and 4-inch fat layers for insulation.",
+        "Their curved tusks measured 16 ft – used for clearing snow to reach grass.",
+        "Mammoths survived on Wrangel Island until 1650 BCE – contemporary with Egyptian pyramids.",
+        "Permafrost-preserved mammoths provide DNA for de-extinction projects."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/9660890/pexels-photo-9660890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/18417014/pexels-photo-18417014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "dolphin",
+      "name": "basset hound",
       "facts": [
-        "Dolphins have names for each other and can call specific individuals.",
-        "They use echolocation so precisely they can detect objects buried in sand.",
-        "They can recognize themselves in mirrors, showing self-awareness.",
-        "Dolphins sleep with one brain hemisphere at a time to stay alert for breathing."
+        "Basset hounds have the second-best sense of smell among all dog breeds.",
+        "Their long ears help sweep scents from the ground toward their nose.",
+        "They were originally bred in France for hunting small game.",
+        "Their short legs and long body make them excellent at following trails slowly."
       ],
       "images": [
-        "https://images.pexels.com/photos/64219/dolphin-marine-mammals-water-sea-64219.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/1986374/pexels-photo-1986374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/1582835/pexels-photo-1582835.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/786773/pexels-photo-786773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "nene",
+      "name": "yak",
       "facts": [
-        "They are highly endangered, but breeding programs have helped increase their population.",
-        "They feed mainly on grasses, leaves, and berries.",
-        "They evolved to live in volcanic areas, and their legs are less adapted for swimming than other geese, but better for walking on uneven terrain.",
-        "The Nene, also known as the Hawaiian goose, is the only goose species found in Hawaii and is the state bird."
+        "Yaks survive at 20,000 ft – lungs and hearts 3x larger than cattle.",
+        "They grunt instead of mooing; 'yak' mimics their guttural sounds.",
+        "Yak milk is rich in butterfat – churned into butter tea in Tibet.",
+        "Their dung is dried and burned as fuel in treeless Himalayan regions."
       ],
       "images": [
-        "https://images.pexels.com/photos/32614550/pexels-photo-32614550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/29159825/pexels-photo-29159825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/51952/cow-bull-horns-coat-51952.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/1758463/pexels-photo-1758463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "cobra",
+      "name": "fennec fox",
       "facts": [
-        "Cobras can 'stand up' by raising up to one-third of their body length.",
-        "Despite their reputation, they prefer to avoid confrontation with humans.",
-        "King cobras are the longest venomous snakes in the world.",
-        "They spread their hood as a warning display when threatened."
+        "No facts available."
       ],
       "images": [
-        "https://images.pexels.com/photos/106690/pexels-photo-106690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/3810915/pexels-photo-3810915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/1821688/pexels-photo-1821688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/308834/pexels-photo-308834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
