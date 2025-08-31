@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "worm",
+    "name": "wren",
     "facts": [
-      "Earthworms have five hearts and breathe through skin.",
-      "They improve soil aeration – moving 20 tons of earth per acre annually.",
-      "Worms regenerate segments; some species regrow heads.",
-      "Charles Darwin studied earthworms for 40 years, calling them 'nature's ploughs'."
+      "They sing at 10 notes/second – 10x faster than human speech.",
+      "The tiny winter wren weighs less than a nickel but sings loudly.",
+      "Wrens roost communally in winter; 60+ birds huddle in nest boxes.",
+      "Eurasian wrens build dome-shaped nests with side entrances – males build multiple for females to choose."
     ],
     "images": [
-      "https://images.pexels.com/photos/3696170/pexels-photo-3696170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/4386491/pexels-photo-4386491.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/432991/pexels-photo-432991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26708305/pexels-photo-26708305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
-    {
-      "date": "08-24",
-      "name": "water buffalo",
-      "facts": [
-        "Wild water buffaloes are endangered; only 3,400 remain in fragmented habitats.",
-        "Domesticated for 5,000 years, they provide more milk than dairy cows in some regions.",
-        "They wallow in water to cool down and deter biting insects.",
-        "Water buffaloes have wide-splayed hooves preventing sinking in mud."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/27721295/pexels-photo-27721295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/2464145/pexels-photo-2464145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
     {
       "date": "08-25",
       "name": "wild boar",
       "facts": [
         "Sows build 'farrowing nests' of woven grass before giving birth.",
         "Wild boars have razor-sharp tusks that regrow continuously.",
-        "Boars run 30 mph and jump 5-ft fences.",
-        "They create 'boar baths' – mud wallows that cool and remove parasites."
+        "They create 'boar baths' – mud wallows that cool and remove parasites.",
+        "Boars run 30 mph and jump 5-ft fences."
       ],
       "images": [
         "https://images.pexels.com/photos/236684/pexels-photo-236684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -59,9 +45,9 @@
       "date": "08-27",
       "name": "wombat",
       "facts": [
-        "Wombats produce cube-shaped feces – unique among animals – to prevent rolling.",
-        "They dig complex burrows with multiple entrances and sleeping chambers.",
         "They can run 25 mph despite stubby legs.",
+        "They dig complex burrows with multiple entrances and sleeping chambers.",
+        "Wombats produce cube-shaped feces – unique among animals – to prevent rolling.",
         "Wombat rear hides have cartilage plates – blocking dingo bites when fleeing to tunnels."
       ],
       "images": [
@@ -73,10 +59,10 @@
       "date": "08-28",
       "name": "woodpecker",
       "facts": [
-        "Acorn woodpeckers drill thousands of holes to store acorns – 'granary trees'.",
-        "Their tongues wrap around skulls to cushion brains during pecking.",
         "Woodpeckers have shock-absorbing skulls and compressible brain cases.",
-        "Pileated woodpeckers create rectangular holes in trees searching for ants."
+        "Their tongues wrap around skulls to cushion brains during pecking.",
+        "Pileated woodpeckers create rectangular holes in trees searching for ants.",
+        "Acorn woodpeckers drill thousands of holes to store acorns – 'granary trees'."
       ],
       "images": [
         "https://images.pexels.com/photos/2570158/pexels-photo-2570158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,10 +73,10 @@
       "date": "08-29",
       "name": "woolly mammoth",
       "facts": [
-        "Permafrost-preserved mammoths provide DNA for de-extinction projects.",
-        "Their curved tusks measured 16 ft – used for clearing snow to reach grass.",
         "Woolly mammoths had fur up to 3 ft long and 4-inch fat layers for insulation.",
-        "Mammoths survived on Wrangel Island until 1650 BCE – contemporary with Egyptian pyramids."
+        "Their curved tusks measured 16 ft – used for clearing snow to reach grass.",
+        "Mammoths survived on Wrangel Island until 1650 BCE – contemporary with Egyptian pyramids.",
+        "Permafrost-preserved mammoths provide DNA for de-extinction projects."
       ],
       "images": [
         "https://images.pexels.com/photos/9660890/pexels-photo-9660890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,55 +87,69 @@
       "date": "08-30",
       "name": "worm",
       "facts": [
-        "They improve soil aeration – moving 20 tons of earth per acre annually.",
+        "Charles Darwin studied earthworms for 40 years, calling them 'nature's ploughs'.",
         "Worms regenerate segments; some species regrow heads.",
-        "Earthworms have five hearts and breathe through skin.",
-        "Charles Darwin studied earthworms for 40 years, calling them 'nature's ploughs'."
+        "They improve soil aeration – moving 20 tons of earth per acre annually.",
+        "Earthworms have five hearts and breathe through skin."
       ],
       "images": [
         "https://images.pexels.com/photos/3696170/pexels-photo-3696170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/4386491/pexels-photo-4386491.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "08-31",
+      "name": "wren",
+      "facts": [
+        "The tiny winter wren weighs less than a nickel but sings loudly.",
+        "Wrens roost communally in winter; 60+ birds huddle in nest boxes.",
+        "They sing at 10 notes/second – 10x faster than human speech.",
+        "Eurasian wrens build dome-shaped nests with side entrances – males build multiple for females to choose."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/432991/pexels-photo-432991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/26708305/pexels-photo-26708305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "squid",
+      "name": "serval",
       "facts": [
-        "Squid have three hearts: two pump blood to the gills, and one pumps it to the rest of the body.",
-        "They can change color rapidly to communicate or camouflage, using specialized cells called chromatophores.",
-        "The giant squid is the largest invertebrate, with eyes the size of dinner plates.",
-        "Some squid species can 'fly' by propelling themselves out of the water and gliding for short distances."
+        "Servals have excellent hearing and can detect rodents underground.",
+        "They are solitary hunters and mark their territory with urine and scent glands.",
+        "Servals have the longest legs relative to body size of any cat.",
+        "They can leap 10 feet straight up to catch birds in flight."
       ],
       "images": [
-        "https://images.pexels.com/photos/2505042/pexels-photo-2505042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/1618925/pexels-photo-1618925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/12271729/pexels-photo-12271729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/977955/pexels-photo-977955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "wild boar",
+      "name": "wild dog",
       "facts": [
-        "Sows build 'farrowing nests' of woven grass before giving birth.",
-        "Boars run 30 mph and jump 5-ft fences.",
-        "They create 'boar baths' – mud wallows that cool and remove parasites.",
-        "Wild boars have razor-sharp tusks that regrow continuously."
+        "African wild dogs vote to hunt via sneezing – more sneezes trigger departures.",
+        "Packs hold territories up to 900 square miles.",
+        "They regurgitate food for pups, elders, and injured pack members.",
+        "Wild dogs have mottled coats unique to each individual."
       ],
       "images": [
-        "https://images.pexels.com/photos/236684/pexels-photo-236684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/1344772/pexels-photo-1344772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/32661014/pexels-photo-32661014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/1546584/pexels-photo-1546584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "parakeet",
+      "name": "yellowfin tuna",
       "facts": [
-        "Parakeets are small, long-tailed parrots that are highly social and intelligent.",
-        "They can learn to mimic human speech and sounds with training.",
-        "In the wild, they live in large flocks that can number in the thousands.",
-        "Parakeets form strong pair bonds and often preen each other's feathers."
+        "Yellowfin tuna can reach 50 mph – among the fastest fish.",
+        "They hunt in coordinated schools, herding prey toward the surface.",
+        "Yellowfins maintain muscle temperature above water via specialized blood vessels.",
+        "Their fins glow yellow when excited – a display during feeding frenzies."
       ],
       "images": [
-        "https://images.pexels.com/photos/1661179/pexels-photo-1661179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/248241/pexels-photo-248241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/6148937/pexels-photo-6148937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/8352346/pexels-photo-8352346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
