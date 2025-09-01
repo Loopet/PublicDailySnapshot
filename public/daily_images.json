@@ -1,38 +1,24 @@
 {
   "animalOfTheDay": {
-    "name": "wren",
+    "name": "yak",
     "facts": [
-      "They sing at 10 notes/second – 10x faster than human speech.",
-      "The tiny winter wren weighs less than a nickel but sings loudly.",
-      "Wrens roost communally in winter; 60+ birds huddle in nest boxes.",
-      "Eurasian wrens build dome-shaped nests with side entrances – males build multiple for females to choose."
+      "Yak milk is rich in butterfat – churned into butter tea in Tibet.",
+      "Their dung is dried and burned as fuel in treeless Himalayan regions.",
+      "They grunt instead of mooing; 'yak' mimics their guttural sounds.",
+      "Yaks survive at 20,000 ft – lungs and hearts 3x larger than cattle."
     ],
     "images": [
-      "https://images.pexels.com/photos/432991/pexels-photo-432991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/26708305/pexels-photo-26708305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/51952/cow-bull-horns-coat-51952.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1758463/pexels-photo-1758463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "08-25",
-      "name": "wild boar",
-      "facts": [
-        "Sows build 'farrowing nests' of woven grass before giving birth.",
-        "Wild boars have razor-sharp tusks that regrow continuously.",
-        "They create 'boar baths' – mud wallows that cool and remove parasites.",
-        "Boars run 30 mph and jump 5-ft fences."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/236684/pexels-photo-236684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/1344772/pexels-photo-1344772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "08-26",
       "name": "wild dog",
       "facts": [
-        "They regurgitate food for pups, elders, and injured pack members.",
         "Packs hold territories up to 900 square miles.",
+        "They regurgitate food for pups, elders, and injured pack members.",
         "African wild dogs vote to hunt via sneezing – more sneezes trigger departures.",
         "Wild dogs have mottled coats unique to each individual."
       ],
@@ -46,9 +32,9 @@
       "name": "wombat",
       "facts": [
         "They can run 25 mph despite stubby legs.",
+        "Wombat rear hides have cartilage plates – blocking dingo bites when fleeing to tunnels.",
         "They dig complex burrows with multiple entrances and sleeping chambers.",
-        "Wombats produce cube-shaped feces – unique among animals – to prevent rolling.",
-        "Wombat rear hides have cartilage plates – blocking dingo bites when fleeing to tunnels."
+        "Wombats produce cube-shaped feces – unique among animals – to prevent rolling."
       ],
       "images": [
         "https://images.pexels.com/photos/3798395/pexels-photo-3798395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -59,10 +45,10 @@
       "date": "08-28",
       "name": "woodpecker",
       "facts": [
-        "Woodpeckers have shock-absorbing skulls and compressible brain cases.",
-        "Their tongues wrap around skulls to cushion brains during pecking.",
+        "Acorn woodpeckers drill thousands of holes to store acorns – 'granary trees'.",
         "Pileated woodpeckers create rectangular holes in trees searching for ants.",
-        "Acorn woodpeckers drill thousands of holes to store acorns – 'granary trees'."
+        "Their tongues wrap around skulls to cushion brains during pecking.",
+        "Woodpeckers have shock-absorbing skulls and compressible brain cases."
       ],
       "images": [
         "https://images.pexels.com/photos/2570158/pexels-photo-2570158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,10 +73,10 @@
       "date": "08-30",
       "name": "worm",
       "facts": [
-        "Charles Darwin studied earthworms for 40 years, calling them 'nature's ploughs'.",
-        "Worms regenerate segments; some species regrow heads.",
+        "Earthworms have five hearts and breathe through skin.",
         "They improve soil aeration – moving 20 tons of earth per acre annually.",
-        "Earthworms have five hearts and breathe through skin."
+        "Worms regenerate segments; some species regrow heads.",
+        "Charles Darwin studied earthworms for 40 years, calling them 'nature's ploughs'."
       ],
       "images": [
         "https://images.pexels.com/photos/3696170/pexels-photo-3696170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,55 +87,69 @@
       "date": "08-31",
       "name": "wren",
       "facts": [
+        "Eurasian wrens build dome-shaped nests with side entrances – males build multiple for females to choose.",
         "The tiny winter wren weighs less than a nickel but sings loudly.",
-        "Wrens roost communally in winter; 60+ birds huddle in nest boxes.",
         "They sing at 10 notes/second – 10x faster than human speech.",
-        "Eurasian wrens build dome-shaped nests with side entrances – males build multiple for females to choose."
+        "Wrens roost communally in winter; 60+ birds huddle in nest boxes."
       ],
       "images": [
         "https://images.pexels.com/photos/432991/pexels-photo-432991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/26708305/pexels-photo-26708305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "09-01",
+      "name": "yak",
+      "facts": [
+        "Yaks survive at 20,000 ft – lungs and hearts 3x larger than cattle.",
+        "They grunt instead of mooing; 'yak' mimics their guttural sounds.",
+        "Yak milk is rich in butterfat – churned into butter tea in Tibet.",
+        "Their dung is dried and burned as fuel in treeless Himalayan regions."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/51952/cow-bull-horns-coat-51952.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/1758463/pexels-photo-1758463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "serval",
+      "name": "gorilla",
       "facts": [
-        "Servals have excellent hearing and can detect rodents underground.",
-        "They are solitary hunters and mark their territory with urine and scent glands.",
-        "Servals have the longest legs relative to body size of any cat.",
-        "They can leap 10 feet straight up to catch birds in flight."
+        "They're primarily vegetarian despite their massive size and strength.",
+        "Gorillas share 98% of their DNA with humans.",
+        "A silverback gorilla is 10 times stronger than an adult human.",
+        "Gorillas can learn sign language and have been observed using tools."
       ],
       "images": [
-        "https://images.pexels.com/photos/12271729/pexels-photo-12271729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/977955/pexels-photo-977955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/913652/pexels-photo-913652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/35992/gorilla-monkey-ape-zoo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "wild dog",
+      "name": "numbat",
       "facts": [
-        "African wild dogs vote to hunt via sneezing – more sneezes trigger departures.",
-        "Packs hold territories up to 900 square miles.",
-        "They regurgitate food for pups, elders, and injured pack members.",
-        "Wild dogs have mottled coats unique to each individual."
+        "Numbats have a long, sticky tongue that can extend up to 4 inches to catch termites.",
+        "They are diurnal, unlike most marsupials, and feed exclusively on termites.",
+        "They are endangered, with fewer than 1,000 individuals left in the wild.",
+        "Numbats are small marsupials from Australia, also known as banded anteaters."
       ],
       "images": [
-        "https://images.pexels.com/photos/32661014/pexels-photo-32661014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/1546584/pexels-photo-1546584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/42754/pexels-photo-42754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/13765828/pexels-photo-13765828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "yellowfin tuna",
+      "name": "jerboa",
       "facts": [
-        "Yellowfin tuna can reach 50 mph – among the fastest fish.",
-        "They hunt in coordinated schools, herding prey toward the surface.",
-        "Yellowfins maintain muscle temperature above water via specialized blood vessels.",
-        "Their fins glow yellow when excited – a display during feeding frenzies."
+        "They can jump up to 3 meters (10 feet) high and 6 meters (20 feet) long to escape predators.",
+        "Jerboas are small rodents from the deserts of Africa and Asia, known for their long hind legs and ability to jump long distances.",
+        "They are nocturnal animals that spend the day in cool burrows to avoid the heat.",
+        "They have a very long tail that helps them maintain balance during jumps."
       ],
       "images": [
-        "https://images.pexels.com/photos/6148937/pexels-photo-6148937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/8352346/pexels-photo-8352346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/735431/pexels-photo-735431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/7723964/pexels-photo-7723964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
