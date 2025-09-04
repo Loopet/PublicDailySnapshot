@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "zebu",
+    "name": "zonkey",
     "facts": [
-      "Zebu are sacred in India – 330 million gods are said to live in each.",
-      "Their loose skin helps dissipate heat in tropical climates.",
-      "They sweat insect-repellent oils and tolerate heat better than European cattle.",
-      "Zebus have humps storing fat for drought survival – not water."
+      "Their bray combines zebra whinny and donkey 'hee-haw'.",
+      "Zonkeys are sterile due to mismatched chromosomes.",
+      "They inherit donkey calmness with zebra hardiness against diseases.",
+      "Zonkeys are zebra-donkey hybrids; stripes typically appear only on legs."
     ],
     "images": [
-      "https://images.pexels.com/photos/32598323/pexels-photo-32598323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/2983572/pexels-photo-2983572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/4766707/pexels-photo-4766707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/105819/pexels-photo-105819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
-    {
-      "date": "08-28",
-      "name": "woodpecker",
-      "facts": [
-        "Pileated woodpeckers create rectangular holes in trees searching for ants.",
-        "Their tongues wrap around skulls to cushion brains during pecking.",
-        "Woodpeckers have shock-absorbing skulls and compressible brain cases.",
-        "Acorn woodpeckers drill thousands of holes to store acorns – 'granary trees'."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/2570158/pexels-photo-2570158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/917105/pexels-photo-917105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
     {
       "date": "08-29",
       "name": "woolly mammoth",
       "facts": [
         "Woolly mammoths had fur up to 3 ft long and 4-inch fat layers for insulation.",
-        "Mammoths survived on Wrangel Island until 1650 BCE – contemporary with Egyptian pyramids.",
+        "Permafrost-preserved mammoths provide DNA for de-extinction projects.",
         "Their curved tusks measured 16 ft – used for clearing snow to reach grass.",
-        "Permafrost-preserved mammoths provide DNA for de-extinction projects."
+        "Mammoths survived on Wrangel Island until 1650 BCE – contemporary with Egyptian pyramids."
       ],
       "images": [
         "https://images.pexels.com/photos/9660890/pexels-photo-9660890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,8 +31,8 @@
       "date": "08-30",
       "name": "worm",
       "facts": [
-        "Charles Darwin studied earthworms for 40 years, calling them 'nature's ploughs'.",
         "Earthworms have five hearts and breathe through skin.",
+        "Charles Darwin studied earthworms for 40 years, calling them 'nature's ploughs'.",
         "They improve soil aeration – moving 20 tons of earth per acre annually.",
         "Worms regenerate segments; some species regrow heads."
       ],
@@ -59,10 +45,10 @@
       "date": "08-31",
       "name": "wren",
       "facts": [
-        "Eurasian wrens build dome-shaped nests with side entrances – males build multiple for females to choose.",
+        "The tiny winter wren weighs less than a nickel but sings loudly.",
         "They sing at 10 notes/second – 10x faster than human speech.",
         "Wrens roost communally in winter; 60+ birds huddle in nest boxes.",
-        "The tiny winter wren weighs less than a nickel but sings loudly."
+        "Eurasian wrens build dome-shaped nests with side entrances – males build multiple for females to choose."
       ],
       "images": [
         "https://images.pexels.com/photos/432991/pexels-photo-432991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,9 +59,9 @@
       "date": "09-01",
       "name": "yak",
       "facts": [
+        "Their dung is dried and burned as fuel in treeless Himalayan regions.",
         "Yak milk is rich in butterfat – churned into butter tea in Tibet.",
         "They grunt instead of mooing; 'yak' mimics their guttural sounds.",
-        "Their dung is dried and burned as fuel in treeless Himalayan regions.",
         "Yaks survive at 20,000 ft – lungs and hearts 3x larger than cattle."
       ],
       "images": [
@@ -110,46 +96,60 @@
         "https://images.pexels.com/photos/32598323/pexels-photo-32598323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/2983572/pexels-photo-2983572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
-    }
-  ],
-  "randomAnimals": [
-    {
-      "name": "owl",
-      "facts": [
-        "Their asymmetrical ears help them pinpoint the exact location of prey in complete darkness.",
-        "Owls are silent fliers, thanks to specialized feathers that muffle sound.",
-        "Owls can rotate their heads up to 270 degrees due to specialized vertebrae.",
-        "They swallow prey whole and later regurgitate indigestible parts as pellets."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/86596/owl-bird-eyes-eagle-owl-86596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/53977/eagle-owl-raptor-falconry-owl-53977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
     },
     {
+      "date": "09-04",
       "name": "zonkey",
       "facts": [
-        "Their bray combines zebra whinny and donkey 'hee-haw'.",
         "Zonkeys are sterile due to mismatched chromosomes.",
         "They inherit donkey calmness with zebra hardiness against diseases.",
+        "Their bray combines zebra whinny and donkey 'hee-haw'.",
         "Zonkeys are zebra-donkey hybrids; stripes typically appear only on legs."
       ],
       "images": [
         "https://images.pexels.com/photos/4766707/pexels-photo-4766707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/105819/pexels-photo-105819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
-    },
+    }
+  ],
+  "randomAnimals": [
     {
-      "name": "ring-tailed lemur",
+      "name": "tasmanian devil",
       "facts": [
-        "Ring-tailed lemurs are the most recognizable lemur species, known for their long, ringed tail with black and white bands.",
-        "They live in large social groups called 'troops,' and females dominate males.",
-        "Their tails are longer than their bodies and serve for balance and communication.",
-        "Unlike most lemurs, ring-tailed lemurs spend a lot of time on the ground, basking in the sun with their arms spread out."
+        "They are the largest carnivorous marsupial in the world.",
+        "Tasmanian devils are solitary and nocturnal scavengers.",
+        "They are known for their ferocious screeches and powerful bite.",
+        "Tasmanian devils are carnivorous marsupials native to Tasmania, Australia."
       ],
       "images": [
-        "https://images.pexels.com/photos/133459/pexels-photo-133459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/3822505/pexels-photo-3822505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/21579905/pexels-photo-21579905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/3798395/pexels-photo-3798395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
+    },
+    {
+      "name": "warthog",
+      "facts": [
+        "Warthogs have facial 'warts' that protect eyes during fights.",
+        "Birds like mongooses remove ticks from warthogs during grooming sessions.",
+        "They reverse into burrows – tusks facing outward to deter predators.",
+        "Warthogs kneel on calloused wrists to graze low vegetation."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/206881/pexels-photo-206881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/6847982/pexels-photo-6847982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
+    },
+    {
+      "name": "vulture",
+      "facts": [
+        "They have an excellent sense of smell.",
+        "Vultures play a crucial role in ecosystems by cleaning up carcasses.",
+        "They are known for their bald heads, which help keep them clean while feeding.",
+        "Vultures are scavenging birds of prey."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/797670/pexels-photo-797670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/1025586/pexels-photo-1025586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
