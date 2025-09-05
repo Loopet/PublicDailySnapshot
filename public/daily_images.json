@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "zonkey",
+    "name": "aardvark",
     "facts": [
-      "Their bray combines zebra whinny and donkey 'hee-haw'.",
-      "Zonkeys are sterile due to mismatched chromosomes.",
-      "They inherit donkey calmness with zebra hardiness against diseases.",
-      "Zonkeys are zebra-donkey hybrids; stripes typically appear only on legs."
+      "Aardvarks can eat up to 50,000 ants and termites in a single night.",
+      "Baby aardvarks are called cubs and stay with their mothers for about 6 months.",
+      "Their name comes from Afrikaans meaning 'earth pig' though they're not related to pigs.",
+      "They have incredibly strong claws that can dig through concrete."
     ],
     "images": [
-      "https://images.pexels.com/photos/4766707/pexels-photo-4766707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/105819/pexels-photo-105819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/9335190/pexels-photo-9335190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7445023/pexels-photo-7445023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
-    {
-      "date": "08-29",
-      "name": "woolly mammoth",
-      "facts": [
-        "Woolly mammoths had fur up to 3 ft long and 4-inch fat layers for insulation.",
-        "Permafrost-preserved mammoths provide DNA for de-extinction projects.",
-        "Their curved tusks measured 16 ft – used for clearing snow to reach grass.",
-        "Mammoths survived on Wrangel Island until 1650 BCE – contemporary with Egyptian pyramids."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/9660890/pexels-photo-9660890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/18417014/pexels-photo-18417014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
     {
       "date": "08-30",
       "name": "worm",
       "facts": [
         "Earthworms have five hearts and breathe through skin.",
+        "Worms regenerate segments; some species regrow heads.",
         "Charles Darwin studied earthworms for 40 years, calling them 'nature's ploughs'.",
-        "They improve soil aeration – moving 20 tons of earth per acre annually.",
-        "Worms regenerate segments; some species regrow heads."
+        "They improve soil aeration – moving 20 tons of earth per acre annually."
       ],
       "images": [
         "https://images.pexels.com/photos/3696170/pexels-photo-3696170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -46,8 +32,8 @@
       "name": "wren",
       "facts": [
         "The tiny winter wren weighs less than a nickel but sings loudly.",
-        "They sing at 10 notes/second – 10x faster than human speech.",
         "Wrens roost communally in winter; 60+ birds huddle in nest boxes.",
+        "They sing at 10 notes/second – 10x faster than human speech.",
         "Eurasian wrens build dome-shaped nests with side entrances – males build multiple for females to choose."
       ],
       "images": [
@@ -59,10 +45,10 @@
       "date": "09-01",
       "name": "yak",
       "facts": [
-        "Their dung is dried and burned as fuel in treeless Himalayan regions.",
-        "Yak milk is rich in butterfat – churned into butter tea in Tibet.",
         "They grunt instead of mooing; 'yak' mimics their guttural sounds.",
-        "Yaks survive at 20,000 ft – lungs and hearts 3x larger than cattle."
+        "Yaks survive at 20,000 ft – lungs and hearts 3x larger than cattle.",
+        "Yak milk is rich in butterfat – churned into butter tea in Tibet.",
+        "Their dung is dried and burned as fuel in treeless Himalayan regions."
       ],
       "images": [
         "https://images.pexels.com/photos/51952/cow-bull-horns-coat-51952.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,10 +59,10 @@
       "date": "09-02",
       "name": "yellowfin tuna",
       "facts": [
-        "Yellowfin tuna can reach 50 mph – among the fastest fish.",
-        "They hunt in coordinated schools, herding prey toward the surface.",
         "Yellowfins maintain muscle temperature above water via specialized blood vessels.",
-        "Their fins glow yellow when excited – a display during feeding frenzies."
+        "Yellowfin tuna can reach 50 mph – among the fastest fish.",
+        "Their fins glow yellow when excited – a display during feeding frenzies.",
+        "They hunt in coordinated schools, herding prey toward the surface."
       ],
       "images": [
         "https://images.pexels.com/photos/6148937/pexels-photo-6148937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -88,9 +74,9 @@
       "name": "zebu",
       "facts": [
         "Zebus have humps storing fat for drought survival – not water.",
-        "They sweat insect-repellent oils and tolerate heat better than European cattle.",
         "Zebu are sacred in India – 330 million gods are said to live in each.",
-        "Their loose skin helps dissipate heat in tropical climates."
+        "Their loose skin helps dissipate heat in tropical climates.",
+        "They sweat insect-repellent oils and tolerate heat better than European cattle."
       ],
       "images": [
         "https://images.pexels.com/photos/32598323/pexels-photo-32598323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,55 +87,69 @@
       "date": "09-04",
       "name": "zonkey",
       "facts": [
-        "Zonkeys are sterile due to mismatched chromosomes.",
-        "They inherit donkey calmness with zebra hardiness against diseases.",
+        "Zonkeys are zebra-donkey hybrids; stripes typically appear only on legs.",
         "Their bray combines zebra whinny and donkey 'hee-haw'.",
-        "Zonkeys are zebra-donkey hybrids; stripes typically appear only on legs."
+        "They inherit donkey calmness with zebra hardiness against diseases.",
+        "Zonkeys are sterile due to mismatched chromosomes."
       ],
       "images": [
         "https://images.pexels.com/photos/4766707/pexels-photo-4766707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/105819/pexels-photo-105819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "09-05",
+      "name": "aardvark",
+      "facts": [
+        "Baby aardvarks are called cubs and stay with their mothers for about 6 months.",
+        "They have incredibly strong claws that can dig through concrete.",
+        "Their name comes from Afrikaans meaning 'earth pig' though they're not related to pigs.",
+        "Aardvarks can eat up to 50,000 ants and termites in a single night."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/9335190/pexels-photo-9335190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/7445023/pexels-photo-7445023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "tasmanian devil",
+      "name": "swan",
       "facts": [
-        "They are the largest carnivorous marsupial in the world.",
-        "Tasmanian devils are solitary and nocturnal scavengers.",
-        "They are known for their ferocious screeches and powerful bite.",
-        "Tasmanian devils are carnivorous marsupials native to Tasmania, Australia."
+        "Swans are among the largest flying birds, with some species weighing over 30 pounds.",
+        "They mate for life and are known for their graceful courtship displays, including synchronized swimming.",
+        "Swans can be aggressive when defending their nests, using their strong wings to strike intruders.",
+        "The mute swan is not actually mute; it produces a variety of hisses and grunts."
       ],
       "images": [
-        "https://images.pexels.com/photos/21579905/pexels-photo-21579905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/3798395/pexels-photo-3798395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/59816/swan-bird-nature-water-bird-59816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/132479/pexels-photo-132479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "warthog",
+      "name": "hippopotamus",
       "facts": [
-        "Warthogs have facial 'warts' that protect eyes during fights.",
-        "Birds like mongooses remove ticks from warthogs during grooming sessions.",
-        "They reverse into burrows – tusks facing outward to deter predators.",
-        "Warthogs kneel on calloused wrists to graze low vegetation."
+        "Their name comes from the Greek words for 'river horse.'",
+        "Hippos are responsible for more human deaths in Africa than lions or crocodiles.",
+        "Hippopotamuses are more closely related to whales and dolphins than to other land mammals.",
+        "They can hold their breath underwater for up to 5 minutes."
       ],
       "images": [
-        "https://images.pexels.com/photos/206881/pexels-photo-206881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/6847982/pexels-photo-6847982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/667201/pexels-photo-667201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/68663/river-horse-hippopotamus-hippo-animal-68663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "vulture",
+      "name": "perch",
       "facts": [
-        "They have an excellent sense of smell.",
-        "Vultures play a crucial role in ecosystems by cleaning up carcasses.",
-        "They are known for their bald heads, which help keep them clean while feeding.",
-        "Vultures are scavenging birds of prey."
+        "Perch have spiny dorsal fins that help protect them from predators.",
+        "They are schooling fish and often hunt in coordinated groups.",
+        "They are popular game fish and are found in freshwater lakes and rivers.",
+        "Perch can change color slightly to blend in with their surroundings."
       ],
       "images": [
-        "https://images.pexels.com/photos/797670/pexels-photo-797670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/1025586/pexels-photo-1025586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/32661795/pexels-photo-32661795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/32657842/pexels-photo-32657842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
