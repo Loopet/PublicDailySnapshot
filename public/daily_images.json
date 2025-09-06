@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "aardvark",
+    "name": "alligator",
     "facts": [
-      "Aardvarks can eat up to 50,000 ants and termites in a single night.",
-      "Baby aardvarks are called cubs and stay with their mothers for about 6 months.",
-      "Their name comes from Afrikaans meaning 'earth pig' though they're not related to pigs.",
-      "They have incredibly strong claws that can dig through concrete."
+      "They can survive up to 2-3 years without eating in extreme conditions.",
+      "They're one of the few animals that continue growing throughout their entire lives.",
+      "Alligators can hold their breath underwater for up to 24 hours.",
+      "A mother alligator carries her babies to water in her mouth after they hatch."
     ],
     "images": [
-      "https://images.pexels.com/photos/9335190/pexels-photo-9335190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/7445023/pexels-photo-7445023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/769433/pexels-photo-769433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2100047/pexels-photo-2100047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "08-30",
-      "name": "worm",
-      "facts": [
-        "Earthworms have five hearts and breathe through skin.",
-        "Worms regenerate segments; some species regrow heads.",
-        "Charles Darwin studied earthworms for 40 years, calling them 'nature's ploughs'.",
-        "They improve soil aeration – moving 20 tons of earth per acre annually."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/3696170/pexels-photo-3696170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/4386491/pexels-photo-4386491.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "08-31",
       "name": "wren",
       "facts": [
-        "The tiny winter wren weighs less than a nickel but sings loudly.",
         "Wrens roost communally in winter; 60+ birds huddle in nest boxes.",
-        "They sing at 10 notes/second – 10x faster than human speech.",
-        "Eurasian wrens build dome-shaped nests with side entrances – males build multiple for females to choose."
+        "Eurasian wrens build dome-shaped nests with side entrances – males build multiple for females to choose.",
+        "The tiny winter wren weighs less than a nickel but sings loudly.",
+        "They sing at 10 notes/second – 10x faster than human speech."
       ],
       "images": [
         "https://images.pexels.com/photos/432991/pexels-photo-432991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,10 +31,10 @@
       "date": "09-01",
       "name": "yak",
       "facts": [
-        "They grunt instead of mooing; 'yak' mimics their guttural sounds.",
+        "Their dung is dried and burned as fuel in treeless Himalayan regions.",
         "Yaks survive at 20,000 ft – lungs and hearts 3x larger than cattle.",
-        "Yak milk is rich in butterfat – churned into butter tea in Tibet.",
-        "Their dung is dried and burned as fuel in treeless Himalayan regions."
+        "They grunt instead of mooing; 'yak' mimics their guttural sounds.",
+        "Yak milk is rich in butterfat – churned into butter tea in Tibet."
       ],
       "images": [
         "https://images.pexels.com/photos/51952/cow-bull-horns-coat-51952.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -59,10 +45,10 @@
       "date": "09-02",
       "name": "yellowfin tuna",
       "facts": [
-        "Yellowfins maintain muscle temperature above water via specialized blood vessels.",
+        "They hunt in coordinated schools, herding prey toward the surface.",
         "Yellowfin tuna can reach 50 mph – among the fastest fish.",
         "Their fins glow yellow when excited – a display during feeding frenzies.",
-        "They hunt in coordinated schools, herding prey toward the surface."
+        "Yellowfins maintain muscle temperature above water via specialized blood vessels."
       ],
       "images": [
         "https://images.pexels.com/photos/6148937/pexels-photo-6148937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,10 +59,10 @@
       "date": "09-03",
       "name": "zebu",
       "facts": [
+        "They sweat insect-repellent oils and tolerate heat better than European cattle.",
         "Zebus have humps storing fat for drought survival – not water.",
         "Zebu are sacred in India – 330 million gods are said to live in each.",
-        "Their loose skin helps dissipate heat in tropical climates.",
-        "They sweat insect-repellent oils and tolerate heat better than European cattle."
+        "Their loose skin helps dissipate heat in tropical climates."
       ],
       "images": [
         "https://images.pexels.com/photos/32598323/pexels-photo-32598323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -87,8 +73,8 @@
       "date": "09-04",
       "name": "zonkey",
       "facts": [
-        "Zonkeys are zebra-donkey hybrids; stripes typically appear only on legs.",
         "Their bray combines zebra whinny and donkey 'hee-haw'.",
+        "Zonkeys are zebra-donkey hybrids; stripes typically appear only on legs.",
         "They inherit donkey calmness with zebra hardiness against diseases.",
         "Zonkeys are sterile due to mismatched chromosomes."
       ],
@@ -101,55 +87,69 @@
       "date": "09-05",
       "name": "aardvark",
       "facts": [
+        "Aardvarks can eat up to 50,000 ants and termites in a single night.",
         "Baby aardvarks are called cubs and stay with their mothers for about 6 months.",
         "They have incredibly strong claws that can dig through concrete.",
-        "Their name comes from Afrikaans meaning 'earth pig' though they're not related to pigs.",
-        "Aardvarks can eat up to 50,000 ants and termites in a single night."
+        "Their name comes from Afrikaans meaning 'earth pig' though they're not related to pigs."
       ],
       "images": [
         "https://images.pexels.com/photos/9335190/pexels-photo-9335190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/7445023/pexels-photo-7445023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "09-06",
+      "name": "alligator",
+      "facts": [
+        "They're one of the few animals that continue growing throughout their entire lives.",
+        "They can survive up to 2-3 years without eating in extreme conditions.",
+        "A mother alligator carries her babies to water in her mouth after they hatch.",
+        "Alligators can hold their breath underwater for up to 24 hours."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/769433/pexels-photo-769433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/2100047/pexels-photo-2100047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "swan",
+      "name": "vampire squid",
       "facts": [
-        "Swans are among the largest flying birds, with some species weighing over 30 pounds.",
-        "They mate for life and are known for their graceful courtship displays, including synchronized swimming.",
-        "Swans can be aggressive when defending their nests, using their strong wings to strike intruders.",
-        "The mute swan is not actually mute; it produces a variety of hisses and grunts."
+        "The vampire squid is a cephalopod living in the deep ocean, known for its red eyes and ear-like fins.",
+        "It can invert its cloak outward, revealing spines, which makes it look more menacing.",
+        "Unlike other cephalopods, the vampire squid does not eject ink; instead, it releases bioluminescent mucus to stun predators.",
+        "It feeds on 'marine snow' - falling particles of organic matter."
       ],
       "images": [
-        "https://images.pexels.com/photos/59816/swan-bird-nature-water-bird-59816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/132479/pexels-photo-132479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/32644986/pexels-photo-32644986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/32640371/pexels-photo-32640371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "hippopotamus",
+      "name": "white rhinoceros",
       "facts": [
-        "Their name comes from the Greek words for 'river horse.'",
-        "Hippos are responsible for more human deaths in Africa than lions or crocodiles.",
-        "Hippopotamuses are more closely related to whales and dolphins than to other land mammals.",
-        "They can hold their breath underwater for up to 5 minutes."
+        "They are social animals, living in small groups, often with a female and her offspring.",
+        "White rhinoceroses are the second largest land mammals, known for their wide, 'square' lip, adapted for grazing on grass.",
+        "White rhinos are endangered mainly due to poaching, but conservation programs have helped rebuild the population.",
+        "Their name 'white' comes from the Dutch word 'weit,' meaning 'wide,' referring to the shape of their lip, not the color."
       ],
       "images": [
-        "https://images.pexels.com/photos/667201/pexels-photo-667201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/68663/river-horse-hippopotamus-hippo-animal-68663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/32586061/pexels-photo-32586061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/30705488/pexels-photo-30705488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "perch",
+      "name": "binturong",
       "facts": [
-        "Perch have spiny dorsal fins that help protect them from predators.",
-        "They are schooling fish and often hunt in coordinated groups.",
-        "They are popular game fish and are found in freshwater lakes and rivers.",
-        "Perch can change color slightly to blend in with their surroundings."
+        "Binturongs, also known as bearcats, are mammals from Southeast Asia that smell like buttery popcorn.",
+        "They have prehensile tails that serve as a 'fifth limb' for moving through trees.",
+        "They are nocturnal and omnivorous, feeding on fruits, small mammals, birds, and eggs.",
+        "Their fur is coarse and dark, and long whiskers help them navigate in the dark."
       ],
       "images": [
-        "https://images.pexels.com/photos/32661795/pexels-photo-32661795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/32657842/pexels-photo-32657842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/7723183/pexels-photo-7723183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/1231708/pexels-photo-1231708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
