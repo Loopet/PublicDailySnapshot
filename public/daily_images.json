@@ -1,39 +1,25 @@
 {
   "animalOfTheDay": {
-    "name": "alligator",
+    "name": "anteater",
     "facts": [
-      "They can survive up to 2-3 years without eating in extreme conditions.",
-      "They're one of the few animals that continue growing throughout their entire lives.",
-      "Alligators can hold their breath underwater for up to 24 hours.",
-      "A mother alligator carries her babies to water in her mouth after they hatch."
+      "Giant anteaters can consume up to 30,000 ants and termites per day.",
+      "They have no teeth but use their sticky 2-foot-long tongues to catch prey.",
+      "Their sense of smell is 40 times stronger than humans.",
+      "Baby anteaters ride on their mother's back for up to 10 months."
     ],
     "images": [
-      "https://images.pexels.com/photos/769433/pexels-photo-769433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/2100047/pexels-photo-2100047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/2575701/pexels-photo-2575701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/982186/pexels-photo-982186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "08-31",
-      "name": "wren",
-      "facts": [
-        "Wrens roost communally in winter; 60+ birds huddle in nest boxes.",
-        "Eurasian wrens build dome-shaped nests with side entrances – males build multiple for females to choose.",
-        "The tiny winter wren weighs less than a nickel but sings loudly.",
-        "They sing at 10 notes/second – 10x faster than human speech."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/432991/pexels-photo-432991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/26708305/pexels-photo-26708305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "09-01",
       "name": "yak",
       "facts": [
-        "Their dung is dried and burned as fuel in treeless Himalayan regions.",
         "Yaks survive at 20,000 ft – lungs and hearts 3x larger than cattle.",
         "They grunt instead of mooing; 'yak' mimics their guttural sounds.",
+        "Their dung is dried and burned as fuel in treeless Himalayan regions.",
         "Yak milk is rich in butterfat – churned into butter tea in Tibet."
       ],
       "images": [
@@ -46,9 +32,9 @@
       "name": "yellowfin tuna",
       "facts": [
         "They hunt in coordinated schools, herding prey toward the surface.",
-        "Yellowfin tuna can reach 50 mph – among the fastest fish.",
         "Their fins glow yellow when excited – a display during feeding frenzies.",
-        "Yellowfins maintain muscle temperature above water via specialized blood vessels."
+        "Yellowfins maintain muscle temperature above water via specialized blood vessels.",
+        "Yellowfin tuna can reach 50 mph – among the fastest fish."
       ],
       "images": [
         "https://images.pexels.com/photos/6148937/pexels-photo-6148937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -59,10 +45,10 @@
       "date": "09-03",
       "name": "zebu",
       "facts": [
-        "They sweat insect-repellent oils and tolerate heat better than European cattle.",
+        "Their loose skin helps dissipate heat in tropical climates.",
         "Zebus have humps storing fat for drought survival – not water.",
         "Zebu are sacred in India – 330 million gods are said to live in each.",
-        "Their loose skin helps dissipate heat in tropical climates."
+        "They sweat insect-repellent oils and tolerate heat better than European cattle."
       ],
       "images": [
         "https://images.pexels.com/photos/32598323/pexels-photo-32598323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -74,9 +60,9 @@
       "name": "zonkey",
       "facts": [
         "Their bray combines zebra whinny and donkey 'hee-haw'.",
-        "Zonkeys are zebra-donkey hybrids; stripes typically appear only on legs.",
+        "Zonkeys are sterile due to mismatched chromosomes.",
         "They inherit donkey calmness with zebra hardiness against diseases.",
-        "Zonkeys are sterile due to mismatched chromosomes."
+        "Zonkeys are zebra-donkey hybrids; stripes typically appear only on legs."
       ],
       "images": [
         "https://images.pexels.com/photos/4766707/pexels-photo-4766707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -88,9 +74,9 @@
       "name": "aardvark",
       "facts": [
         "Aardvarks can eat up to 50,000 ants and termites in a single night.",
-        "Baby aardvarks are called cubs and stay with their mothers for about 6 months.",
+        "Their name comes from Afrikaans meaning 'earth pig' though they're not related to pigs.",
         "They have incredibly strong claws that can dig through concrete.",
-        "Their name comes from Afrikaans meaning 'earth pig' though they're not related to pigs."
+        "Baby aardvarks are called cubs and stay with their mothers for about 6 months."
       ],
       "images": [
         "https://images.pexels.com/photos/9335190/pexels-photo-9335190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -101,55 +87,66 @@
       "date": "09-06",
       "name": "alligator",
       "facts": [
+        "A mother alligator carries her babies to water in her mouth after they hatch.",
         "They're one of the few animals that continue growing throughout their entire lives.",
         "They can survive up to 2-3 years without eating in extreme conditions.",
-        "A mother alligator carries her babies to water in her mouth after they hatch.",
         "Alligators can hold their breath underwater for up to 24 hours."
       ],
       "images": [
         "https://images.pexels.com/photos/769433/pexels-photo-769433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/2100047/pexels-photo-2100047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "09-07",
+      "name": "anteater",
+      "facts": [
+        "Giant anteaters can consume up to 30,000 ants and termites per day.",
+        "Baby anteaters ride on their mother's back for up to 10 months.",
+        "Their sense of smell is 40 times stronger than humans.",
+        "They have no teeth but use their sticky 2-foot-long tongues to catch prey."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/2575701/pexels-photo-2575701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/982186/pexels-photo-982186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "vampire squid",
+      "name": "sea turtle",
       "facts": [
-        "The vampire squid is a cephalopod living in the deep ocean, known for its red eyes and ear-like fins.",
-        "It can invert its cloak outward, revealing spines, which makes it look more menacing.",
-        "Unlike other cephalopods, the vampire squid does not eject ink; instead, it releases bioluminescent mucus to stun predators.",
-        "It feeds on 'marine snow' - falling particles of organic matter."
+        "Sea turtles can migrate thousands of miles between feeding and nesting grounds.",
+        "They return to the same beach where they were born to lay their eggs.",
+        "The temperature of the nest determines the gender of the hatchlings.",
+        "Leatherback sea turtles can dive deeper than 1,000 meters (3,280 feet)."
       ],
       "images": [
-        "https://images.pexels.com/photos/32644986/pexels-photo-32644986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/32640371/pexels-photo-32640371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/1618606/pexels-photo-1618606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/847393/pexels-photo-847393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "white rhinoceros",
+      "name": "fennec fox",
       "facts": [
-        "They are social animals, living in small groups, often with a female and her offspring.",
-        "White rhinoceroses are the second largest land mammals, known for their wide, 'square' lip, adapted for grazing on grass.",
-        "White rhinos are endangered mainly due to poaching, but conservation programs have helped rebuild the population.",
-        "Their name 'white' comes from the Dutch word 'weit,' meaning 'wide,' referring to the shape of their lip, not the color."
+        "No facts available."
       ],
       "images": [
-        "https://images.pexels.com/photos/32586061/pexels-photo-32586061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/30705488/pexels-photo-30705488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/1821688/pexels-photo-1821688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/308834/pexels-photo-308834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "binturong",
+      "name": "squirrel monkey",
       "facts": [
-        "Binturongs, also known as bearcats, are mammals from Southeast Asia that smell like buttery popcorn.",
-        "They have prehensile tails that serve as a 'fifth limb' for moving through trees.",
-        "They are nocturnal and omnivorous, feeding on fruits, small mammals, birds, and eggs.",
-        "Their fur is coarse and dark, and long whiskers help them navigate in the dark."
+        "Squirrel monkeys are small, agile monkeys from Central and South America, known for their white 'mask' around their eyes.",
+        "They feed on insects, fruits, nuts, and bird eggs.",
+        "They live in large social groups, numbering up to 500 individuals, and are very active during the day.",
+        "They have very long tails that help them maintain balance, but they are not prehensile."
       ],
       "images": [
-        "https://images.pexels.com/photos/7723183/pexels-photo-7723183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/1231708/pexels-photo-1231708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/47074/squirrel-monkey-monkey-climb-feeding-47074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/97827/pexels-photo-97827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
