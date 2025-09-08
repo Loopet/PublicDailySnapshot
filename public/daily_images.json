@@ -1,40 +1,26 @@
 {
   "animalOfTheDay": {
-    "name": "anteater",
+    "name": "ape",
     "facts": [
-      "Giant anteaters can consume up to 30,000 ants and termites per day.",
-      "They have no teeth but use their sticky 2-foot-long tongues to catch prey.",
-      "Their sense of smell is 40 times stronger than humans.",
-      "Baby anteaters ride on their mother's back for up to 10 months."
+      "They share 96-99% of their DNA with humans depending on the species.",
+      "Great apes can learn and use sign language to communicate with humans.",
+      "They recognize themselves in mirrors, showing self-awareness.",
+      "Apes make tools and pass knowledge down through generations."
     ],
     "images": [
-      "https://images.pexels.com/photos/2575701/pexels-photo-2575701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/982186/pexels-photo-982186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/605223/pexels-photo-605223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/355669/pexels-photo-355669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "calendar": [
     {
-      "date": "09-01",
-      "name": "yak",
-      "facts": [
-        "Yaks survive at 20,000 ft – lungs and hearts 3x larger than cattle.",
-        "They grunt instead of mooing; 'yak' mimics their guttural sounds.",
-        "Their dung is dried and burned as fuel in treeless Himalayan regions.",
-        "Yak milk is rich in butterfat – churned into butter tea in Tibet."
-      ],
-      "images": [
-        "https://images.pexels.com/photos/51952/cow-bull-horns-coat-51952.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/1758463/pexels-photo-1758463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      ]
-    },
-    {
       "date": "09-02",
       "name": "yellowfin tuna",
       "facts": [
-        "They hunt in coordinated schools, herding prey toward the surface.",
-        "Their fins glow yellow when excited – a display during feeding frenzies.",
         "Yellowfins maintain muscle temperature above water via specialized blood vessels.",
-        "Yellowfin tuna can reach 50 mph – among the fastest fish."
+        "They hunt in coordinated schools, herding prey toward the surface.",
+        "Yellowfin tuna can reach 50 mph – among the fastest fish.",
+        "Their fins glow yellow when excited – a display during feeding frenzies."
       ],
       "images": [
         "https://images.pexels.com/photos/6148937/pexels-photo-6148937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -45,10 +31,10 @@
       "date": "09-03",
       "name": "zebu",
       "facts": [
-        "Their loose skin helps dissipate heat in tropical climates.",
         "Zebus have humps storing fat for drought survival – not water.",
+        "They sweat insect-repellent oils and tolerate heat better than European cattle.",
         "Zebu are sacred in India – 330 million gods are said to live in each.",
-        "They sweat insect-repellent oils and tolerate heat better than European cattle."
+        "Their loose skin helps dissipate heat in tropical climates."
       ],
       "images": [
         "https://images.pexels.com/photos/32598323/pexels-photo-32598323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -59,10 +45,10 @@
       "date": "09-04",
       "name": "zonkey",
       "facts": [
-        "Their bray combines zebra whinny and donkey 'hee-haw'.",
-        "Zonkeys are sterile due to mismatched chromosomes.",
+        "Zonkeys are zebra-donkey hybrids; stripes typically appear only on legs.",
         "They inherit donkey calmness with zebra hardiness against diseases.",
-        "Zonkeys are zebra-donkey hybrids; stripes typically appear only on legs."
+        "Their bray combines zebra whinny and donkey 'hee-haw'.",
+        "Zonkeys are sterile due to mismatched chromosomes."
       ],
       "images": [
         "https://images.pexels.com/photos/4766707/pexels-photo-4766707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -73,9 +59,9 @@
       "date": "09-05",
       "name": "aardvark",
       "facts": [
-        "Aardvarks can eat up to 50,000 ants and termites in a single night.",
         "Their name comes from Afrikaans meaning 'earth pig' though they're not related to pigs.",
         "They have incredibly strong claws that can dig through concrete.",
+        "Aardvarks can eat up to 50,000 ants and termites in a single night.",
         "Baby aardvarks are called cubs and stay with their mothers for about 6 months."
       ],
       "images": [
@@ -102,51 +88,68 @@
       "name": "anteater",
       "facts": [
         "Giant anteaters can consume up to 30,000 ants and termites per day.",
-        "Baby anteaters ride on their mother's back for up to 10 months.",
+        "They have no teeth but use their sticky 2-foot-long tongues to catch prey.",
         "Their sense of smell is 40 times stronger than humans.",
-        "They have no teeth but use their sticky 2-foot-long tongues to catch prey."
+        "Baby anteaters ride on their mother's back for up to 10 months."
       ],
       "images": [
         "https://images.pexels.com/photos/2575701/pexels-photo-2575701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "https://images.pexels.com/photos/982186/pexels-photo-982186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
+    },
+    {
+      "date": "09-08",
+      "name": "ape",
+      "facts": [
+        "They recognize themselves in mirrors, showing self-awareness.",
+        "They share 96-99% of their DNA with humans depending on the species.",
+        "Apes make tools and pass knowledge down through generations.",
+        "Great apes can learn and use sign language to communicate with humans."
+      ],
+      "images": [
+        "https://images.pexels.com/photos/605223/pexels-photo-605223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/355669/pexels-photo-355669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      ]
     }
   ],
   "randomAnimals": [
     {
-      "name": "sea turtle",
+      "name": "narwhal",
       "facts": [
-        "Sea turtles can migrate thousands of miles between feeding and nesting grounds.",
-        "They return to the same beach where they were born to lay their eggs.",
-        "The temperature of the nest determines the gender of the hatchlings.",
-        "Leatherback sea turtles can dive deeper than 1,000 meters (3,280 feet)."
+        "Narwhals are known as the 'unicorns of the sea' due to their long, spiral tusks.",
+        "The tusk is actually an elongated tooth with up to 10 million nerve endings.",
+        "Narwhals can dive up to 5,000 feet and hold their breath for 25 minutes.",
+        "They live only in Arctic waters and are rarely seen in captivity."
       ],
       "images": [
-        "https://images.pexels.com/photos/1618606/pexels-photo-1618606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/847393/pexels-photo-847393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/8923984/pexels-photo-8923984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/32432599/pexels-photo-32432599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "fennec fox",
+      "name": "agama",
       "facts": [
-        "No facts available."
+        "They are very fast and agile lizards that can climb rocks and trees.",
+        "Agamas are lizards found in Africa, Asia, and Europe, known for their ability to change color depending on their mood and temperature.",
+        "Male agamas can take on bright colors during the breeding season to attract females.",
+        "They live in various environments, from deserts to forests, and are omnivorous."
       ],
       "images": [
-        "https://images.pexels.com/photos/1821688/pexels-photo-1821688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/308834/pexels-photo-308834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/32614556/pexels-photo-32614556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/32615044/pexels-photo-32615044.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     },
     {
-      "name": "squirrel monkey",
+      "name": "wasp",
       "facts": [
-        "Squirrel monkeys are small, agile monkeys from Central and South America, known for their white 'mask' around their eyes.",
-        "They feed on insects, fruits, nuts, and bird eggs.",
-        "They live in large social groups, numbering up to 500 individuals, and are very active during the day.",
-        "They have very long tails that help them maintain balance, but they are not prehensile."
+        "Parasitoid wasps lay eggs in hosts; larvae eat prey alive while avoiding vital organs.",
+        "Fig wasps co-evolved with figs – each fig species has its own wasp pollinator.",
+        "Mud daubers build tubular nests with paralyzed spiders as living food for larvae.",
+        "Wasps produce paper by chewing wood fibers mixed with saliva."
       ],
       "images": [
-        "https://images.pexels.com/photos/47074/squirrel-monkey-monkey-climb-feeding-47074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "https://images.pexels.com/photos/97827/pexels-photo-97827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "https://images.pexels.com/photos/158313/wasp-insect-macro-close-158313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "https://images.pexels.com/photos/928966/pexels-photo-928966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       ]
     }
   ]
